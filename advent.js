@@ -160,12 +160,12 @@ function initSnow() {
 		})
 	}
 
-	requestAnimationFrame(() => draw(ctx));
+	requestAnimationFrame((dt) => draw(ctx, dt));
 }
 
 
 // Lets draw the flakes
-function draw(ctx)
+function draw(ctx, dt)
 {
     const W = ctx.canvas.clientWidth;
     const H = ctx.canvas.clientHeight;
@@ -180,8 +180,8 @@ function draw(ctx)
         ctx.arc(p.x, p.y, p.r, 0, Math.PI*2, true);
     }
     ctx.fill();
-    update(W, H);
-    requestAnimationFrame(() => draw(ctx));
+    update(W, H, dt);
+    // requestAnimationFrame((dt) => draw(ctx, dt));
 }
 
 // Function to move the snowflakes

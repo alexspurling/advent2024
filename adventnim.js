@@ -2,6 +2,82 @@
 var framePtr = null;
 var excHandler = 0;
 var lastJSError = null;
+var NTI1476395014 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1476395372 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1476395016 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1476395015 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1258291427 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI520094022 = {size: 0, kind: 20, base: null, node: null, finalizer: null};
+var NTI520094021 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI520094019 = {size: 0, kind: 20, base: null, node: null, finalizer: null};
+var NTI520094018 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI956301719 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI956301317 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI956301319 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI956301318 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI33555173 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI134217746 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI1291846322 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1258291367 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1258291364 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1258291361 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519055 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1090519046 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519053 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519083 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1090519082 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519074 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1006632963 = {size: 0,kind: 31,base: null,node: null,finalizer: null};
+var NTI1090519073 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519070 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1090519067 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519049 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
+var NTI1090519061 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1090519051 = {size: 0,kind: 33,base: null,node: null,finalizer: null};
+var NTI33554466 = {size: 0,kind: 1,base: null,node: null,finalizer: null};
+var NTI1090519060 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI704643089 = {size: 0,kind: 34,base: null,node: null,finalizer: null};
+var NTI1090519050 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
+var NTI1090519052 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519057 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1090519048 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1275068996 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1090519044 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
+var NTI1090519045 = {size: 0, kind: 19, base: null, node: null, finalizer: null};
+var NTI1426063364 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1275069348 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275069347 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275069346 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1275069343 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI1275069468 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1275069470 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275069469 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1442840595 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI1442840590 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI1442840581 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI33554438 = {size: 0,kind: 34,base: null,node: null,finalizer: null};
+var NTI1140850748 = {size: 0, kind: 16, base: null, node: null, finalizer: null};
+var NTI1442840610 = {size: 0, kind: 19, base: null, node: null, finalizer: null};
+var NTI134217742 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI1275068454 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275068430 = {size: 0,kind: 41,base: null,node: null,finalizer: null};
+var NTI1275068453 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI33555150 = {size: 0,kind: 31,base: null,node: null,finalizer: null};
+var NTI33555145 = {size: 0, kind: 20, base: null, node: null, finalizer: null};
+var NTI1275068449 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275068448 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI33554437 = {size: 0,kind: 33,base: null,node: null,finalizer: null};
+var NTI1090519372 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI721420312 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1275068447 = {size: 0,kind: 34,base: null,node: null,finalizer: null};
+var NTI1275069340 = {size: 0,kind: 33,base: null,node: null,finalizer: null};
+var NTI1275069342 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI1275069395 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275068985 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
+var NTI973079149 = {size: 0, kind: 19, base: null, node: null, finalizer: null};
+var NTI134217745 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI33554441 = {size: 0,kind: 41,base: null,node: null,finalizer: null};
+var NTI1174405642 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI134217749 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI134217751 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI33554435 = {size: 0,kind: 31,base: null,node: null,finalizer: null};
@@ -45,6 +121,238 @@ NTI134217751.base = NTI33555172;
 var NNI134217749 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
 NTI134217749.node = NNI134217749;
 NTI134217749.base = NTI33555172;
+var NNI1174405642 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a", len: 0, typ: NTI33554441, name: "a", sons: null}, 
+{kind: 1, offset: "b", len: 0, typ: NTI33554441, name: "b", sons: null}]};
+NTI1174405642.node = NNI1174405642;
+var NNI134217745 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI134217745.node = NNI134217745;
+NTI134217745.base = NTI33555172;
+var NNI1275068985 = {kind: 2, offset: 0, typ: null, name: null, len: 8, sons: {"0": {kind: 1, offset: 0, typ: NTI1275068985, name: "mfShortestMatch", len: 0, sons: null}, 
+"1": {kind: 1, offset: 1, typ: NTI1275068985, name: "mfNoCaptures", len: 0, sons: null}, 
+"2": {kind: 1, offset: 2, typ: NTI1275068985, name: "mfFindMatch", len: 0, sons: null}, 
+"3": {kind: 1, offset: 3, typ: NTI1275068985, name: "mfFindMatchOpt", len: 0, sons: null}, 
+"4": {kind: 1, offset: 4, typ: NTI1275068985, name: "mfAnchored", len: 0, sons: null}, 
+"5": {kind: 1, offset: 5, typ: NTI1275068985, name: "mfBwMatch", len: 0, sons: null}, 
+"6": {kind: 1, offset: 6, typ: NTI1275068985, name: "mfReverseCapts", len: 0, sons: null}, 
+"7": {kind: 1, offset: 7, typ: NTI1275068985, name: "mfBytesInput", len: 0, sons: null}}};
+NTI1275068985.node = NNI1275068985;
+NTI973079149.base = NTI1275068985;
+var NNI721420312 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a", len: 0, typ: NTI33554435, name: "a", sons: null}, 
+{kind: 1, offset: "b", len: 0, typ: NTI33554435, name: "b", sons: null}]};
+NTI721420312.node = NNI721420312;
+var NNI1275069342 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI1275069340, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI1275068447, name: "Field1", sons: null}, 
+{kind: 1, offset: "Field2", len: 0, typ: NTI721420312, name: "Field2", sons: null}]};
+NTI1275069342.node = NNI1275069342;
+NTI1275069395.base = NTI1275069342;
+NTI1090519372.base = NTI33554437;
+NTI1275068449.base = NTI721420312;
+NTI33555145.base = NTI33555150;
+NTI1275068453.base = NTI1275068430;
+NTI1275068454.base = NTI33554437;
+var NNI1275068448 = {kind: 2, len: 7, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "s", len: 0, typ: NTI1275068449, name: "s", sons: null}, 
+{kind: 1, offset: "groupsLen", len: 0, typ: NTI33555145, name: "groupsLen", sons: null}, 
+{kind: 1, offset: "blockSize", len: 0, typ: NTI33555145, name: "blockSize", sons: null}, 
+{kind: 1, offset: "blockSizeL2", len: 0, typ: NTI33555145, name: "blockSizeL2", sons: null}, 
+{kind: 1, offset: "states", len: 0, typ: NTI1275068453, name: "states", sons: null}, 
+{kind: 1, offset: "free", len: 0, typ: NTI1275068454, name: "free", sons: null}, 
+{kind: 1, offset: "freezeId", len: 0, typ: NTI1275068430, name: "freezeId", sons: null}]};
+NTI1275068448.node = NNI1275068448;
+var NNI134217742 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI134217742.node = NNI134217742;
+NTI134217742.base = NTI134217741;
+NTI1442840610.base = NTI1275068985;
+NTI1140850748.base = NTI33554438;
+NTI1275069347.base = NTI1275069342;
+NTI1275069348.base = NTI33554437;
+var NNI1275069346 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "sx", len: 0, typ: NTI1275069347, name: "sx", sons: null}, 
+{kind: 1, offset: "ss", len: 0, typ: NTI1275069348, name: "ss", sons: null}, 
+{kind: 1, offset: "si", len: 0, typ: NTI33554437, name: "si", sons: null}]};
+NTI1275069346.node = NNI1275069346;
+NTI1275069343.base = NTI1275069346;
+var NNI1275069468 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a", len: 0, typ: NTI1275069343, name: "a", sons: null}, 
+{kind: 1, offset: "b", len: 0, typ: NTI1275069343, name: "b", sons: null}]};
+NTI1275069468.node = NNI1275069468;
+NTI1275069470.base = NTI1275069468;
+var NNI1275069469 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "s", len: 0, typ: NTI1275069470, name: "s", sons: null}, 
+{kind: 1, offset: "i", len: 0, typ: NTI33554435, name: "i", sons: null}]};
+NTI1275069469.node = NNI1275069469;
+var NNI1442840581 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "ahead", len: 0, typ: NTI1442840590, name: "ahead", sons: null}, 
+{kind: 1, offset: "behind", len: 0, typ: NTI1442840595, name: "behind", sons: null}, 
+{kind: 1, offset: "smL", len: 0, typ: NTI1275069469, name: "smL", sons: null}]};
+NTI1442840581.node = NNI1442840581;
+var NNI1426063364 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI1275068447, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI721420312, name: "Field1", sons: null}]};
+NTI1426063364.node = NNI1426063364;
+var NNI1090519044 = {kind: 2, offset: 0, typ: null, name: null, len: 7, sons: {"0": {kind: 1, offset: 0, typ: NTI1090519044, name: "regexArbitraryBytes", len: 0, sons: null}, 
+"1": {kind: 1, offset: 1, typ: NTI1090519044, name: "regexAscii", len: 0, sons: null}, 
+"2": {kind: 1, offset: 2, typ: NTI1090519044, name: "regexCaseless", len: 0, sons: null}, 
+"3": {kind: 1, offset: 3, typ: NTI1090519044, name: "regexDotAll", len: 0, sons: null}, 
+"4": {kind: 1, offset: 4, typ: NTI1090519044, name: "regexExtended", len: 0, sons: null}, 
+"5": {kind: 1, offset: 5, typ: NTI1090519044, name: "regexMultiline", len: 0, sons: null}, 
+"6": {kind: 1, offset: 6, typ: NTI1090519044, name: "regexUngreedy", len: 0, sons: null}}};
+NTI1090519044.node = NNI1090519044;
+NTI1090519045.base = NTI1090519044;
+var NNI1090519050 = {kind: 2, offset: 0, typ: null, name: null, len: 45, sons: {"0": {kind: 1, offset: 0, typ: NTI1090519050, name: "reChar", len: 0, sons: null}, 
+"1": {kind: 1, offset: 1, typ: NTI1090519050, name: "reCharCi", len: 0, sons: null}, 
+"2": {kind: 1, offset: 2, typ: NTI1090519050, name: "reJoiner", len: 0, sons: null}, 
+"3": {kind: 1, offset: 3, typ: NTI1090519050, name: "reGroupStart", len: 0, sons: null}, 
+"4": {kind: 1, offset: 4, typ: NTI1090519050, name: "reGroupEnd", len: 0, sons: null}, 
+"5": {kind: 1, offset: 5, typ: NTI1090519050, name: "reFlags", len: 0, sons: null}, 
+"6": {kind: 1, offset: 6, typ: NTI1090519050, name: "reOr", len: 0, sons: null}, 
+"7": {kind: 1, offset: 7, typ: NTI1090519050, name: "reZeroOrMore", len: 0, sons: null}, 
+"8": {kind: 1, offset: 8, typ: NTI1090519050, name: "reOneOrMore", len: 0, sons: null}, 
+"9": {kind: 1, offset: 9, typ: NTI1090519050, name: "reZeroOrOne", len: 0, sons: null}, 
+"10": {kind: 1, offset: 10, typ: NTI1090519050, name: "reRepRange", len: 0, sons: null}, 
+"11": {kind: 1, offset: 11, typ: NTI1090519050, name: "reStartSym", len: 0, sons: null}, 
+"12": {kind: 1, offset: 12, typ: NTI1090519050, name: "reEndSym", len: 0, sons: null}, 
+"13": {kind: 1, offset: 13, typ: NTI1090519050, name: "reStartSymML", len: 0, sons: null}, 
+"14": {kind: 1, offset: 14, typ: NTI1090519050, name: "reEndSymML", len: 0, sons: null}, 
+"15": {kind: 1, offset: 15, typ: NTI1090519050, name: "reStart", len: 0, sons: null}, 
+"16": {kind: 1, offset: 16, typ: NTI1090519050, name: "reEnd", len: 0, sons: null}, 
+"17": {kind: 1, offset: 17, typ: NTI1090519050, name: "reWordBoundary", len: 0, sons: null}, 
+"18": {kind: 1, offset: 18, typ: NTI1090519050, name: "reNotWordBoundary", len: 0, sons: null}, 
+"19": {kind: 1, offset: 19, typ: NTI1090519050, name: "reWord", len: 0, sons: null}, 
+"20": {kind: 1, offset: 20, typ: NTI1090519050, name: "reDigit", len: 0, sons: null}, 
+"21": {kind: 1, offset: 21, typ: NTI1090519050, name: "reWhiteSpace", len: 0, sons: null}, 
+"22": {kind: 1, offset: 22, typ: NTI1090519050, name: "reUCC", len: 0, sons: null}, 
+"23": {kind: 1, offset: 23, typ: NTI1090519050, name: "reNotAlphaNum", len: 0, sons: null}, 
+"24": {kind: 1, offset: 24, typ: NTI1090519050, name: "reNotDigit", len: 0, sons: null}, 
+"25": {kind: 1, offset: 25, typ: NTI1090519050, name: "reNotWhiteSpace", len: 0, sons: null}, 
+"26": {kind: 1, offset: 26, typ: NTI1090519050, name: "reNotUCC", len: 0, sons: null}, 
+"27": {kind: 1, offset: 27, typ: NTI1090519050, name: "reAny", len: 0, sons: null}, 
+"28": {kind: 1, offset: 28, typ: NTI1090519050, name: "reAnyNl", len: 0, sons: null}, 
+"29": {kind: 1, offset: 29, typ: NTI1090519050, name: "reWordBoundaryAscii", len: 0, sons: null}, 
+"30": {kind: 1, offset: 30, typ: NTI1090519050, name: "reNotWordBoundaryAscii", len: 0, sons: null}, 
+"31": {kind: 1, offset: 31, typ: NTI1090519050, name: "reWordAscii", len: 0, sons: null}, 
+"32": {kind: 1, offset: 32, typ: NTI1090519050, name: "reDigitAscii", len: 0, sons: null}, 
+"33": {kind: 1, offset: 33, typ: NTI1090519050, name: "reWhiteSpaceAscii", len: 0, sons: null}, 
+"34": {kind: 1, offset: 34, typ: NTI1090519050, name: "reNotAlphaNumAscii", len: 0, sons: null}, 
+"35": {kind: 1, offset: 35, typ: NTI1090519050, name: "reNotDigitAscii", len: 0, sons: null}, 
+"36": {kind: 1, offset: 36, typ: NTI1090519050, name: "reNotWhiteSpaceAscii", len: 0, sons: null}, 
+"37": {kind: 1, offset: 37, typ: NTI1090519050, name: "reInSet", len: 0, sons: null}, 
+"38": {kind: 1, offset: 38, typ: NTI1090519050, name: "reNotSet", len: 0, sons: null}, 
+"39": {kind: 1, offset: 39, typ: NTI1090519050, name: "reLookahead", len: 0, sons: null}, 
+"40": {kind: 1, offset: 40, typ: NTI1090519050, name: "reLookbehind", len: 0, sons: null}, 
+"41": {kind: 1, offset: 41, typ: NTI1090519050, name: "reNotLookahead", len: 0, sons: null}, 
+"42": {kind: 1, offset: 42, typ: NTI1090519050, name: "reNotLookbehind", len: 0, sons: null}, 
+"43": {kind: 1, offset: 43, typ: NTI1090519050, name: "reSkip", len: 0, sons: null}, 
+"44": {kind: 1, offset: 44, typ: NTI1090519050, name: "reEoe", len: 0, sons: null}}};
+NTI1090519050.node = NNI1090519050;
+NTI1090519060.base = NTI33554437;
+var NNI1090519049 = {kind: 2, offset: 0, typ: null, name: null, len: 12, sons: {"0": {kind: 1, offset: 0, typ: NTI1090519049, name: "flagCaseInsensitive", len: 0, sons: null}, 
+"1": {kind: 1, offset: 1, typ: NTI1090519049, name: "flagNotCaseInsensitive", len: 0, sons: null}, 
+"2": {kind: 1, offset: 2, typ: NTI1090519049, name: "flagMultiLine", len: 0, sons: null}, 
+"3": {kind: 1, offset: 3, typ: NTI1090519049, name: "flagNotMultiLine", len: 0, sons: null}, 
+"4": {kind: 1, offset: 4, typ: NTI1090519049, name: "flagAnyMatchNewLine", len: 0, sons: null}, 
+"5": {kind: 1, offset: 5, typ: NTI1090519049, name: "flagNotAnyMatchNewLine", len: 0, sons: null}, 
+"6": {kind: 1, offset: 6, typ: NTI1090519049, name: "flagUnGreedy", len: 0, sons: null}, 
+"7": {kind: 1, offset: 7, typ: NTI1090519049, name: "flagNotUnGreedy", len: 0, sons: null}, 
+"8": {kind: 1, offset: 8, typ: NTI1090519049, name: "flagUnicode", len: 0, sons: null}, 
+"9": {kind: 1, offset: 9, typ: NTI1090519049, name: "flagNotUnicode", len: 0, sons: null}, 
+"10": {kind: 1, offset: 10, typ: NTI1090519049, name: "flagVerbose", len: 0, sons: null}, 
+"11": {kind: 1, offset: 11, typ: NTI1090519049, name: "flagNotVerbose", len: 0, sons: null}}};
+NTI1090519049.node = NNI1090519049;
+NTI1090519061.base = NTI1090519049;
+var NNI1090519073 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI1006632963, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI704643089, name: "Field1", sons: null}]};
+NTI1090519073.node = NNI1090519073;
+NTI1090519070.base = NTI1090519073;
+var NNI1090519067 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "data", len: 0, typ: NTI1090519070, name: "data", sons: null}, 
+{kind: 1, offset: "counter", len: 0, typ: NTI33554435, name: "counter", sons: null}]};
+NTI1090519067.node = NNI1090519067;
+var NNI1090519082 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a", len: 0, typ: NTI704643089, name: "a", sons: null}, 
+{kind: 1, offset: "b", len: 0, typ: NTI704643089, name: "b", sons: null}]};
+NTI1090519082.node = NNI1090519082;
+NTI1090519074.base = NTI1090519082;
+NTI1090519083.base = NTI1090519052;
+NTI1090519055.base = NTI1090519052;
+var NNI1090519046 = {kind: 1, offset: "s", len: 0, typ: NTI1090519055, name: "s", sons: null};
+NTI1090519046.node = NNI1090519046;
+var NNI1090519053 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "nfa", len: 0, typ: NTI1090519048, name: "nfa", sons: null}, 
+{kind: 1, offset: "rpn", len: 0, typ: NTI1090519046, name: "rpn", sons: null}, 
+{kind: 1, offset: "reverseCapts", len: 0, typ: NTI33554466, name: "reverseCapts", sons: null}]};
+NTI1090519053.node = NNI1090519053;
+var NNI1090519052 = {kind: 2, len: 16, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "kind", len: 0, typ: NTI1090519050, name: "kind", sons: null}, 
+{kind: 1, offset: "cp", len: 0, typ: NTI704643089, name: "cp", sons: null}, 
+{kind: 1, offset: "next", len: 0, typ: NTI1090519060, name: "next", sons: null}, 
+{kind: 1, offset: "isGreedy", len: 0, typ: NTI33554466, name: "isGreedy", sons: null}, 
+{kind: 1, offset: "uid", len: 0, typ: NTI1090519051, name: "uid", sons: null}, 
+{kind: 1, offset: "idx", len: 0, typ: NTI33554437, name: "idx", sons: null}, 
+{kind: 1, offset: "isCapturing", len: 0, typ: NTI33554466, name: "isCapturing", sons: null}, 
+{kind: 1, offset: "name", len: 0, typ: NTI33554449, name: "name", sons: null}, 
+{kind: 1, offset: "flags", len: 0, typ: NTI1090519061, name: "flags", sons: null}, 
+{kind: 1, offset: "min", len: 0, typ: NTI33554437, name: "min", sons: null}, 
+{kind: 1, offset: "max", len: 0, typ: NTI33554437, name: "max", sons: null}, 
+{kind: 1, offset: "cps", len: 0, typ: NTI1090519067, name: "cps", sons: null}, 
+{kind: 1, offset: "ranges", len: 0, typ: NTI1090519074, name: "ranges", sons: null}, 
+{kind: 1, offset: "shorthands", len: 0, typ: NTI1090519083, name: "shorthands", sons: null}, 
+{kind: 1, offset: "cc", len: 0, typ: NTI33554438, name: "cc", sons: null}, 
+{kind: 1, offset: "subExp", len: 0, typ: NTI1090519053, name: "subExp", sons: null}]};
+NTI1090519052.node = NNI1090519052;
+NTI1090519057.base = NTI1090519052;
+var NNI1090519048 = {kind: 1, offset: "s", len: 0, typ: NTI1090519057, name: "s", sons: null};
+NTI1090519048.node = NNI1090519048;
+var NNI1258291367 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI1006632963, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI33554435, name: "Field1", sons: null}, 
+{kind: 1, offset: "Field2", len: 0, typ: NTI33554449, name: "Field2", sons: null}, 
+{kind: 1, offset: "Field3", len: 0, typ: NTI33554437, name: "Field3", sons: null}]};
+NTI1258291367.node = NNI1258291367;
+NTI1258291364.base = NTI1258291367;
+var NNI1258291361 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "data", len: 0, typ: NTI1258291364, name: "data", sons: null}, 
+{kind: 1, offset: "counter", len: 0, typ: NTI33554435, name: "counter", sons: null}, 
+{kind: 1, offset: "first", len: 0, typ: NTI33554435, name: "first", sons: null}, 
+{kind: 1, offset: "last", len: 0, typ: NTI33554435, name: "last", sons: null}]};
+NTI1258291361.node = NNI1258291361;
+var NNI1291846322 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "lit", len: 0, typ: NTI704643089, name: "lit", sons: null}, 
+{kind: 1, offset: "lits", len: 0, typ: NTI33554449, name: "lits", sons: null}, 
+{kind: 1, offset: "bytelits", len: 0, typ: NTI33554449, name: "bytelits", sons: null}, 
+{kind: 1, offset: "nfa", len: 0, typ: NTI1090519048, name: "nfa", sons: null}]};
+NTI1291846322.node = NNI1291846322;
+var NNI1275068996 = {kind: 2, len: 5, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "nfa", len: 0, typ: NTI1090519048, name: "nfa", sons: null}, 
+{kind: 1, offset: "groupsCount", len: 0, typ: NTI33554437, name: "groupsCount", sons: null}, 
+{kind: 1, offset: "namedGroups", len: 0, typ: NTI1258291361, name: "namedGroups", sons: null}, 
+{kind: 1, offset: "flags", len: 0, typ: NTI1090519045, name: "flags", sons: null}, 
+{kind: 1, offset: "litOpt", len: 0, typ: NTI1291846322, name: "litOpt", sons: null}]};
+NTI1275068996.node = NNI1275068996;
+var NNI134217746 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI134217746.node = NNI134217746;
+var NNI33555173 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI33555173.node = NNI33555173;
+NTI33555173.base = NTI33555171;
+NTI134217746.base = NTI33555173;
+NTI956301318.base = NTI33554435;
+NTI956301319.base = NTI33554435;
+var NNI956301317 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI956301318, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI956301319, name: "Field1", sons: null}]};
+NTI956301317.node = NNI956301317;
+var NNI956301719 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554435, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI33554435, name: "Field1", sons: null}]};
+NTI956301719.node = NNI956301719;
+NTI520094019.base = NTI33554435;
+var NNI520094018 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "HEX3Astate", len: 0, typ: NTI520094019, name: ":state", sons: null}, 
+{kind: 1, offset: "locations1", len: 0, typ: NTI956301317, name: "locations1", sons: null}]};
+NTI520094018.node = NNI520094018;
+NTI520094018.base = NTI33555167;
+NTI520094022.base = NTI33554435;
+var NNI520094021 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "HEX3Astate", len: 0, typ: NTI520094022, name: ":state", sons: null}, 
+{kind: 1, offset: "l1", len: 0, typ: NTI33554435, name: "l1", sons: null}]};
+NTI520094021.node = NNI520094021;
+NTI520094021.base = NTI33555167;
+NTI1258291427.base = NTI33554435;
+NTI1476395016.base = NTI33554435;
+NTI1476395015.base = NTI1476395016;
+NTI1476395014.base = NTI33554435;
+NTI1476395372.base = NTI1476395014;
+
+function mnewString(len_p0) {
+        var result = new Array(len_p0);
+    for (var i = 0; i < len_p0; i++) {result[i] = 0;}
+    return result;
+  
+
+  
+}
 
 function arrayConstr(len_p0, value_p1, typ_p2) {
         var result = new Array(len_p0);
@@ -172,51 +480,6 @@ function nimCopy(dest_p0, src_p1, ti_p2) {
 
 }
 
-function mnewString(len_p0) {
-        var result = new Array(len_p0);
-    for (var i = 0; i < len_p0; i++) {result[i] = 0;}
-    return result;
-  
-
-  
-}
-
-function chckRange(i_p0, a_p1, b_p2) {
-  var result_33557358 = 0;
-
-  BeforeRet: {
-    if (((a_p1 <= i_p0) && (i_p0 <= b_p2))) {
-    result_33557358 = i_p0;
-    break BeforeRet;
-    }
-    else {
-    raiseRangeError();
-    }
-    
-  };
-
-  return result_33557358;
-
-}
-
-function chckIndx(i_p0, a_p1, b_p2) {
-  var result_33557353 = 0;
-
-  BeforeRet: {
-    if (((a_p1 <= i_p0) && (i_p0 <= b_p2))) {
-    result_33557353 = i_p0;
-    break BeforeRet;
-    }
-    else {
-    raiseIndexError(i_p0, a_p1, b_p2);
-    }
-    
-  };
-
-  return result_33557353;
-
-}
-
 function cstrToNimstr(c_p0) {
       var ln = c_p0.length;
   var result = new Array(ln);
@@ -338,6 +601,121 @@ function addInt(a_p0, b_p1) {
   
 }
 
+function chckRange(i_p0, a_p1, b_p2) {
+  var result_33557358 = 0;
+
+  BeforeRet: {
+    if (((a_p1 <= i_p0) && (i_p0 <= b_p2))) {
+    result_33557358 = i_p0;
+    break BeforeRet;
+    }
+    else {
+    raiseRangeError();
+    }
+    
+  };
+
+  return result_33557358;
+
+}
+
+function chckIndx(i_p0, a_p1, b_p2) {
+  var result_33557353 = 0;
+
+  BeforeRet: {
+    if (((a_p1 <= i_p0) && (i_p0 <= b_p2))) {
+    result_33557353 = i_p0;
+    break BeforeRet;
+    }
+    else {
+    raiseIndexError(i_p0, a_p1, b_p2);
+    }
+    
+  };
+
+  return result_33557353;
+
+}
+
+function makeNimstrLit(c_p0) {
+      var result = [];
+  for (var i = 0; i < c_p0.length; ++i) {
+    result[i] = c_p0.charCodeAt(i);
+  }
+  return result;
+  
+
+  
+}
+var ConstSet2 = setConstr(13, 10);
+
+function nimMax(a_p0, b_p1) {
+    var Temporary1;
+
+  var result_33557145 = 0;
+
+  BeforeRet: {
+    if ((b_p1 <= a_p0)) {
+    Temporary1 = a_p0;
+    }
+    else {
+    Temporary1 = b_p1;
+    }
+    
+    result_33557145 = Temporary1;
+    break BeforeRet;
+  };
+
+  return result_33557145;
+
+}
+
+function subInt(a_p0, b_p1) {
+        var result = a_p0 - b_p1;
+    checkOverflowInt(result);
+    return result;
+  
+
+  
+}
+
+function nimMin(a_p0, b_p1) {
+    var Temporary1;
+
+  var result_33557141 = 0;
+
+  BeforeRet: {
+    if ((a_p0 <= b_p1)) {
+    Temporary1 = a_p0;
+    }
+    else {
+    Temporary1 = b_p1;
+    }
+    
+    result_33557141 = Temporary1;
+    break BeforeRet;
+  };
+
+  return result_33557141;
+
+}
+
+function eqStrings(a_p0, b_p1) {
+        if (a_p0 == b_p1) return true;
+    if (a_p0 === null && b_p1.length == 0) return true;
+    if (b_p1 === null && a_p0.length == 0) return true;
+    if ((!a_p0) || (!b_p1)) return false;
+    var alen = a_p0.length;
+    if (alen != b_p1.length) return false;
+    for (var i = 0; i < alen; ++i)
+      if (a_p0[i] != b_p1[i]) return false;
+    return true;
+  
+
+  
+}
+var ConstSet3 = setConstr(1);
+
 function mulInt(a_p0, b_p1) {
         var result = a_p0 * b_p1;
     checkOverflowInt(result);
@@ -346,6 +724,381 @@ function mulInt(a_p0, b_p1) {
 
   
 }
+      var stsFrozen_1275068445 = {a: 5, b: 255};
+            var nonCapture_1275068429 = {a: (-1), b: (-2)};
+    var typesOffsets_1342177291 = new Int16Array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 12, 26, 27, 28, 29, 30, 31, 32, 33, 34, 12, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 12, 62, 63, 64, 12, 12, 12, 12, 12, 65, 66, 67, 68, 69, 70, 71, 72, 12, 12, 12, 12, 12, 12, 12, 12, 73, 74, 75, 76, 77, 12, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 12, 91, 92, 93, 94, 95, 96, 97, 98, 98, 98, 12, 99, 99, 100, 99, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 113, 114, 115, 112, 112, 112, 112, 112, 112, 112, 112, 112, 116, 117, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 16, 118, 99, 119, 120, 121, 122, 123, 124, 112, 112, 112, 112, 112, 112, 112, 125, 72, 126, 127, 128, 12, 129, 130, 131, 132, 133, 112, 112, 112, 112, 112, 134, 135, 136, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 137, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 138, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 112, 139, 140, 141, 142, 138, 143, 135, 144, 145, 135, 135, 135, 146, 147, 135, 135, 135, 135, 135, 135, 135, 148, 135, 149, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 150, 135, 135, 135, 135, 135, 135, 135, 151, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 152, 135, 153, 154, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 155, 135, 156, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 157, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 158, 135, 135, 135, 135, 135, 135, 135, 145, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 159, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 160, 161, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 162, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 145, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 163, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 164, 135, 143, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 165, 135, 135, 135, 135, 135, 135, 135, 135, 135, 144, 135, 135, 135, 135, 135, 166, 167, 135, 168, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 169, 170, 12, 12, 12, 12, 171, 172, 173, 174, 175, 176, 177, 178, 179, 93, 12, 180, 181, 182, 12, 183, 184, 185, 12, 186, 187, 188, 98, 189, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 190, 191, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 12, 192, 193, 194, 195, 196, 12, 197, 198, 199, 29, 200, 12, 12, 12, 12, 201, 27, 202, 203, 204, 205, 12, 206, 207, 208, 209, 210, 211, 212, 12, 213, 214, 215, 216, 217, 112, 112, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 93, 12, 12, 12, 12, 184, 231, 232, 112, 233, 234, 235, 236, 237, 112, 238, 239, 240, 241, 242, 243, 82, 244, 245, 112, 12, 246, 247, 248, 249, 250, 251, 112, 112, 252, 253, 254, 255, 256, 257, 258, 12, 259, 213, 260, 261, 262, 12, 263, 264, 265, 266, 267, 268, 269, 270, 271, 12, 272, 12, 273, 112, 112, 274, 275, 12, 276, 80, 277, 278, 279, 112, 112, 213, 112, 280, 281, 282, 283, 284, 285, 209, 286, 287, 80, 112, 112, 112, 288, 289, 290, 291, 112, 292, 293, 294, 112, 112, 112, 112, 295, 296, 297, 298, 299, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 197, 112, 300, 301, 12, 12, 12, 302, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 27, 303, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 304, 305, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 213, 12, 12, 12, 12, 12, 12, 12, 12, 12, 279, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 306, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 12, 12, 12, 12, 12, 12, 12, 12, 80, 307, 209, 308, 184, 309, 310, 112, 112, 112, 112, 112, 112, 311, 112, 112, 112, 312, 313, 112, 12, 314, 315, 316, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 94, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 317, 246, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 318, 12, 12, 12, 12, 319, 320, 12, 12, 12, 12, 12, 321, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 12, 322, 323, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 324, 112, 112, 112, 112, 112, 112, 112, 112, 196, 279, 112, 112, 112, 112, 112, 112, 112, 325, 326, 112, 112, 327, 112, 328, 112, 329, 112, 112, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 112, 112, 112, 112, 112, 112, 112, 112, 346, 347, 348, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 349, 112, 112, 112, 350, 351, 352, 112, 353, 354, 112, 112, 112, 112, 355, 306, 112, 112, 112, 112, 112, 112, 112, 356, 112, 112, 112, 357, 112, 112, 112, 112, 112, 112, 112, 358, 12, 12, 12, 359, 360, 361, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 362, 363, 112, 364, 112, 112, 112, 365, 366, 367, 112, 112, 112, 112, 112, 112, 112, 112, 112, 368, 369, 370, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 324, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 371, 372, 135, 373, 166, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 137, 135, 374, 135, 135, 135, 135, 375, 376, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 377, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 378, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 150, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 162, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 379, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 380, 135, 135, 135, 381, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 382, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 383, 135, 135, 135, 135, 135, 135, 135, 135, 135, 384, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 12, 12, 385, 12, 12, 12, 12, 12, 386, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 387, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 388, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 12, 12, 12, 304, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112]);
+
+function divInt(a_p0, b_p1) {
+        if (b_p1 == 0) raiseDivByZero();
+    if (b_p1 == -1 && a_p0 == 2147483647) raiseOverflow();
+    return Math.trunc(a_p0 / b_p1);
+  
+
+  
+}
+    var typesIndices_1342177292 = new Int8Array([0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 4, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 6, 6, 0, 5, 0, 0, 0, 6, 5, 0, 7, 7, 7, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 3, 5, 3, 5, 3, 5, 5, 5, 3, 3, 5, 3, 5, 3, 3, 5, 3, 3, 3, 5, 5, 3, 3, 3, 3, 5, 3, 3, 5, 3, 3, 3, 5, 5, 5, 3, 3, 5, 3, 3, 5, 3, 5, 3, 5, 3, 3, 5, 3, 5, 5, 3, 5, 3, 3, 5, 3, 3, 3, 5, 3, 5, 3, 3, 5, 5, 4, 3, 5, 5, 5, 4, 4, 4, 4, 3, 8, 5, 3, 8, 5, 3, 8, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 3, 8, 5, 3, 5, 3, 3, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 5, 5, 5, 5, 3, 3, 5, 3, 3, 5, 5, 3, 5, 3, 3, 3, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 5, 5, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 5, 3, 5, 4, 0, 3, 5, 0, 0, 5, 5, 5, 5, 0, 3, 0, 0, 0, 0, 0, 0, 3, 0, 3, 3, 3, 0, 3, 0, 3, 3, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 3, 3, 3, 5, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 5, 5, 3, 5, 0, 3, 5, 3, 3, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 0, 4, 4, 4, 4, 4, 4, 4, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 4, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 0, 4, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 0, 0, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 0, 0, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 0, 0, 7, 7, 7, 7, 7, 7, 0, 0, 4, 0, 4, 0, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 0, 4, 4, 0, 0, 4, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 0, 0, 4, 4, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 0, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 0, 0, 0, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 4, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 0, 4, 4, 0, 4, 0, 4, 4, 0, 0, 0, 4, 4, 0, 0, 0, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 4, 4, 4, 0, 0, 4, 0, 0, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 4, 4, 0, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 7, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 4, 0, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 4, 0, 4, 0, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 5, 5, 5, 5, 5, 5, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 9, 9, 9, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 0, 0, 0, 0, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 0, 0, 3, 3, 3, 3, 3, 3, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 0, 0, 3, 3, 3, 3, 3, 3, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 0, 3, 0, 3, 0, 3, 0, 3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 8, 8, 8, 8, 8, 8, 8, 8, 5, 5, 5, 5, 5, 5, 5, 5, 8, 8, 8, 8, 8, 8, 8, 8, 5, 5, 5, 5, 5, 5, 5, 5, 8, 8, 8, 8, 8, 8, 8, 8, 5, 5, 5, 5, 5, 0, 5, 5, 3, 3, 3, 3, 8, 0, 5, 0, 0, 0, 5, 5, 5, 0, 5, 5, 3, 3, 3, 3, 8, 0, 0, 0, 5, 5, 5, 5, 0, 0, 5, 5, 3, 3, 3, 3, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 5, 5, 5, 0, 5, 5, 3, 3, 3, 3, 8, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 0, 0, 6, 6, 6, 6, 6, 6, 0, 0, 0, 0, 0, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 5, 3, 3, 3, 5, 5, 3, 3, 3, 5, 0, 3, 0, 0, 0, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 3, 3, 3, 0, 5, 3, 3, 3, 3, 5, 4, 4, 4, 4, 5, 0, 0, 5, 5, 3, 3, 0, 0, 0, 0, 0, 3, 5, 5, 5, 5, 0, 0, 0, 0, 5, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 9, 9, 9, 3, 5, 9, 9, 9, 9, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 3, 3, 3, 5, 5, 3, 5, 3, 5, 3, 5, 3, 3, 3, 3, 5, 3, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 0, 0, 0, 0, 0, 0, 3, 5, 3, 5, 4, 4, 4, 3, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 4, 4, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 9, 9, 9, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 0, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 13, 12, 12, 12, 13, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 13, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 13, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 13, 13, 13, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 3, 5, 3, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 4, 0, 0, 3, 5, 3, 5, 4, 3, 5, 3, 5, 5, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 3, 3, 3, 3, 5, 3, 3, 3, 3, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 5, 3, 3, 3, 3, 5, 3, 5, 3, 3, 5, 0, 0, 3, 5, 0, 5, 0, 5, 3, 5, 3, 5, 3, 5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 3, 5, 4, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 0, 0, 0, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 0, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 9, 4, 4, 4, 4, 4, 4, 4, 9, 4, 4, 4, 4, 9, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 9, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 9, 4, 9, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 9, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 12, 12, 4, 12, 4, 12, 12, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 12, 4, 12, 4, 12, 12, 4, 4, 12, 12, 12, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 4, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 9, 4, 4, 4, 4, 4, 4, 4, 4, 9, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 9, 9, 9, 9, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 3, 0, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 4, 4, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 0, 0, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 7, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 7, 7, 4, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 0, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 0, 0, 0, 0, 4, 6, 6, 6, 6, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 4, 4, 4, 4, 4, 0, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 0, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 0, 4, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 0, 0, 4, 4, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 0, 0, 4, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 7, 7, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 7, 7, 7, 7, 7, 7, 7, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 0, 3, 3, 0, 0, 3, 0, 0, 3, 3, 0, 0, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 0, 5, 0, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 0, 3, 3, 3, 3, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 0, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 0, 3, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 5, 3, 5, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 7, 7, 7, 0, 7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 0, 4, 0, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4, 0, 4, 0, 4, 0, 4, 4, 4, 0, 4, 4, 0, 4, 0, 0, 4, 0, 4, 0, 4, 0, 4, 0, 4, 0, 4, 4, 0, 4, 0, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 4, 4, 4, 4, 0, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 4, 4, 4, 0, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 9, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
+
+function modInt(a_p0, b_p1) {
+        if (b_p1 == 0) raiseDivByZero();
+    if (b_p1 == -1 && a_p0 == 2147483647) raiseOverflow();
+    return Math.trunc(a_p0 % b_p1);
+  
+
+  
+}
+    var typesData_1342177293 = new Int16Array([0, 64, 129, 176, 128, 168, 2, 4, 160, 132, 180, 172, 384, 388]);
+var ConstSet4 = setConstr(4);
+    var toLowerRanges_704644100 = new Int32Array([65, 90, 532, 192, 214, 532, 216, 222, 532, 393, 394, 705, 433, 434, 717, 904, 906, 537, 910, 911, 563, 913, 929, 532, 931, 939, 532, 1021, 1023, 370, 1024, 1039, 580, 1040, 1071, 532, 1329, 1366, 548, 4256, 4293, 7764, 5024, 5103, 39364, 5104, 5109, 508, 7312, 7354, (-2508), 7357, 7359, (-2508), 7944, 7951, 492, 7960, 7965, 492, 7976, 7983, 492, 7992, 7999, 492, 8008, 8013, 492, 8040, 8047, 492, 8072, 8079, 492, 8088, 8095, 492, 8104, 8111, 492, 8120, 8121, 492, 8122, 8123, 426, 8136, 8139, 414, 8152, 8153, 492, 8154, 8155, 400, 8168, 8169, 492, 8170, 8171, 388, 8184, 8185, 372, 8186, 8187, 374, 11264, 11310, 548, 11390, 11391, (-10315), 65313, 65338, 532, 66560, 66599, 540, 66736, 66771, 540, 68736, 68786, 564, 71840, 71871, 532, 93760, 93791, 532, 125184, 125217, 534]);
+    var toLowerSinglets_704644101 = new Int32Array([256, 501, 258, 501, 260, 501, 262, 501, 264, 501, 266, 501, 268, 501, 270, 501, 272, 501, 274, 501, 276, 501, 278, 501, 280, 501, 282, 501, 284, 501, 286, 501, 288, 501, 290, 501, 292, 501, 294, 501, 296, 501, 298, 501, 300, 501, 302, 501, 304, 301, 306, 501, 308, 501, 310, 501, 313, 501, 315, 501, 317, 501, 319, 501, 321, 501, 323, 501, 325, 501, 327, 501, 330, 501, 332, 501, 334, 501, 336, 501, 338, 501, 340, 501, 342, 501, 344, 501, 346, 501, 348, 501, 350, 501, 352, 501, 354, 501, 356, 501, 358, 501, 360, 501, 362, 501, 364, 501, 366, 501, 368, 501, 370, 501, 372, 501, 374, 501, 376, 379, 377, 501, 379, 501, 381, 501, 385, 710, 386, 501, 388, 501, 390, 706, 391, 501, 395, 501, 398, 579, 399, 702, 400, 703, 401, 501, 403, 705, 404, 707, 406, 711, 407, 709, 408, 501, 412, 711, 413, 713, 415, 714, 416, 501, 418, 501, 420, 501, 422, 718, 423, 501, 425, 718, 428, 501, 430, 718, 431, 501, 435, 501, 437, 501, 439, 719, 440, 501, 444, 501, 452, 502, 453, 501, 455, 502, 456, 501, 458, 502, 459, 501, 461, 501, 463, 501, 465, 501, 467, 501, 469, 501, 471, 501, 473, 501, 475, 501, 478, 501, 480, 501, 482, 501, 484, 501, 486, 501, 488, 501, 490, 501, 492, 501, 494, 501, 497, 502, 498, 501, 500, 501, 502, 403, 503, 444, 504, 501, 506, 501, 508, 501, 510, 501, 512, 501, 514, 501, 516, 501, 518, 501, 520, 501, 522, 501, 524, 501, 526, 501, 528, 501, 530, 501, 532, 501, 534, 501, 536, 501, 538, 501, 540, 501, 542, 501, 544, 370, 546, 501, 548, 501, 550, 501, 552, 501, 554, 501, 556, 501, 558, 501, 560, 501, 562, 501, 570, 11295, 571, 501, 573, 337, 574, 11292, 577, 501, 579, 305, 580, 569, 581, 571, 582, 501, 584, 501, 586, 501, 588, 501, 590, 501, 880, 501, 882, 501, 886, 501, 895, 616, 902, 538, 908, 564, 975, 508, 984, 501, 986, 501, 988, 501, 990, 501, 992, 501, 994, 501, 996, 501, 998, 501, 1000, 501, 1002, 501, 1004, 501, 1006, 501, 1012, 440, 1015, 501, 1017, 493, 1018, 501, 1120, 501, 1122, 501, 1124, 501, 1126, 501, 1128, 501, 1130, 501, 1132, 501, 1134, 501, 1136, 501, 1138, 501, 1140, 501, 1142, 501, 1144, 501, 1146, 501, 1148, 501, 1150, 501, 1152, 501, 1162, 501, 1164, 501, 1166, 501, 1168, 501, 1170, 501, 1172, 501, 1174, 501, 1176, 501, 1178, 501, 1180, 501, 1182, 501, 1184, 501, 1186, 501, 1188, 501, 1190, 501, 1192, 501, 1194, 501, 1196, 501, 1198, 501, 1200, 501, 1202, 501, 1204, 501, 1206, 501, 1208, 501, 1210, 501, 1212, 501, 1214, 501, 1216, 515, 1217, 501, 1219, 501, 1221, 501, 1223, 501, 1225, 501, 1227, 501, 1229, 501, 1232, 501, 1234, 501, 1236, 501, 1238, 501, 1240, 501, 1242, 501, 1244, 501, 1246, 501, 1248, 501, 1250, 501, 1252, 501, 1254, 501, 1256, 501, 1258, 501, 1260, 501, 1262, 501, 1264, 501, 1266, 501, 1268, 501, 1270, 501, 1272, 501, 1274, 501, 1276, 501, 1278, 501, 1280, 501, 1282, 501, 1284, 501, 1286, 501, 1288, 501, 1290, 501, 1292, 501, 1294, 501, 1296, 501, 1298, 501, 1300, 501, 1302, 501, 1304, 501, 1306, 501, 1308, 501, 1310, 501, 1312, 501, 1314, 501, 1316, 501, 1318, 501, 1320, 501, 1322, 501, 1324, 501, 1326, 501, 4295, 7764, 4301, 7764, 7680, 501, 7682, 501, 7684, 501, 7686, 501, 7688, 501, 7690, 501, 7692, 501, 7694, 501, 7696, 501, 7698, 501, 7700, 501, 7702, 501, 7704, 501, 7706, 501, 7708, 501, 7710, 501, 7712, 501, 7714, 501, 7716, 501, 7718, 501, 7720, 501, 7722, 501, 7724, 501, 7726, 501, 7728, 501, 7730, 501, 7732, 501, 7734, 501, 7736, 501, 7738, 501, 7740, 501, 7742, 501, 7744, 501, 7746, 501, 7748, 501, 7750, 501, 7752, 501, 7754, 501, 7756, 501, 7758, 501, 7760, 501, 7762, 501, 7764, 501, 7766, 501, 7768, 501, 7770, 501, 7772, 501, 7774, 501, 7776, 501, 7778, 501, 7780, 501, 7782, 501, 7784, 501, 7786, 501, 7788, 501, 7790, 501, 7792, 501, 7794, 501, 7796, 501, 7798, 501, 7800, 501, 7802, 501, 7804, 501, 7806, 501, 7808, 501, 7810, 501, 7812, 501, 7814, 501, 7816, 501, 7818, 501, 7820, 501, 7822, 501, 7824, 501, 7826, 501, 7828, 501, 7838, (-7115), 7840, 501, 7842, 501, 7844, 501, 7846, 501, 7848, 501, 7850, 501, 7852, 501, 7854, 501, 7856, 501, 7858, 501, 7860, 501, 7862, 501, 7864, 501, 7866, 501, 7868, 501, 7870, 501, 7872, 501, 7874, 501, 7876, 501, 7878, 501, 7880, 501, 7882, 501, 7884, 501, 7886, 501, 7888, 501, 7890, 501, 7892, 501, 7894, 501, 7896, 501, 7898, 501, 7900, 501, 7902, 501, 7904, 501, 7906, 501, 7908, 501, 7910, 501, 7912, 501, 7914, 501, 7916, 501, 7918, 501, 7920, 501, 7922, 501, 7924, 501, 7926, 501, 7928, 501, 7930, 501, 7932, 501, 7934, 501, 8025, 492, 8027, 492, 8029, 492, 8031, 492, 8124, 491, 8140, 491, 8172, 493, 8188, 491, 8486, (-7017), 8490, (-7883), 8491, (-7762), 8498, 528, 8579, 501, 11360, 501, 11362, (-10243), 11363, (-3314), 11364, (-10227), 11367, 501, 11369, 501, 11371, 501, 11373, (-10280), 11374, (-10249), 11375, (-10283), 11376, (-10282), 11378, 501, 11381, 501, 11392, 501, 11394, 501, 11396, 501, 11398, 501, 11400, 501, 11402, 501, 11404, 501, 11406, 501, 11408, 501, 11410, 501, 11412, 501, 11414, 501, 11416, 501, 11418, 501, 11420, 501, 11422, 501, 11424, 501, 11426, 501, 11428, 501, 11430, 501, 11432, 501, 11434, 501, 11436, 501, 11438, 501, 11440, 501, 11442, 501, 11444, 501, 11446, 501, 11448, 501, 11450, 501, 11452, 501, 11454, 501, 11456, 501, 11458, 501, 11460, 501, 11462, 501, 11464, 501, 11466, 501, 11468, 501, 11470, 501, 11472, 501, 11474, 501, 11476, 501, 11478, 501, 11480, 501, 11482, 501, 11484, 501, 11486, 501, 11488, 501, 11490, 501, 11499, 501, 11501, 501, 11506, 501, 42560, 501, 42562, 501, 42564, 501, 42566, 501, 42568, 501, 42570, 501, 42572, 501, 42574, 501, 42576, 501, 42578, 501, 42580, 501, 42582, 501, 42584, 501, 42586, 501, 42588, 501, 42590, 501, 42592, 501, 42594, 501, 42596, 501, 42598, 501, 42600, 501, 42602, 501, 42604, 501, 42624, 501, 42626, 501, 42628, 501, 42630, 501, 42632, 501, 42634, 501, 42636, 501, 42638, 501, 42640, 501, 42642, 501, 42644, 501, 42646, 501, 42648, 501, 42650, 501, 42786, 501, 42788, 501, 42790, 501, 42792, 501, 42794, 501, 42796, 501, 42798, 501, 42802, 501, 42804, 501, 42806, 501, 42808, 501, 42810, 501, 42812, 501, 42814, 501, 42816, 501, 42818, 501, 42820, 501, 42822, 501, 42824, 501, 42826, 501, 42828, 501, 42830, 501, 42832, 501, 42834, 501, 42836, 501, 42838, 501, 42840, 501, 42842, 501, 42844, 501, 42846, 501, 42848, 501, 42850, 501, 42852, 501, 42854, 501, 42856, 501, 42858, 501, 42860, 501, 42862, 501, 42873, 501, 42875, 501, 42877, (-34832), 42878, 501, 42880, 501, 42882, 501, 42884, 501, 42886, 501, 42891, 501, 42893, (-41780), 42896, 501, 42898, 501, 42902, 501, 42904, 501, 42906, 501, 42908, 501, 42910, 501, 42912, 501, 42914, 501, 42916, 501, 42918, 501, 42920, 501, 42922, (-41808), 42923, (-41819), 42924, (-41815), 42925, (-41805), 42926, (-41808), 42928, (-41758), 42929, (-41782), 42930, (-41761), 42931, 1428, 42932, 501, 42934, 501, 42936, 501, 42938, 501, 42940, 501, 42942, 501, 42946, 501, 42948, 452, 42949, (-41807), 42950, (-34884)]);
+    var toUpperRanges_704644102 = new Int32Array([97, 122, 468, 224, 246, 468, 248, 254, 468, 575, 576, 11315, 598, 599, 295, 650, 651, 283, 891, 893, 630, 941, 943, 463, 945, 961, 468, 963, 971, 468, 973, 974, 437, 1072, 1103, 468, 1104, 1119, 420, 1377, 1414, 452, 4304, 4346, 3508, 4349, 4351, 3508, 5112, 5117, 492, 7299, 7300, (-5742), 7936, 7943, 508, 7952, 7957, 508, 7968, 7975, 508, 7984, 7991, 508, 8000, 8005, 508, 8032, 8039, 508, 8048, 8049, 574, 8050, 8053, 586, 8054, 8055, 600, 8056, 8057, 628, 8058, 8059, 612, 8060, 8061, 626, 8064, 8071, 508, 8080, 8087, 508, 8096, 8103, 508, 8112, 8113, 508, 8144, 8145, 508, 8160, 8161, 508, 11312, 11358, 452, 11520, 11557, (-6764), 43888, 43967, (-38364), 65345, 65370, 468, 66600, 66639, 460, 66776, 66811, 460, 68800, 68850, 436, 71872, 71903, 468, 93792, 93823, 468, 125218, 125251, 466]);
+    var toUpperSinglets_704644103 = new Int32Array([181, 1243, 255, 621, 257, 499, 259, 499, 261, 499, 263, 499, 265, 499, 267, 499, 269, 499, 271, 499, 273, 499, 275, 499, 277, 499, 279, 499, 281, 499, 283, 499, 285, 499, 287, 499, 289, 499, 291, 499, 293, 499, 295, 499, 297, 499, 299, 499, 301, 499, 303, 499, 305, 268, 307, 499, 309, 499, 311, 499, 314, 499, 316, 499, 318, 499, 320, 499, 322, 499, 324, 499, 326, 499, 328, 499, 331, 499, 333, 499, 335, 499, 337, 499, 339, 499, 341, 499, 343, 499, 345, 499, 347, 499, 349, 499, 351, 499, 353, 499, 355, 499, 357, 499, 359, 499, 361, 499, 363, 499, 365, 499, 367, 499, 369, 499, 371, 499, 373, 499, 375, 499, 378, 499, 380, 499, 382, 499, 383, 200, 384, 695, 387, 499, 389, 499, 392, 499, 396, 499, 402, 499, 405, 597, 409, 499, 410, 663, 414, 630, 417, 499, 419, 499, 421, 499, 424, 499, 429, 499, 432, 499, 436, 499, 438, 499, 441, 499, 445, 499, 447, 556, 453, 499, 454, 498, 456, 499, 457, 498, 459, 499, 460, 498, 462, 499, 464, 499, 466, 499, 468, 499, 470, 499, 472, 499, 474, 499, 476, 499, 477, 421, 479, 499, 481, 499, 483, 499, 485, 499, 487, 499, 489, 499, 491, 499, 493, 499, 495, 499, 498, 499, 499, 498, 501, 499, 505, 499, 507, 499, 509, 499, 511, 499, 513, 499, 515, 499, 517, 499, 519, 499, 521, 499, 523, 499, 525, 499, 527, 499, 529, 499, 531, 499, 533, 499, 535, 499, 537, 499, 539, 499, 541, 499, 543, 499, 547, 499, 549, 499, 551, 499, 553, 499, 555, 499, 557, 499, 559, 499, 561, 499, 563, 499, 572, 499, 578, 499, 583, 499, 585, 499, 587, 499, 589, 499, 591, 499, 592, 11283, 593, 11280, 594, 11282, 595, 290, 596, 294, 601, 298, 603, 297, 604, 42819, 608, 295, 609, 42815, 611, 293, 613, 42780, 614, 42808, 616, 291, 617, 289, 618, 42808, 619, 11243, 620, 42805, 623, 289, 625, 11249, 626, 287, 629, 286, 637, 11227, 640, 282, 642, 42807, 643, 282, 647, 42782, 648, 282, 649, 431, 652, 429, 658, 281, 669, 42761, 670, 42758, 881, 499, 883, 499, 887, 499, 940, 462, 962, 469, 972, 436, 976, 438, 977, 443, 981, 453, 982, 446, 983, 492, 985, 499, 987, 499, 989, 499, 991, 499, 993, 499, 995, 499, 997, 499, 999, 499, 1001, 499, 1003, 499, 1005, 499, 1007, 499, 1008, 414, 1009, 420, 1010, 507, 1011, 384, 1013, 404, 1016, 499, 1019, 499, 1121, 499, 1123, 499, 1125, 499, 1127, 499, 1129, 499, 1131, 499, 1133, 499, 1135, 499, 1137, 499, 1139, 499, 1141, 499, 1143, 499, 1145, 499, 1147, 499, 1149, 499, 1151, 499, 1153, 499, 1163, 499, 1165, 499, 1167, 499, 1169, 499, 1171, 499, 1173, 499, 1175, 499, 1177, 499, 1179, 499, 1181, 499, 1183, 499, 1185, 499, 1187, 499, 1189, 499, 1191, 499, 1193, 499, 1195, 499, 1197, 499, 1199, 499, 1201, 499, 1203, 499, 1205, 499, 1207, 499, 1209, 499, 1211, 499, 1213, 499, 1215, 499, 1218, 499, 1220, 499, 1222, 499, 1224, 499, 1226, 499, 1228, 499, 1230, 499, 1231, 485, 1233, 499, 1235, 499, 1237, 499, 1239, 499, 1241, 499, 1243, 499, 1245, 499, 1247, 499, 1249, 499, 1251, 499, 1253, 499, 1255, 499, 1257, 499, 1259, 499, 1261, 499, 1263, 499, 1265, 499, 1267, 499, 1269, 499, 1271, 499, 1273, 499, 1275, 499, 1277, 499, 1279, 499, 1281, 499, 1283, 499, 1285, 499, 1287, 499, 1289, 499, 1291, 499, 1293, 499, 1295, 499, 1297, 499, 1299, 499, 1301, 499, 1303, 499, 1305, 499, 1307, 499, 1309, 499, 1311, 499, 1313, 499, 1315, 499, 1317, 499, 1319, 499, 1321, 499, 1323, 499, 1325, 499, 1327, 499, 7296, (-5754), 7297, (-5753), 7298, (-5744), 7301, (-5743), 7302, (-5736), 7303, (-5681), 7304, 35766, 7545, 35832, 7549, 4314, 7566, 35884, 7681, 499, 7683, 499, 7685, 499, 7687, 499, 7689, 499, 7691, 499, 7693, 499, 7695, 499, 7697, 499, 7699, 499, 7701, 499, 7703, 499, 7705, 499, 7707, 499, 7709, 499, 7711, 499, 7713, 499, 7715, 499, 7717, 499, 7719, 499, 7721, 499, 7723, 499, 7725, 499, 7727, 499, 7729, 499, 7731, 499, 7733, 499, 7735, 499, 7737, 499, 7739, 499, 7741, 499, 7743, 499, 7745, 499, 7747, 499, 7749, 499, 7751, 499, 7753, 499, 7755, 499, 7757, 499, 7759, 499, 7761, 499, 7763, 499, 7765, 499, 7767, 499, 7769, 499, 7771, 499, 7773, 499, 7775, 499, 7777, 499, 7779, 499, 7781, 499, 7783, 499, 7785, 499, 7787, 499, 7789, 499, 7791, 499, 7793, 499, 7795, 499, 7797, 499, 7799, 499, 7801, 499, 7803, 499, 7805, 499, 7807, 499, 7809, 499, 7811, 499, 7813, 499, 7815, 499, 7817, 499, 7819, 499, 7821, 499, 7823, 499, 7825, 499, 7827, 499, 7829, 499, 7835, 441, 7841, 499, 7843, 499, 7845, 499, 7847, 499, 7849, 499, 7851, 499, 7853, 499, 7855, 499, 7857, 499, 7859, 499, 7861, 499, 7863, 499, 7865, 499, 7867, 499, 7869, 499, 7871, 499, 7873, 499, 7875, 499, 7877, 499, 7879, 499, 7881, 499, 7883, 499, 7885, 499, 7887, 499, 7889, 499, 7891, 499, 7893, 499, 7895, 499, 7897, 499, 7899, 499, 7901, 499, 7903, 499, 7905, 499, 7907, 499, 7909, 499, 7911, 499, 7913, 499, 7915, 499, 7917, 499, 7919, 499, 7921, 499, 7923, 499, 7925, 499, 7927, 499, 7929, 499, 7931, 499, 7933, 499, 7935, 499, 8017, 508, 8019, 508, 8021, 508, 8023, 508, 8115, 509, 8126, (-6705), 8131, 509, 8165, 507, 8179, 509, 8526, 472, 8580, 499, 11361, 499, 11365, (-10295), 11366, (-10292), 11368, 499, 11370, 499, 11372, 499, 11379, 499, 11382, 499, 11393, 499, 11395, 499, 11397, 499, 11399, 499, 11401, 499, 11403, 499, 11405, 499, 11407, 499, 11409, 499, 11411, 499, 11413, 499, 11415, 499, 11417, 499, 11419, 499, 11421, 499, 11423, 499, 11425, 499, 11427, 499, 11429, 499, 11431, 499, 11433, 499, 11435, 499, 11437, 499, 11439, 499, 11441, 499, 11443, 499, 11445, 499, 11447, 499, 11449, 499, 11451, 499, 11453, 499, 11455, 499, 11457, 499, 11459, 499, 11461, 499, 11463, 499, 11465, 499, 11467, 499, 11469, 499, 11471, 499, 11473, 499, 11475, 499, 11477, 499, 11479, 499, 11481, 499, 11483, 499, 11485, 499, 11487, 499, 11489, 499, 11491, 499, 11500, 499, 11502, 499, 11507, 499, 11559, (-6764), 11565, (-6764), 42561, 499, 42563, 499, 42565, 499, 42567, 499, 42569, 499, 42571, 499, 42573, 499, 42575, 499, 42577, 499, 42579, 499, 42581, 499, 42583, 499, 42585, 499, 42587, 499, 42589, 499, 42591, 499, 42593, 499, 42595, 499, 42597, 499, 42599, 499, 42601, 499, 42603, 499, 42605, 499, 42625, 499, 42627, 499, 42629, 499, 42631, 499, 42633, 499, 42635, 499, 42637, 499, 42639, 499, 42641, 499, 42643, 499, 42645, 499, 42647, 499, 42649, 499, 42651, 499, 42787, 499, 42789, 499, 42791, 499, 42793, 499, 42795, 499, 42797, 499, 42799, 499, 42803, 499, 42805, 499, 42807, 499, 42809, 499, 42811, 499, 42813, 499, 42815, 499, 42817, 499, 42819, 499, 42821, 499, 42823, 499, 42825, 499, 42827, 499, 42829, 499, 42831, 499, 42833, 499, 42835, 499, 42837, 499, 42839, 499, 42841, 499, 42843, 499, 42845, 499, 42847, 499, 42849, 499, 42851, 499, 42853, 499, 42855, 499, 42857, 499, 42859, 499, 42861, 499, 42863, 499, 42874, 499, 42876, 499, 42879, 499, 42881, 499, 42883, 499, 42885, 499, 42887, 499, 42892, 499, 42897, 499, 42899, 499, 42900, 548, 42903, 499, 42905, 499, 42907, 499, 42909, 499, 42911, 499, 42913, 499, 42915, 499, 42917, 499, 42919, 499, 42921, 499, 42933, 499, 42935, 499, 42937, 499, 42939, 499, 42941, 499, 42943, 499, 42947, 499, 43859, (-428)]);
+    var propsOffsets_1157627947 = new Int16Array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 41, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 101, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 102, 41, 41, 41, 41, 41, 41, 41, 41, 103, 41, 41, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 117, 118, 118, 118, 118, 118, 118, 118, 118, 118, 118, 118, 118, 118, 118, 118, 118, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 120, 120, 121, 122, 123, 124, 125, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 41, 41, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 136, 172, 173, 174, 175, 136, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 136, 188, 189, 190, 41, 41, 41, 41, 41, 41, 41, 191, 192, 41, 193, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 194, 41, 41, 41, 41, 41, 41, 41, 41, 195, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 133, 41, 41, 41, 41, 196, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 197, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 41, 41, 41, 41, 198, 199, 200, 201, 136, 136, 202, 136, 203, 204, 205, 206, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 207, 41, 41, 41, 41, 41, 41, 41, 41, 41, 208, 209, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 210, 41, 41, 211, 41, 41, 212, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 213, 214, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 72, 215, 72, 72, 72, 216, 217, 218, 78, 219, 220, 221, 222, 223, 224, 136, 225, 226, 227, 228, 229, 230, 231, 232, 78, 78, 78, 78, 233, 234, 136, 136, 136, 136, 136, 136, 136, 136, 235, 136, 236, 237, 238, 136, 136, 239, 136, 136, 136, 240, 136, 241, 136, 136, 136, 242, 243, 244, 245, 246, 246, 246, 246, 246, 247, 248, 249, 246, 250, 251, 246, 246, 252, 253, 254, 255, 256, 136, 72, 257, 72, 72, 72, 72, 72, 258, 259, 260, 261, 262, 72, 72, 263, 264, 72, 265, 136, 136, 136, 136, 136, 136, 136, 266, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 267, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 268, 41, 269, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 270, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 271, 41, 41, 41, 41, 272, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 120, 120, 120, 120, 273, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 274, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 275, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 276, 277, 278, 279, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 277, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 266, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 280, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 119, 280]);
+    var propsIndices_1157627948 = new Uint8Array([0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 1, 4, 5, 5, 6, 7, 6, 5, 5, 8, 9, 5, 10, 11, 12, 11, 11, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 11, 5, 14, 14, 14, 5, 5, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 8, 5, 9, 16, 17, 16, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 8, 14, 9, 14, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 5, 7, 7, 7, 7, 20, 5, 21, 20, 22, 23, 14, 24, 20, 21, 25, 26, 27, 27, 21, 28, 5, 5, 21, 27, 22, 29, 30, 30, 30, 5, 31, 31, 31, 31, 31, 31, 15, 31, 31, 31, 31, 31, 31, 31, 31, 31, 15, 31, 31, 31, 31, 31, 31, 14, 15, 31, 31, 31, 31, 31, 15, 18, 32, 32, 32, 32, 32, 32, 18, 32, 32, 32, 32, 32, 32, 32, 32, 32, 18, 32, 32, 32, 32, 32, 32, 14, 18, 32, 32, 32, 32, 32, 18, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 18, 33, 28, 31, 32, 31, 32, 18, 31, 32, 31, 32, 31, 32, 33, 28, 15, 18, 31, 32, 31, 32, 31, 32, 28, 15, 18, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 31, 32, 31, 32, 31, 32, 28, 18, 15, 15, 18, 15, 18, 15, 15, 18, 15, 15, 15, 18, 18, 15, 15, 15, 15, 18, 15, 15, 18, 15, 15, 15, 18, 18, 18, 15, 15, 18, 15, 31, 32, 15, 18, 15, 18, 15, 15, 18, 15, 18, 18, 15, 18, 15, 31, 32, 15, 15, 15, 18, 15, 18, 15, 15, 18, 18, 34, 15, 18, 18, 18, 34, 34, 34, 34, 33, 35, 28, 33, 35, 28, 33, 35, 28, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 18, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 32, 33, 35, 28, 31, 32, 15, 15, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 15, 18, 15, 18, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 18, 18, 18, 18, 18, 18, 15, 15, 18, 15, 15, 18, 18, 15, 18, 15, 15, 15, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 34, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 36, 36, 36, 36, 36, 36, 36, 36, 36, 37, 37, 38, 38, 38, 38, 38, 38, 38, 16, 16, 16, 16, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37, 38, 38, 16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 16, 16, 36, 36, 36, 36, 36, 16, 16, 16, 16, 16, 16, 16, 37, 16, 38, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 39, 39, 39, 39, 39, 40, 39, 39, 39, 39, 39, 39, 39, 40, 40, 39, 40, 39, 40, 39, 39, 41, 42, 42, 42, 42, 41, 43, 42, 42, 42, 42, 42, 44, 44, 45, 45, 45, 45, 46, 46, 42, 42, 42, 42, 45, 45, 42, 45, 45, 42, 42, 47, 47, 47, 47, 48, 42, 42, 42, 42, 40, 40, 40, 49, 49, 39, 49, 49, 50, 40, 42, 42, 42, 40, 40, 40, 42, 42, 51, 40, 40, 40, 42, 42, 42, 42, 40, 41, 42, 42, 40, 52, 53, 53, 52, 53, 53, 52, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 15, 18, 15, 18, 54, 16, 15, 18, 55, 55, 36, 18, 18, 18, 56, 15, 55, 55, 55, 55, 21, 57, 31, 56, 31, 31, 31, 55, 31, 55, 31, 31, 32, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 15, 15, 15, 15, 15, 15, 15, 31, 31, 32, 32, 32, 32, 32, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 32, 32, 32, 32, 32, 15, 28, 28, 33, 58, 58, 28, 28, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 28, 28, 28, 18, 33, 28, 14, 15, 18, 33, 15, 18, 18, 15, 15, 15, 31, 31, 15, 31, 15, 15, 15, 31, 15, 15, 15, 15, 31, 31, 31, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 31, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 18, 18, 18, 18, 18, 18, 18, 18, 18, 32, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 32, 32, 18, 32, 18, 18, 18, 32, 18, 18, 18, 18, 32, 32, 32, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 31, 32, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 59, 40, 40, 40, 40, 40, 60, 60, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 31, 32, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 18, 31, 32, 31, 32, 15, 18, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 15, 18, 31, 32, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 55, 38, 61, 61, 61, 61, 61, 61, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 28, 18, 61, 62, 55, 55, 20, 20, 7, 63, 42, 40, 40, 40, 40, 42, 40, 40, 40, 64, 42, 40, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42, 42, 40, 40, 42, 40, 40, 64, 65, 40, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 75, 76, 77, 78, 79, 80, 81, 82, 83, 81, 40, 42, 81, 74, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 84, 84, 84, 84, 81, 81, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 85, 85, 85, 85, 85, 85, 14, 14, 86, 6, 6, 87, 11, 88, 20, 20, 40, 40, 40, 40, 40, 40, 40, 40, 89, 90, 91, 88, 92, 88, 88, 88, 93, 93, 94, 94, 94, 94, 94, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 95, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 96, 97, 98, 89, 90, 91, 99, 100, 39, 39, 45, 42, 40, 40, 40, 40, 40, 42, 40, 40, 42, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 6, 102, 102, 88, 93, 93, 103, 93, 93, 93, 93, 104, 104, 104, 104, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 94, 93, 94, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 94, 88, 93, 40, 40, 40, 40, 40, 40, 40, 85, 20, 40, 40, 40, 40, 42, 40, 95, 95, 40, 40, 20, 42, 40, 40, 42, 93, 93, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 93, 93, 93, 105, 105, 93, 88, 88, 88, 88, 88, 88, 88, 88, 88, 88, 88, 88, 88, 88, 106, 92, 93, 107, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 40, 42, 40, 40, 42, 40, 40, 42, 42, 42, 40, 42, 42, 40, 42, 40, 40, 40, 42, 40, 42, 40, 42, 40, 42, 40, 40, 106, 106, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 93, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 40, 40, 40, 40, 40, 40, 40, 42, 40, 109, 109, 20, 5, 5, 5, 109, 63, 63, 42, 110, 110, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 40, 40, 40, 40, 109, 40, 40, 40, 40, 40, 40, 40, 40, 40, 109, 40, 40, 40, 109, 40, 40, 40, 40, 40, 63, 63, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 42, 42, 42, 63, 63, 81, 63, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 106, 106, 106, 106, 106, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 111, 93, 93, 93, 93, 93, 93, 106, 85, 85, 106, 106, 106, 106, 106, 40, 40, 42, 42, 42, 40, 40, 40, 40, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 95, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 85, 42, 40, 40, 42, 40, 40, 42, 40, 40, 40, 42, 42, 42, 96, 97, 98, 40, 40, 40, 42, 40, 40, 42, 42, 40, 40, 40, 40, 40, 51, 51, 51, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 113, 34, 34, 34, 34, 34, 51, 112, 114, 34, 112, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 112, 112, 112, 112, 115, 112, 112, 34, 40, 42, 40, 40, 51, 51, 51, 116, 116, 116, 116, 116, 116, 116, 116, 34, 34, 51, 51, 61, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 61, 38, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 112, 112, 55, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 55, 55, 55, 34, 34, 34, 34, 55, 55, 118, 34, 119, 112, 112, 51, 51, 51, 51, 55, 55, 112, 112, 55, 55, 120, 120, 115, 34, 55, 55, 55, 55, 55, 55, 55, 55, 119, 55, 55, 55, 55, 116, 116, 55, 116, 34, 34, 51, 51, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 34, 7, 7, 121, 121, 121, 121, 121, 121, 59, 7, 34, 61, 40, 55, 55, 51, 51, 112, 55, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 116, 55, 34, 116, 55, 34, 34, 55, 55, 118, 55, 112, 112, 112, 51, 51, 55, 55, 55, 55, 51, 51, 55, 55, 51, 51, 115, 55, 55, 55, 51, 55, 55, 55, 55, 55, 55, 55, 116, 116, 116, 34, 55, 116, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 51, 51, 34, 34, 34, 51, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 51, 51, 112, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 55, 55, 118, 34, 112, 112, 112, 51, 51, 51, 51, 51, 55, 51, 51, 112, 55, 112, 112, 115, 55, 55, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 51, 51, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 61, 7, 55, 55, 55, 55, 55, 55, 55, 34, 51, 51, 51, 51, 51, 51, 55, 51, 112, 112, 55, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 55, 55, 118, 34, 119, 51, 112, 51, 51, 51, 51, 55, 55, 112, 120, 55, 55, 120, 120, 115, 55, 55, 55, 55, 55, 55, 55, 51, 122, 119, 55, 55, 55, 55, 116, 116, 55, 34, 34, 34, 51, 51, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 59, 34, 121, 121, 121, 121, 121, 121, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 51, 34, 55, 34, 34, 34, 34, 34, 34, 55, 55, 55, 34, 34, 34, 55, 34, 34, 113, 34, 55, 55, 55, 34, 34, 55, 34, 55, 34, 34, 55, 55, 55, 34, 34, 55, 55, 55, 34, 34, 34, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 119, 112, 51, 112, 112, 55, 55, 55, 112, 112, 112, 55, 120, 120, 120, 115, 55, 55, 34, 55, 55, 55, 55, 55, 55, 119, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 121, 121, 121, 20, 20, 20, 20, 20, 20, 7, 20, 55, 55, 55, 55, 55, 51, 112, 112, 112, 51, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 118, 34, 51, 51, 51, 112, 112, 112, 112, 55, 51, 51, 123, 55, 51, 51, 51, 115, 55, 55, 55, 55, 55, 55, 55, 124, 125, 55, 34, 34, 34, 55, 55, 34, 55, 55, 34, 34, 51, 51, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 61, 126, 126, 126, 126, 126, 126, 126, 59, 34, 51, 112, 112, 61, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 55, 55, 118, 34, 112, 127, 120, 112, 119, 112, 112, 55, 127, 120, 120, 55, 120, 120, 51, 115, 55, 55, 55, 55, 55, 55, 55, 119, 119, 55, 55, 55, 55, 55, 55, 34, 34, 55, 34, 34, 51, 51, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 34, 34, 112, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 51, 51, 112, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 115, 115, 34, 119, 112, 112, 51, 51, 51, 51, 55, 112, 112, 112, 55, 120, 120, 120, 115, 34, 59, 55, 55, 55, 55, 34, 34, 34, 119, 121, 121, 121, 121, 121, 121, 121, 34, 34, 34, 51, 51, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 121, 121, 121, 121, 121, 121, 121, 121, 121, 59, 34, 34, 34, 34, 34, 34, 55, 51, 112, 112, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 128, 55, 55, 55, 55, 119, 112, 112, 51, 51, 51, 55, 51, 55, 112, 112, 120, 112, 120, 120, 120, 119, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 112, 112, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 34, 22, 51, 51, 51, 51, 129, 129, 115, 55, 55, 55, 55, 7, 34, 34, 34, 34, 34, 34, 38, 51, 130, 130, 130, 130, 51, 51, 51, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 55, 34, 55, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 34, 22, 51, 51, 51, 51, 131, 131, 115, 51, 51, 34, 55, 55, 34, 34, 34, 34, 34, 55, 38, 55, 132, 132, 132, 132, 51, 51, 51, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 22, 22, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 59, 59, 59, 61, 61, 61, 61, 61, 61, 61, 61, 133, 61, 61, 61, 61, 61, 61, 59, 61, 59, 59, 59, 42, 42, 59, 59, 59, 59, 59, 59, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 59, 42, 59, 42, 59, 134, 8, 9, 8, 9, 112, 112, 34, 34, 34, 116, 34, 34, 34, 34, 55, 34, 34, 34, 34, 116, 34, 34, 34, 34, 116, 34, 34, 34, 34, 116, 34, 34, 34, 34, 116, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 116, 34, 34, 34, 55, 55, 55, 55, 135, 136, 137, 138, 137, 137, 139, 137, 139, 136, 136, 136, 136, 51, 112, 136, 137, 40, 40, 115, 61, 40, 40, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 51, 137, 51, 51, 51, 51, 55, 51, 51, 51, 51, 137, 51, 51, 51, 51, 137, 51, 51, 51, 51, 137, 51, 51, 51, 51, 137, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 137, 51, 51, 51, 55, 59, 59, 59, 59, 59, 59, 59, 59, 42, 59, 59, 59, 59, 59, 59, 55, 59, 59, 61, 61, 61, 61, 61, 59, 59, 59, 59, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 34, 34, 112, 112, 51, 122, 51, 51, 112, 51, 51, 51, 51, 51, 118, 112, 115, 115, 112, 112, 51, 51, 34, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 61, 61, 61, 61, 61, 61, 34, 34, 34, 34, 34, 34, 112, 112, 51, 51, 34, 34, 34, 34, 51, 51, 51, 34, 112, 112, 112, 34, 34, 112, 112, 112, 112, 112, 112, 112, 34, 34, 34, 51, 51, 51, 51, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 112, 112, 51, 51, 112, 112, 112, 112, 112, 112, 42, 34, 112, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 112, 112, 112, 51, 59, 59, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 15, 55, 55, 55, 55, 55, 15, 55, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 61, 36, 18, 18, 18, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 140, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 55, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 55, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 40, 40, 40, 61, 61, 61, 61, 61, 61, 61, 61, 61, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 55, 18, 18, 18, 18, 18, 18, 55, 55, 62, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 59, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 4, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 8, 9, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 61, 61, 61, 141, 141, 141, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 115, 142, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 142, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 55, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 112, 51, 51, 51, 51, 51, 51, 51, 112, 112, 112, 112, 112, 112, 112, 112, 51, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 51, 115, 51, 61, 61, 61, 38, 61, 61, 61, 7, 34, 40, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 55, 55, 55, 55, 55, 55, 5, 5, 5, 5, 5, 5, 62, 5, 5, 5, 5, 51, 51, 51, 24, 51, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 38, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 51, 51, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 65, 34, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 51, 51, 51, 112, 112, 112, 112, 51, 51, 112, 112, 112, 55, 55, 55, 55, 112, 112, 51, 112, 112, 112, 112, 112, 112, 64, 40, 42, 55, 55, 55, 55, 20, 55, 55, 55, 5, 5, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 121, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 40, 42, 112, 112, 51, 55, 55, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 51, 112, 51, 51, 51, 51, 51, 51, 51, 55, 115, 112, 51, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 112, 112, 112, 112, 112, 112, 51, 51, 40, 40, 40, 40, 40, 40, 40, 40, 55, 55, 42, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 61, 61, 61, 61, 61, 61, 61, 38, 61, 61, 61, 61, 61, 61, 55, 55, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42, 42, 40, 40, 42, 60, 42, 42, 40, 40, 42, 42, 40, 40, 40, 40, 40, 42, 40, 40, 40, 40, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 51, 51, 51, 51, 112, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 34, 34, 113, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 118, 119, 51, 51, 51, 51, 51, 120, 51, 120, 112, 112, 120, 120, 51, 120, 142, 34, 34, 34, 34, 34, 34, 34, 34, 55, 61, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 61, 61, 61, 61, 61, 61, 61, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 40, 42, 40, 40, 40, 40, 40, 40, 40, 59, 59, 59, 59, 59, 59, 59, 59, 59, 61, 61, 61, 51, 51, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 51, 51, 51, 51, 112, 112, 51, 51, 142, 115, 51, 51, 34, 34, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 118, 112, 51, 51, 112, 112, 112, 51, 112, 51, 51, 51, 142, 142, 55, 55, 55, 55, 55, 55, 55, 55, 61, 61, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 112, 112, 112, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 112, 112, 51, 118, 55, 55, 55, 61, 61, 61, 61, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 34, 34, 34, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 38, 38, 38, 38, 38, 38, 61, 61, 18, 18, 18, 18, 18, 18, 18, 18, 18, 15, 18, 55, 55, 55, 55, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 55, 15, 15, 15, 61, 61, 61, 61, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 40, 40, 40, 61, 47, 42, 42, 42, 42, 42, 40, 40, 42, 42, 42, 42, 40, 112, 47, 47, 47, 47, 47, 47, 47, 34, 34, 34, 34, 42, 34, 34, 34, 34, 34, 34, 40, 34, 34, 112, 40, 40, 34, 55, 55, 55, 55, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 36, 36, 36, 38, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 38, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 38, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 36, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 40, 40, 42, 40, 40, 40, 40, 40, 40, 40, 42, 40, 40, 53, 143, 42, 44, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 41, 65, 65, 42, 144, 40, 52, 42, 40, 42, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 32, 32, 32, 32, 28, 145, 18, 18, 15, 18, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 15, 18, 15, 18, 15, 18, 32, 32, 32, 32, 32, 32, 32, 32, 31, 31, 31, 31, 31, 31, 31, 31, 32, 32, 32, 32, 32, 32, 55, 55, 31, 31, 31, 31, 31, 31, 55, 55, 32, 32, 32, 32, 32, 32, 32, 32, 31, 31, 31, 31, 31, 31, 31, 31, 32, 32, 32, 32, 32, 32, 32, 32, 31, 31, 31, 31, 31, 31, 31, 31, 32, 32, 32, 32, 32, 32, 55, 55, 31, 31, 31, 31, 31, 31, 55, 55, 32, 32, 32, 32, 32, 32, 32, 32, 55, 31, 55, 31, 55, 31, 55, 31, 32, 32, 32, 32, 32, 32, 32, 32, 31, 31, 31, 31, 31, 31, 31, 31, 32, 146, 32, 146, 32, 146, 32, 146, 32, 146, 32, 146, 32, 146, 55, 55, 32, 32, 32, 32, 32, 32, 32, 32, 147, 147, 147, 147, 147, 147, 147, 147, 32, 32, 32, 32, 32, 32, 32, 32, 147, 147, 147, 147, 147, 147, 147, 147, 32, 32, 32, 32, 32, 32, 32, 32, 147, 147, 147, 147, 147, 147, 147, 147, 32, 32, 32, 32, 32, 55, 32, 32, 31, 31, 31, 148, 147, 21, 146, 21, 21, 57, 32, 32, 32, 55, 32, 32, 31, 148, 31, 148, 147, 57, 57, 57, 32, 32, 32, 146, 55, 55, 32, 32, 31, 31, 31, 148, 55, 57, 57, 57, 32, 32, 32, 146, 32, 32, 32, 32, 31, 31, 31, 148, 31, 57, 149, 149, 55, 55, 32, 32, 32, 55, 32, 32, 31, 148, 31, 148, 147, 149, 21, 55, 150, 150, 151, 151, 151, 151, 151, 151, 151, 151, 151, 24, 24, 24, 152, 153, 62, 154, 62, 62, 62, 62, 5, 155, 23, 29, 8, 23, 23, 29, 8, 23, 5, 5, 5, 5, 155, 155, 155, 5, 156, 157, 158, 159, 160, 161, 162, 19, 6, 6, 6, 163, 163, 5, 155, 155, 5, 23, 29, 5, 155, 5, 155, 17, 17, 5, 5, 5, 164, 8, 9, 155, 155, 155, 5, 5, 5, 5, 5, 5, 5, 5, 14, 5, 17, 5, 5, 155, 5, 5, 5, 5, 5, 5, 5, 151, 24, 24, 24, 24, 24, 165, 166, 167, 168, 169, 24, 24, 24, 24, 24, 24, 27, 36, 55, 55, 27, 27, 27, 27, 27, 27, 170, 170, 171, 172, 173, 36, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 170, 170, 171, 172, 173, 55, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 55, 55, 55, 7, 7, 7, 7, 7, 7, 7, 7, 174, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 175, 175, 175, 175, 175, 175, 175, 175, 175, 175, 175, 175, 175, 175, 175, 40, 40, 47, 47, 40, 40, 40, 40, 47, 47, 47, 40, 40, 60, 60, 60, 60, 40, 60, 60, 60, 47, 47, 40, 42, 40, 47, 47, 42, 42, 42, 42, 40, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 176, 176, 33, 176, 20, 176, 176, 33, 20, 176, 28, 33, 33, 33, 28, 28, 33, 33, 33, 28, 20, 33, 176, 20, 14, 33, 33, 33, 33, 33, 20, 20, 176, 176, 176, 20, 33, 20, 148, 20, 33, 20, 148, 148, 33, 33, 25, 28, 33, 33, 15, 33, 28, 22, 22, 22, 22, 28, 20, 176, 28, 28, 33, 33, 171, 14, 14, 14, 14, 33, 28, 28, 28, 28, 20, 14, 20, 20, 18, 59, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 177, 141, 141, 141, 15, 18, 141, 141, 141, 141, 30, 20, 20, 55, 55, 55, 55, 14, 14, 14, 14, 14, 20, 20, 20, 20, 20, 178, 178, 20, 20, 20, 20, 14, 20, 20, 14, 20, 20, 14, 20, 20, 20, 20, 20, 20, 20, 178, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 179, 178, 178, 20, 20, 14, 20, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 178, 14, 14, 14, 14, 178, 14, 14, 178, 14, 14, 14, 14, 14, 10, 26, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 178, 14, 178, 14, 14, 14, 14, 14, 171, 171, 14, 171, 171, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 178, 14, 14, 178, 14, 14, 178, 14, 178, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 178, 14, 178, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 178, 178, 178, 178, 178, 14, 14, 178, 178, 14, 14, 178, 178, 14, 14, 14, 14, 14, 14, 178, 178, 14, 14, 178, 178, 14, 14, 178, 178, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 178, 178, 178, 178, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 178, 178, 178, 178, 14, 14, 14, 14, 14, 14, 178, 178, 178, 178, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 20, 20, 20, 20, 20, 20, 20, 20, 8, 9, 8, 9, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 14, 20, 20, 20, 20, 20, 20, 20, 180, 181, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 20, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 59, 20, 20, 20, 20, 20, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 14, 14, 14, 14, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 30, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 14, 14, 14, 14, 14, 14, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 59, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 14, 14, 14, 14, 8, 9, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 8, 9, 8, 9, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 8, 9, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 171, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 171, 171, 171, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 183, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 20, 20, 14, 14, 14, 14, 14, 14, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 15, 18, 15, 15, 15, 18, 18, 15, 18, 15, 18, 15, 18, 15, 15, 15, 15, 18, 15, 18, 18, 15, 18, 18, 18, 18, 18, 18, 36, 36, 15, 15, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 18, 20, 20, 20, 20, 20, 20, 15, 18, 15, 18, 40, 40, 40, 15, 18, 55, 55, 55, 55, 55, 5, 5, 5, 5, 126, 5, 5, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 55, 18, 55, 55, 55, 55, 55, 18, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 36, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 115, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 5, 5, 23, 29, 23, 29, 5, 5, 5, 23, 29, 5, 23, 29, 5, 5, 5, 5, 5, 5, 5, 5, 5, 62, 5, 5, 62, 5, 23, 29, 5, 5, 23, 29, 8, 9, 8, 9, 8, 9, 8, 9, 5, 5, 5, 5, 5, 37, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 62, 62, 5, 5, 5, 5, 62, 5, 8, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 20, 20, 5, 5, 5, 8, 9, 8, 9, 8, 9, 8, 9, 62, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 20, 20, 20, 20, 176, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 176, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 176, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 151, 5, 5, 5, 20, 38, 34, 141, 8, 9, 8, 9, 8, 9, 8, 9, 8, 9, 20, 20, 8, 9, 8, 9, 8, 9, 8, 9, 62, 8, 9, 9, 20, 141, 141, 141, 141, 141, 141, 141, 141, 141, 144, 65, 41, 64, 184, 184, 62, 38, 38, 38, 38, 38, 176, 20, 177, 177, 177, 38, 34, 5, 20, 20, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 34, 113, 34, 113, 34, 113, 34, 34, 34, 34, 34, 34, 113, 113, 34, 113, 113, 34, 113, 113, 34, 113, 113, 34, 113, 113, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 55, 55, 185, 185, 21, 21, 38, 186, 22, 62, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 113, 34, 34, 113, 34, 113, 34, 113, 34, 34, 34, 34, 34, 34, 113, 113, 34, 113, 113, 34, 113, 113, 34, 113, 113, 34, 113, 113, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 113, 113, 113, 113, 5, 38, 38, 186, 22, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 55, 59, 59, 187, 187, 187, 187, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 176, 176, 55, 187, 187, 187, 187, 187, 187, 187, 187, 187, 187, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 121, 121, 121, 121, 121, 121, 121, 121, 176, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 176, 176, 176, 59, 187, 187, 187, 187, 187, 187, 187, 187, 187, 187, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 176, 176, 176, 176, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 176, 176, 176, 176, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 176, 176, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 176, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 38, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 38, 38, 38, 38, 38, 38, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 38, 5, 5, 5, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 34, 40, 60, 60, 60, 5, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 5, 37, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 36, 36, 40, 40, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 40, 40, 61, 61, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 37, 37, 37, 37, 37, 37, 37, 37, 37, 16, 16, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 18, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 36, 18, 18, 18, 18, 18, 18, 18, 18, 15, 18, 15, 18, 15, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 37, 188, 188, 15, 18, 15, 18, 34, 15, 18, 15, 18, 18, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 15, 15, 15, 15, 18, 15, 15, 15, 15, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 18, 15, 15, 15, 15, 18, 15, 18, 15, 15, 18, 55, 55, 15, 18, 55, 18, 55, 18, 15, 18, 15, 18, 15, 18, 15, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 36, 36, 36, 15, 18, 34, 36, 36, 18, 34, 34, 34, 34, 34, 34, 34, 51, 34, 34, 34, 115, 34, 34, 34, 34, 51, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 51, 51, 112, 20, 20, 20, 20, 115, 55, 55, 55, 121, 121, 121, 121, 121, 121, 59, 59, 7, 25, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 5, 5, 5, 5, 55, 55, 55, 55, 55, 55, 55, 55, 112, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 115, 51, 55, 55, 55, 55, 55, 55, 55, 55, 61, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 34, 34, 34, 34, 34, 34, 61, 61, 61, 34, 61, 34, 34, 51, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 42, 42, 42, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 112, 142, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 51, 51, 51, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 118, 112, 112, 51, 51, 51, 51, 112, 112, 51, 51, 112, 112, 142, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 55, 38, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 61, 61, 34, 34, 34, 34, 34, 51, 38, 34, 34, 34, 34, 34, 34, 34, 34, 34, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 51, 112, 112, 51, 51, 112, 112, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 51, 34, 34, 34, 34, 34, 34, 34, 34, 51, 112, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 61, 61, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 38, 34, 34, 34, 34, 34, 34, 59, 59, 59, 34, 112, 51, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 40, 34, 40, 40, 42, 34, 34, 40, 40, 34, 34, 34, 34, 34, 40, 40, 34, 40, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 38, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 51, 51, 112, 112, 61, 61, 34, 38, 38, 112, 115, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 188, 36, 36, 36, 36, 18, 18, 18, 18, 18, 18, 18, 18, 18, 36, 16, 16, 55, 55, 55, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 51, 112, 112, 51, 112, 112, 61, 112, 115, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 113, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 189, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 34, 34, 116, 34, 116, 34, 34, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 34, 116, 34, 116, 34, 34, 116, 116, 34, 34, 34, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 55, 55, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 28, 28, 28, 28, 28, 28, 28, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 28, 28, 28, 28, 28, 55, 55, 55, 55, 55, 191, 192, 191, 193, 193, 193, 193, 193, 193, 193, 193, 193, 170, 191, 191, 191, 191, 191, 191, 191, 191, 191, 191, 191, 191, 191, 63, 191, 191, 191, 191, 191, 63, 191, 63, 191, 191, 63, 191, 191, 63, 191, 191, 191, 191, 191, 191, 191, 191, 191, 193, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 9, 8, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 106, 106, 106, 106, 106, 106, 20, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 194, 20, 20, 20, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 155, 155, 155, 155, 155, 155, 155, 172, 173, 155, 55, 55, 55, 55, 55, 55, 40, 40, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42, 42, 42, 40, 40, 155, 154, 154, 195, 195, 172, 173, 172, 173, 172, 173, 172, 173, 172, 173, 172, 173, 172, 173, 172, 173, 5, 5, 172, 173, 155, 155, 155, 155, 195, 195, 195, 196, 155, 196, 55, 155, 196, 155, 155, 154, 172, 173, 172, 173, 172, 173, 163, 155, 155, 170, 197, 171, 171, 171, 55, 155, 174, 163, 155, 55, 55, 55, 55, 104, 104, 104, 93, 104, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 106, 24, 55, 155, 155, 163, 174, 163, 155, 155, 172, 173, 155, 170, 196, 197, 196, 196, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 196, 155, 171, 171, 171, 155, 155, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 172, 155, 173, 21, 195, 21, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 172, 171, 173, 171, 172, 173, 155, 172, 173, 155, 155, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 36, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 36, 36, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 55, 55, 55, 22, 22, 22, 22, 22, 22, 55, 55, 22, 22, 22, 22, 22, 22, 55, 55, 22, 22, 22, 22, 22, 22, 55, 55, 22, 22, 22, 55, 55, 55, 174, 174, 171, 21, 176, 174, 174, 55, 176, 171, 171, 171, 171, 176, 176, 55, 165, 165, 165, 165, 165, 165, 165, 165, 165, 199, 199, 199, 20, 20, 165, 165, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 61, 5, 61, 55, 55, 55, 55, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 59, 59, 59, 59, 59, 59, 59, 59, 59, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 126, 126, 126, 126, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 126, 126, 20, 59, 59, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 42, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 42, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 201, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 121, 121, 121, 121, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 141, 34, 34, 34, 34, 34, 34, 34, 34, 141, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 40, 40, 40, 40, 40, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 61, 141, 141, 141, 141, 141, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 55, 55, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 61, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 55, 15, 15, 15, 15, 15, 15, 15, 55, 15, 15, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 55, 18, 18, 18, 18, 18, 18, 18, 55, 18, 18, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 38, 36, 36, 36, 36, 36, 55, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 55, 36, 36, 36, 36, 36, 36, 36, 36, 36, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 84, 84, 84, 84, 84, 84, 63, 63, 84, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 84, 84, 63, 63, 63, 84, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 81, 202, 202, 202, 202, 202, 202, 202, 202, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 203, 203, 202, 202, 202, 202, 202, 202, 202, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 63, 63, 63, 63, 202, 202, 202, 202, 202, 202, 202, 202, 202, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 84, 84, 63, 63, 63, 63, 63, 202, 202, 202, 202, 202, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 202, 202, 202, 202, 202, 202, 63, 63, 63, 5, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 63, 81, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 202, 202, 84, 84, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 63, 63, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 84, 51, 51, 51, 63, 51, 51, 63, 63, 63, 63, 63, 51, 42, 51, 40, 84, 84, 84, 84, 63, 84, 84, 84, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 40, 47, 42, 63, 63, 63, 63, 115, 202, 202, 202, 202, 202, 202, 202, 202, 202, 63, 63, 63, 63, 63, 63, 63, 81, 81, 81, 81, 81, 81, 81, 81, 81, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 202, 202, 81, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 202, 202, 202, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 203, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 40, 42, 63, 63, 63, 63, 202, 202, 202, 202, 202, 81, 81, 81, 81, 81, 81, 81, 63, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 5, 5, 5, 5, 5, 5, 5, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 202, 202, 202, 202, 202, 202, 202, 202, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 63, 202, 202, 202, 202, 202, 202, 202, 202, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 63, 63, 63, 81, 81, 81, 81, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 202, 202, 202, 202, 202, 202, 202, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 63, 63, 63, 63, 63, 63, 63, 202, 202, 202, 202, 202, 202, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 40, 40, 40, 40, 106, 106, 106, 106, 106, 106, 106, 106, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 106, 106, 106, 106, 106, 106, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 84, 84, 84, 84, 109, 84, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 63, 63, 63, 40, 40, 40, 40, 40, 62, 109, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 63, 63, 63, 63, 63, 63, 63, 63, 206, 206, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 207, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 40, 40, 79, 63, 63, 84, 84, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 106, 106, 93, 93, 93, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 51, 42, 42, 42, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 84, 63, 63, 63, 63, 63, 63, 63, 63, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 42, 42, 40, 40, 40, 42, 40, 42, 42, 42, 42, 208, 208, 208, 208, 88, 88, 88, 88, 88, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 40, 42, 40, 42, 81, 81, 81, 81, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 202, 202, 202, 202, 202, 202, 202, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 63, 63, 63, 63, 63, 63, 63, 112, 51, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 115, 61, 61, 61, 61, 61, 61, 61, 55, 55, 55, 55, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 115, 34, 34, 51, 51, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 115, 51, 51, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 113, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 113, 34, 34, 34, 34, 112, 112, 112, 51, 51, 51, 51, 112, 112, 115, 114, 61, 61, 152, 61, 61, 61, 61, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 152, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 40, 40, 40, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 122, 51, 51, 51, 51, 112, 51, 123, 123, 51, 51, 51, 115, 115, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 61, 61, 61, 61, 34, 112, 112, 34, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 118, 61, 61, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 51, 51, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 51, 112, 142, 34, 34, 34, 34, 61, 61, 61, 61, 51, 118, 51, 51, 61, 112, 51, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 34, 61, 34, 61, 61, 61, 55, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 51, 51, 51, 112, 112, 51, 142, 118, 51, 61, 61, 61, 61, 61, 61, 51, 34, 34, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 55, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 61, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 112, 112, 112, 51, 51, 51, 51, 51, 51, 118, 115, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 51, 51, 112, 112, 55, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 55, 118, 118, 34, 119, 112, 51, 112, 112, 112, 112, 55, 55, 112, 112, 55, 55, 120, 120, 142, 55, 55, 34, 55, 55, 55, 55, 55, 55, 119, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 112, 112, 55, 55, 40, 40, 40, 40, 40, 40, 40, 55, 55, 55, 40, 40, 40, 40, 40, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 113, 34, 113, 34, 34, 34, 34, 55, 34, 55, 55, 113, 55, 34, 113, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 119, 112, 112, 122, 51, 51, 51, 51, 51, 55, 119, 55, 55, 209, 55, 209, 209, 119, 112, 55, 112, 112, 115, 142, 115, 34, 51, 34, 61, 61, 55, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 112, 112, 115, 51, 51, 112, 118, 34, 34, 34, 34, 61, 61, 61, 61, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 61, 61, 55, 61, 40, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 119, 112, 112, 51, 51, 51, 51, 51, 51, 112, 122, 120, 120, 119, 120, 51, 51, 112, 115, 118, 34, 34, 61, 34, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 119, 112, 112, 51, 51, 51, 51, 55, 55, 112, 112, 120, 120, 51, 51, 112, 115, 118, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 34, 34, 34, 34, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 112, 112, 51, 112, 115, 51, 61, 61, 61, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 112, 51, 112, 112, 51, 51, 51, 51, 51, 51, 142, 118, 34, 61, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 51, 112, 51, 112, 112, 51, 51, 51, 51, 112, 51, 51, 51, 51, 115, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 121, 121, 61, 61, 61, 59, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 51, 51, 51, 51, 51, 51, 51, 51, 51, 112, 115, 118, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 119, 112, 112, 112, 112, 112, 55, 112, 120, 55, 55, 51, 51, 142, 115, 34, 112, 34, 112, 118, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 51, 51, 51, 51, 55, 55, 51, 51, 112, 112, 112, 112, 115, 34, 61, 34, 112, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 51, 51, 51, 51, 51, 51, 127, 127, 51, 51, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 115, 51, 51, 51, 51, 112, 34, 51, 51, 51, 51, 61, 61, 61, 61, 61, 61, 61, 61, 115, 55, 55, 55, 55, 55, 55, 55, 55, 34, 51, 51, 51, 51, 51, 51, 112, 112, 51, 51, 51, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 112, 51, 115, 61, 61, 61, 34, 61, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 51, 51, 51, 51, 51, 51, 51, 55, 51, 51, 51, 51, 51, 51, 112, 210, 34, 61, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 55, 112, 51, 51, 51, 51, 51, 51, 51, 112, 51, 51, 112, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 51, 55, 55, 55, 51, 55, 51, 51, 55, 51, 51, 51, 118, 51, 115, 115, 34, 51, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 112, 112, 112, 55, 51, 51, 55, 112, 112, 51, 112, 115, 34, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 51, 51, 112, 112, 61, 61, 55, 55, 55, 55, 55, 55, 55, 51, 51, 34, 112, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 112, 112, 51, 51, 51, 51, 51, 55, 55, 55, 112, 112, 51, 142, 115, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 20, 20, 20, 20, 20, 20, 20, 20, 7, 7, 7, 7, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 141, 55, 61, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 51, 34, 34, 34, 34, 34, 34, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 122, 122, 122, 211, 211, 211, 211, 211, 211, 211, 211, 122, 112, 112, 112, 51, 51, 115, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 61, 61, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 47, 47, 47, 47, 47, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 40, 40, 40, 40, 40, 40, 40, 61, 61, 61, 61, 61, 59, 59, 59, 59, 38, 38, 38, 38, 61, 59, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 121, 121, 121, 121, 121, 121, 121, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 38, 38, 38, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 140, 212, 113, 113, 38, 38, 61, 61, 61, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 51, 34, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 112, 55, 55, 55, 55, 55, 55, 55, 51, 51, 51, 51, 38, 38, 38, 38, 38, 38, 38, 38, 38, 38, 38, 38, 38, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 38, 38, 5, 38, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 213, 213, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 38, 38, 38, 38, 55, 38, 38, 38, 38, 38, 38, 38, 55, 38, 38, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 55, 55, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 59, 51, 47, 61, 24, 24, 24, 24, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 55, 55, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 55, 55, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 214, 214, 214, 214, 214, 214, 214, 215, 215, 47, 47, 47, 59, 59, 59, 216, 215, 215, 215, 215, 215, 24, 24, 24, 24, 24, 24, 24, 24, 42, 42, 42, 42, 42, 42, 42, 42, 59, 59, 40, 40, 40, 40, 40, 42, 42, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 40, 40, 40, 40, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 214, 214, 214, 214, 214, 214, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 40, 40, 40, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 121, 55, 55, 55, 55, 55, 55, 55, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 55, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 55, 33, 33, 55, 55, 33, 55, 55, 33, 33, 55, 55, 33, 33, 33, 33, 55, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 55, 28, 55, 28, 28, 28, 28, 28, 28, 28, 55, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 55, 33, 33, 33, 33, 55, 55, 33, 33, 33, 33, 33, 33, 33, 33, 55, 33, 33, 33, 33, 33, 33, 33, 55, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 55, 33, 33, 33, 33, 55, 33, 33, 33, 33, 33, 55, 33, 55, 55, 55, 33, 33, 33, 33, 33, 33, 33, 55, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 55, 55, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 171, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 171, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 171, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 171, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 171, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 171, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 171, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 171, 28, 28, 28, 28, 28, 28, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 171, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 171, 28, 28, 28, 28, 28, 28, 33, 28, 55, 55, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 59, 59, 59, 59, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 59, 59, 59, 59, 59, 59, 59, 59, 51, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 51, 59, 59, 61, 61, 61, 61, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 51, 51, 51, 51, 51, 55, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 34, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 55, 55, 55, 55, 55, 55, 18, 18, 18, 18, 18, 18, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 40, 40, 40, 40, 40, 40, 40, 55, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 55, 55, 40, 40, 40, 40, 40, 40, 40, 55, 40, 40, 55, 40, 40, 40, 40, 40, 55, 55, 55, 55, 55, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 40, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 40, 40, 40, 40, 40, 40, 40, 38, 38, 38, 38, 38, 38, 38, 55, 55, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 34, 59, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 40, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 40, 40, 40, 40, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 7, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 38, 41, 41, 42, 40, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 40, 42, 34, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 55, 55, 55, 55, 61, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 55, 34, 34, 34, 34, 55, 34, 34, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 63, 63, 202, 202, 202, 202, 202, 202, 202, 202, 202, 42, 42, 42, 42, 42, 42, 42, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 204, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 40, 40, 40, 40, 40, 40, 118, 109, 63, 63, 63, 63, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 63, 63, 63, 63, 81, 81, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 106, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 105, 208, 208, 208, 87, 208, 208, 208, 208, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 106, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 105, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 63, 104, 104, 104, 104, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 104, 104, 106, 104, 106, 106, 104, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 104, 104, 104, 104, 106, 104, 106, 104, 106, 106, 106, 106, 106, 106, 104, 106, 106, 106, 106, 104, 106, 104, 106, 104, 106, 104, 104, 104, 106, 104, 104, 106, 104, 106, 106, 104, 106, 104, 106, 104, 106, 104, 106, 104, 106, 104, 104, 106, 104, 106, 106, 104, 104, 104, 104, 106, 104, 104, 104, 104, 104, 104, 104, 106, 104, 104, 104, 104, 106, 104, 104, 104, 104, 106, 104, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 106, 106, 106, 106, 104, 104, 104, 106, 104, 104, 104, 104, 104, 106, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 14, 14, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 106, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 126, 126, 20, 20, 20, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 20, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 176, 176, 176, 20, 20, 20, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 182, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 182, 182, 182, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182, 55, 55, 55, 55, 182, 182, 182, 182, 182, 182, 182, 182, 182, 55, 55, 55, 55, 55, 55, 55, 182, 182, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 16, 16, 16, 16, 16, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 55, 55, 55, 55, 55, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 55, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 165, 165, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 116, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 165, 24, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 165, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 190, 165, 165]);
+    var propsData_1157627949 = [new Int32Array([16384, 0, 14, 0]), new Int32Array([16384, 0, 16, 0]), new Int32Array([16384, 0, 15, 0]), new Int32Array([16384, 0, 17, 0]), new Int32Array([2048, 0, 17, 0]), new Int32Array([33554432, 0, 18, 0]), new Int32Array([33554432, 0, 10, 0]), new Int32Array([134217728, 0, 10, 0]), new Int32Array([2097152, 0, 18, 0]), new Int32Array([4194304, 0, 18, 0]), new Int32Array([67108864, 0, 9, 0]), new Int32Array([33554432, 0, 12, 0]), new Int32Array([1048576, 0, 9, 0]), new Int32Array([256, 0, 8, 0]), new Int32Array([67108864, 0, 18, 0]), new Int32Array([4, 0, 0, 0]), new Int32Array([268435456, 0, 18, 0]), new Int32Array([524288, 0, 18, 0]), new Int32Array([8, 0, 0, 0]), new Int32Array([2048, 0, 12, 36]), new Int32Array([536870912, 0, 18, 0]), new Int32Array([268435456, 0, 18, 36]), new Int32Array([2, 0, 0, 36]), new Int32Array([8388608, 0, 18, 0]), new Int32Array([32768, 0, 14, 0]), new Int32Array([536870912, 0, 10, 0]), new Int32Array([67108864, 0, 10, 0]), new Int32Array([1024, 0, 8, 36]), new Int32Array([8, 0, 0, 36]), new Int32Array([16777216, 0, 18, 0]), new Int32Array([1024, 0, 18, 36]), new Int32Array([4, 0, 0, 48]), new Int32Array([8, 0, 0, 48]), new Int32Array([4, 0, 0, 36]), new Int32Array([2, 0, 0, 0]), new Int32Array([16, 0, 0, 36]), new Int32Array([1, 0, 0, 36]), new Int32Array([1, 0, 18, 0]), new Int32Array([1, 0, 0, 0]), new Int32Array([32, 230, 13, 10]), new Int32Array([32, 230, 13, 0]), new Int32Array([32, 232, 13, 0]), new Int32Array([32, 220, 13, 0]), new Int32Array([32, 216, 13, 10]), new Int32Array([32, 202, 13, 0]), new Int32Array([32, 220, 13, 10]), new Int32Array([32, 202, 13, 10]), new Int32Array([32, 1, 13, 0]), new Int32Array([32, 1, 13, 10]), new Int32Array([32, 230, 13, 53]), new Int32Array([32, 240, 13, 10]), new Int32Array([32, 0, 13, 0]), new Int32Array([32, 233, 13, 0]), new Int32Array([32, 234, 13, 0]), new Int32Array([1, 0, 18, 53]), new Int32Array([262144, 0, 0, 0]), new Int32Array([33554432, 0, 18, 53]), new Int32Array([268435456, 0, 18, 52]), new Int32Array([4, 0, 0, 52]), new Int32Array([536870912, 0, 0, 0]), new Int32Array([128, 0, 13, 0]), new Int32Array([33554432, 0, 0, 0]), new Int32Array([1048576, 0, 18, 0]), new Int32Array([262144, 0, 3, 0]), new Int32Array([32, 222, 13, 0]), new Int32Array([32, 228, 13, 0]), new Int32Array([32, 10, 13, 0]), new Int32Array([32, 11, 13, 0]), new Int32Array([32, 12, 13, 0]), new Int32Array([32, 13, 13, 0]), new Int32Array([32, 14, 13, 0]), new Int32Array([32, 15, 13, 0]), new Int32Array([32, 16, 13, 0]), new Int32Array([32, 17, 13, 0]), new Int32Array([32, 18, 13, 0]), new Int32Array([32, 19, 13, 0]), new Int32Array([32, 20, 13, 0]), new Int32Array([32, 21, 13, 0]), new Int32Array([32, 22, 13, 0]), new Int32Array([1048576, 0, 3, 0]), new Int32Array([32, 23, 13, 0]), new Int32Array([33554432, 0, 3, 0]), new Int32Array([32, 24, 13, 0]), new Int32Array([32, 25, 13, 0]), new Int32Array([2, 0, 3, 0]), new Int32Array([32768, 0, 11, 0]), new Int32Array([67108864, 0, 4, 0]), new Int32Array([134217728, 0, 4, 0]), new Int32Array([33554432, 0, 4, 0]), new Int32Array([32, 30, 13, 0]), new Int32Array([32, 31, 13, 0]), new Int32Array([32, 32, 13, 0]), new Int32Array([32768, 0, 4, 0]), new Int32Array([2, 0, 4, 0]), new Int32Array([2, 0, 4, 48]), new Int32Array([1, 0, 4, 0]), new Int32Array([32, 27, 13, 0]), new Int32Array([32, 28, 13, 0]), new Int32Array([32, 29, 13, 0]), new Int32Array([32, 33, 13, 0]), new Int32Array([32, 34, 13, 0]), new Int32Array([256, 0, 11, 0]), new Int32Array([33554432, 0, 11, 0]), new Int32Array([32, 35, 13, 0]), new Int32Array([2, 0, 4, 36]), new Int32Array([536870912, 0, 4, 0]), new Int32Array([262144, 0, 4, 0]), new Int32Array([32, 36, 13, 0]), new Int32Array([256, 0, 3, 0]), new Int32Array([1, 0, 3, 0]), new Int32Array([134217728, 0, 3, 0]), new Int32Array([268435456, 0, 4, 0]), new Int32Array([64, 0, 0, 0]), new Int32Array([2, 0, 0, 48]), new Int32Array([32, 7, 13, 10]), new Int32Array([32, 9, 13, 0]), new Int32Array([2, 0, 0, 53]), new Int32Array([256, 0, 0, 0]), new Int32Array([32, 7, 13, 0]), new Int32Array([64, 0, 0, 10]), new Int32Array([64, 0, 0, 48]), new Int32Array([1024, 0, 0, 0]), new Int32Array([32, 0, 13, 10]), new Int32Array([32, 0, 13, 48]), new Int32Array([32, 84, 13, 0]), new Int32Array([32, 91, 13, 10]), new Int32Array([1024, 0, 18, 0]), new Int32Array([32, 0, 0, 0]), new Int32Array([32, 9, 13, 10]), new Int32Array([32, 103, 13, 0]), new Int32Array([32, 107, 13, 0]), new Int32Array([32, 118, 13, 0]), new Int32Array([32, 122, 13, 0]), new Int32Array([33554432, 0, 0, 36]), new Int32Array([32, 216, 13, 0]), new Int32Array([32, 129, 13, 0]), new Int32Array([32, 130, 13, 0]), new Int32Array([32, 0, 13, 53]), new Int32Array([32, 132, 13, 0]), new Int32Array([32, 0, 13, 36]), new Int32Array([2, 0, 0, 10]), new Int32Array([512, 0, 0, 0]), new Int32Array([64, 9, 0, 0]), new Int32Array([32, 214, 13, 0]), new Int32Array([32, 218, 13, 0]), new Int32Array([8, 0, 0, 52]), new Int32Array([8, 0, 0, 53]), new Int32Array([16, 0, 0, 48]), new Int32Array([4, 0, 0, 53]), new Int32Array([268435456, 0, 18, 53]), new Int32Array([2048, 0, 17, 53]), new Int32Array([2048, 0, 17, 36]), new Int32Array([32768, 0, 0, 0]), new Int32Array([32768, 0, 3, 0]), new Int32Array([1048576, 0, 18, 36]), new Int32Array([33554432, 0, 18, 36]), new Int32Array([4096, 0, 17, 0]), new Int32Array([8192, 0, 15, 0]), new Int32Array([32768, 0, 1, 0]), new Int32Array([32768, 0, 5, 0]), new Int32Array([32768, 0, 7, 0]), new Int32Array([32768, 0, 2, 0]), new Int32Array([32768, 0, 6, 0]), new Int32Array([33554432, 0, 10, 36]), new Int32Array([67108864, 0, 12, 0]), new Int32Array([262144, 0, 14, 0]), new Int32Array([32768, 0, 19, 0]), new Int32Array([32768, 0, 20, 0]), new Int32Array([32768, 0, 21, 0]), new Int32Array([32768, 0, 22, 0]), new Int32Array([67108864, 0, 9, 36]), new Int32Array([67108864, 0, 18, 36]), new Int32Array([2097152, 0, 18, 36]), new Int32Array([4194304, 0, 18, 36]), new Int32Array([134217728, 0, 10, 36]), new Int32Array([262144, 0, 10, 0]), new Int32Array([536870912, 0, 18, 36]), new Int32Array([512, 0, 0, 36]), new Int32Array([67108864, 0, 18, 48]), new Int32Array([536870912, 0, 18, 48]), new Int32Array([2097152, 0, 18, 53]), new Int32Array([4194304, 0, 18, 53]), new Int32Array([536870912, 0, 0, 36]), new Int32Array([67108864, 0, 18, 53]), new Int32Array([64, 224, 0, 0]), new Int32Array([32, 8, 13, 10]), new Int32Array([1, 0, 0, 48]), new Int32Array([1024, 0, 0, 36]), new Int32Array([268435456, 0, 0, 0]), new Int32Array([65536, 0, 0, 0]), new Int32Array([131072, 0, 0, 0]), new Int32Array([2, 0, 3, 53]), new Int32Array([32, 26, 13, 0]), new Int32Array([2, 0, 3, 36]), new Int32Array([134217728, 0, 4, 36]), new Int32Array([524288, 0, 18, 36]), new Int32Array([33554432, 0, 12, 36]), new Int32Array([1048576, 0, 9, 36]), new Int32Array([256, 0, 8, 36]), new Int32Array([32768, 0, 18, 0]), new Int32Array([512, 0, 18, 0]), new Int32Array([1024, 0, 8, 0]), new Int32Array([1024, 0, 3, 0]), new Int32Array([536870912, 0, 3, 0]), new Int32Array([4, 0, 3, 0]), new Int32Array([8, 0, 3, 0]), new Int32Array([67108864, 0, 3, 0]), new Int32Array([1024, 0, 11, 0]), new Int32Array([1024, 0, 4, 0]), new Int32Array([64, 0, 0, 58]), new Int32Array([32, 9, 0, 0]), new Int32Array([32, 0, 13, 58]), new Int32Array([2, 0, 0, 58]), new Int32Array([64, 6, 0, 0]), new Int32Array([536870912, 0, 0, 53]), new Int32Array([64, 216, 0, 0]), new Int32Array([64, 226, 0, 0])];
+
+function SetPlus(a_p0, b_p1) {
+        var result = {};
+    for (var elem in a_p0) { result[elem] = true; }
+    for (var elem in b_p1) { result[elem] = true; }
+    return result;
+  
+
+  
+}
+var ConstSet5 = setConstr(3);
+var ConstSet6 = setConstr();
+var ConstSet7 = setConstr([48, 57]);
+var ConstSet8 = setConstr([48, 57]);
+
+function divInt64(a_p0, b_p1) {
+        if (b_p1 == 0n) raiseDivByZero();
+    if (b_p1 == -1n && a_p0 == 9223372036854775807n) raiseOverflow();
+    return a_p0 / b_p1;
+  
+
+  
+}
+
+function absInt(a_p0) {
+    var Temporary1;
+
+  var result_33557134 = 0;
+
+    if ((a_p0 < 0)) {
+    Temporary1 = (a_p0 * (-1));
+    }
+    else {
+    Temporary1 = a_p0;
+    }
+    
+    result_33557134 = Temporary1;
+
+  return result_33557134;
+
+}
+var ConstSet9 = setConstr(13, 10);
+
+function rawEcho() {
+          var buf = "";
+      for (var i = 0; i < arguments.length; ++i) {
+        buf += toJSStr(arguments[i]);
+      }
+      console.log(buf);
+    
+
+  
+}
+
+function nimBoolToStr(x_p0) {
+  var result_33556446 = [];
+
+    if (x_p0) {
+    result_33556446 = nimCopy(null, [116,114,117,101], NTI33554449);
+    }
+    else {
+      result_33556446 = nimCopy(null, [102,97,108,115,101], NTI33554449);
+    }
+    
+
+  return result_33556446;
+
+}
+
+function negInt(a_p0) {
+  var result_33557128 = 0;
+
+    result_33557128 = (a_p0 * (-1));
+
+  return result_33557128;
+
+}
+var F = {procname: "module macros", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\core\\macros.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module macros", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\core\\macros.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module parseutils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\parseutils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module parseutils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\parseutils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strbasics", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\strbasics.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strbasics", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\strbasics.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module unicode", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module unicode", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module bitops_utils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\bitops_utils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module bitops_utils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\bitops_utils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module countbits_impl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\countbits_impl.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module countbits_impl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\countbits_impl.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module bitops", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\bitops.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module bitops", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\bitops.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module fenv", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\fenv.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module fenv", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\fenv.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module math", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\math.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module math", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\math.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module algorithm", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\algorithm.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module algorithm", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\algorithm.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module typetraits", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\typetraits.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module typetraits", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\typetraits.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module enumutils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\enumutils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module enumutils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\enumutils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strimpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\strimpl.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strimpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\strimpl.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strutils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strutils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strformat", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strformat.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module strformat", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strformat.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module hashes", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\hashes.nim", line: 0};
+framePtr = F;
+F.line = 218;
+F.filename = "hashes.nim";
+var objectID_1006633137 = [0];
+framePtr = F.prev;
+var F = {procname: "module hashes", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\hashes.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module outparams", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\outparams.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module outparams", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\outparams.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module tables", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\tables.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module tables", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\tables.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module sequtils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module sequtils", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module sets", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sets.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module sets", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sets.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module properties_data", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties_data.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module properties_data", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties_data.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module properties", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module properties", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module common", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module common", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module types", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\types.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module types", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\types.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module exptype", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\exptype.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module exptype", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\exptype.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module scanner", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\scanner.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module scanner", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\scanner.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module parser", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\parser.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module parser", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\parser.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module exptransformation", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\exptransformation.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module exptransformation", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\exptransformation.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module types_data", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\types_data.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module types_data", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\types_data.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module types", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\types.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module types", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\types.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nodematch", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nodematch", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module deques", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\deques.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module deques", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\deques.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfa", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfa.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfa", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfa.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module litopt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\litopt.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module litopt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\litopt.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfatype", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfatype", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module compiler", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\compiler.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module compiler", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\compiler.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfamatch", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfamatch", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfafindall", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfafindall", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfamatch2", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfamatch2", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfafindall2", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfafindall2", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfamacro", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamacro.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module nfamacro", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamacro.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module regex", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module regex", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module day1", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module day1", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module day2", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
+var F = {procname: "module day2", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+framePtr = F;
+framePtr = F.prev;
 
 function add__system_u1943(x_p0, x_p0_Idx, y_p1) {
           if (x_p0[x_p0_Idx] === null) { x_p0[x_p0_Idx] = []; }
@@ -397,111 +1150,6 @@ function nimCopyAux(dest_p0, src_p1, n_p2) {
   
 }
 
-function raiseRangeError() {
-    raiseException({message: [118,97,108,117,101,32,111,117,116,32,111,102,32,114,97,110,103,101], parent: null, m_type: NTI134217751, name: null, trace: [], up: null}, "RangeDefect");
-
-  
-}
-
-function raiseIndexError(i_p0, a_p1, b_p2) {
-    var Temporary1;
-
-    if ((b_p2 < a_p1)) {
-    Temporary1 = [105,110,100,101,120,32,111,117,116,32,111,102,32,98,111,117,110,100,115,44,32,116,104,101,32,99,111,110,116,97,105,110,101,114,32,105,115,32,101,109,112,116,121];
-    }
-    else {
-    Temporary1 = ([105,110,100,101,120,32]).concat(HEX24__systemZdollars_u8(i_p0),[32,110,111,116,32,105,110,32],HEX24__systemZdollars_u8(a_p1),[32,46,46,32],HEX24__systemZdollars_u8(b_p2));
-    }
-    
-    raiseException({message: nimCopy(null, Temporary1, NTI33554449), parent: null, m_type: NTI134217749, name: null, trace: [], up: null}, "IndexDefect");
-
-  
-}
-
-function addChars__stdZprivateZdigitsutils_u202(result_p0, result_p0_Idx, x_p1, start_p2, n_p3) {
-    var Temporary1;
-
-  var F = {procname: "addChars.addChars", prev: framePtr, filename: "/home/alex/.choosenim/toolchains/nim-2.2.0/lib/std/private/digitsutils.nim", line: 0};
-  framePtr = F;
-    F.line = 44;
-    F.filename = "digitsutils.nim";
-    var old_301990096 = (result_p0[result_p0_Idx]).length;
-    F.line = 45;
-    if (result_p0[result_p0_Idx].length < (Temporary1 = chckRange(addInt(old_301990096, n_p3), 0, 2147483647), Temporary1)) { for (var i = result_p0[result_p0_Idx].length; i < Temporary1; ++i) result_p0[result_p0_Idx].push(0); }
-         else {result_p0[result_p0_Idx].length = Temporary1; };
-    Label2: {
-      F.line = 47;
-      var iHEX60gensym4_301990110 = 0;
-      F.line = 128;
-      F.filename = "iterators_1.nim";
-      var i_520093712 = 0;
-      Label3: {
-        F.line = 129;
-          Label4: while (true) {
-          if (!(i_520093712 < n_p3)) break Label4;
-            F.line = 50;
-            F.filename = "digitsutils.nim";
-            iHEX60gensym4_301990110 = i_520093712;
-            F.line = 47;
-            result_p0[result_p0_Idx][chckIndx(addInt(old_301990096, iHEX60gensym4_301990110), 0, (result_p0[result_p0_Idx]).length - 1)] = x_p1.charCodeAt(chckIndx(addInt(start_p2, iHEX60gensym4_301990110), 0, (x_p1).length - 1));
-            F.line = 131;
-            F.filename = "iterators_1.nim";
-            i_520093712 = addInt(i_520093712, 1);
-          }
-      };
-    };
-  framePtr = F.prev;
-
-  
-}
-
-function addChars__stdZprivateZdigitsutils_u198(result_p0, result_p0_Idx, x_p1) {
-  var F = {procname: "addChars.addChars", prev: framePtr, filename: "/home/alex/.choosenim/toolchains/nim-2.2.0/lib/std/private/digitsutils.nim", line: 0};
-  framePtr = F;
-    F.line = 56;
-    F.filename = "digitsutils.nim";
-    addChars__stdZprivateZdigitsutils_u202(result_p0, result_p0_Idx, x_p1, 0, ((x_p1) == null ? 0 : (x_p1).length));
-  framePtr = F.prev;
-
-  
-}
-
-function addInt__stdZprivateZdigitsutils_u223(result_p0, result_p0_Idx, x_p1) {
-  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "/home/alex/.choosenim/toolchains/nim-2.2.0/lib/std/private/digitsutils.nim", line: 0};
-  framePtr = F;
-    F.line = 112;
-    F.filename = "digitsutils.nim";
-    addChars__stdZprivateZdigitsutils_u198(result_p0, result_p0_Idx, ((x_p1) + ""));
-  framePtr = F.prev;
-
-  
-}
-
-function addInt__stdZprivateZdigitsutils_u241(result_p0, result_p0_Idx, x_p1) {
-  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "/home/alex/.choosenim/toolchains/nim-2.2.0/lib/std/private/digitsutils.nim", line: 0};
-  framePtr = F;
-    F.line = 116;
-    F.filename = "digitsutils.nim";
-    addInt__stdZprivateZdigitsutils_u223(result_p0, result_p0_Idx, BigInt(x_p1));
-  framePtr = F.prev;
-
-  
-}
-
-function HEX24__systemZdollars_u8(x_p0) {
-  var result_369098762 = [[]];
-
-  var F = {procname: "dollars.$", prev: framePtr, filename: "/home/alex/.choosenim/toolchains/nim-2.2.0/lib/system/dollars.nim", line: 0};
-  framePtr = F;
-    F.line = 18;
-    F.filename = "dollars.nim";
-    addInt__stdZprivateZdigitsutils_u241(result_369098762, 0, x_p0);
-  framePtr = F.prev;
-
-  return result_369098762[0];
-
-}
-
 function auxWriteStackTrace__system_u2085(f_p0) {
   var result_33556519 = [[]];
 
@@ -536,13 +1184,13 @@ function auxWriteStackTrace__system_u2085(f_p0) {
     
     Label5: {
       var j_33556563 = 0;
-      var colontmp__520093704 = 0;
-      colontmp__520093704 = (i_33556528 - 1);
-      var res_520093706 = colontmp__520093704;
+      var colontmp__520093731 = 0;
+      colontmp__520093731 = (i_33556528 - 1);
+      var res_520093732 = colontmp__520093731;
       Label6: {
           Label7: while (true) {
-          if (!(0 <= res_520093706)) break Label7;
-            j_33556563 = res_520093706;
+          if (!(0 <= res_520093732)) break Label7;
+            j_33556563 = res_520093732;
             result_33556519[0].push.apply(result_33556519[0], cstrToNimstr(tempFrames_33556530[j_33556563].Field2));;
             if ((0 < tempFrames_33556530[j_33556563].Field1)) {
             result_33556519[0].push.apply(result_33556519[0], [40]);;
@@ -558,7 +1206,7 @@ function auxWriteStackTrace__system_u2085(f_p0) {
             result_33556519[0].push.apply(result_33556519[0], [32,97,116,32]);;
             add__system_u1943(result_33556519, 0, tempFrames_33556530[j_33556563].Field0);
             result_33556519[0].push.apply(result_33556519[0], [10]);;
-            res_520093706 -= 1;
+            res_520093732 -= 1;
           }
       };
     };
@@ -585,7 +1233,7 @@ function rawWriteStackTrace__system_u2181() {
 function newSeq__system_u2508(len_p0) {
   var result_33556944 = [];
 
-  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/alex/.choosenim/toolchains/nim-2.2.0/lib/system.nim", line: 0};
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
   framePtr = F;
     F.line = 635;
     F.filename = "system.nim";
@@ -635,22 +1283,6375 @@ function checkOverflowInt(a_p0) {
   
 }
 
-function solve(day_p0, part_p1) {
-  var result_520093700 = 0;
+function raiseRangeError() {
+    raiseException({message: [118,97,108,117,101,32,111,117,116,32,111,102,32,114,97,110,103,101], parent: null, m_type: NTI134217751, name: null, trace: [], up: null}, "RangeDefect");
 
-  var F = {procname: "advent.solve", prev: framePtr, filename: "/home/alex/dev/nim/advent/advent.nim", line: 0};
+  
+}
+
+function raiseIndexError(i_p0, a_p1, b_p2) {
+    var Temporary1;
+
+    if ((b_p2 < a_p1)) {
+    Temporary1 = [105,110,100,101,120,32,111,117,116,32,111,102,32,98,111,117,110,100,115,44,32,116,104,101,32,99,111,110,116,97,105,110,101,114,32,105,115,32,101,109,112,116,121];
+    }
+    else {
+    Temporary1 = ([105,110,100,101,120,32]).concat(HEX24__systemZdollars_u8(i_p0),[32,110,111,116,32,105,110,32],HEX24__systemZdollars_u8(a_p1),[32,46,46,32],HEX24__systemZdollars_u8(b_p2));
+    }
+    
+    raiseException({message: nimCopy(null, Temporary1, NTI33554449), parent: null, m_type: NTI134217749, name: null, trace: [], up: null}, "IndexDefect");
+
+  
+}
+
+function addChars__stdZprivateZdigitsutils_u202(result_p0, result_p0_Idx, x_p1, start_p2, n_p3) {
+    var Temporary1;
+
+  var F = {procname: "addChars.addChars", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\digitsutils.nim", line: 0};
   framePtr = F;
-    F.line = 2;
-    F.filename = "advent.nim";
-    result_520093700 = addInt(mulInt(day_p0, 1000), part_p1);
+    F.line = 44;
+    F.filename = "digitsutils.nim";
+    var old_301990096 = (result_p0[result_p0_Idx]).length;
+    F.line = 45;
+    if (result_p0[result_p0_Idx].length < (Temporary1 = chckRange(addInt(old_301990096, n_p3), 0, 2147483647), Temporary1)) { for (var i = result_p0[result_p0_Idx].length; i < Temporary1; ++i) result_p0[result_p0_Idx].push(0); }
+         else {result_p0[result_p0_Idx].length = Temporary1; };
+    Label2: {
+      F.line = 47;
+      var iHEX60gensym4_301990110 = 0;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520093726 = 0;
+      Label3: {
+        F.line = 129;
+          Label4: while (true) {
+          if (!(i_520093726 < n_p3)) break Label4;
+            F.line = 50;
+            F.filename = "digitsutils.nim";
+            iHEX60gensym4_301990110 = i_520093726;
+            F.line = 47;
+            result_p0[result_p0_Idx][chckIndx(addInt(old_301990096, iHEX60gensym4_301990110), 0, (result_p0[result_p0_Idx]).length - 1)] = x_p1.charCodeAt(chckIndx(addInt(start_p2, iHEX60gensym4_301990110), 0, (x_p1).length - 1));
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520093726 = addInt(i_520093726, 1);
+          }
+      };
+    };
   framePtr = F.prev;
 
-  return result_520093700;
+  
+}
+
+function addChars__stdZprivateZdigitsutils_u198(result_p0, result_p0_Idx, x_p1) {
+  var F = {procname: "addChars.addChars", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\digitsutils.nim", line: 0};
+  framePtr = F;
+    F.line = 56;
+    F.filename = "digitsutils.nim";
+    addChars__stdZprivateZdigitsutils_u202(result_p0, result_p0_Idx, x_p1, 0, ((x_p1) == null ? 0 : (x_p1).length));
+  framePtr = F.prev;
+
+  
+}
+
+function addInt__stdZprivateZdigitsutils_u223(result_p0, result_p0_Idx, x_p1) {
+  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\digitsutils.nim", line: 0};
+  framePtr = F;
+    F.line = 112;
+    F.filename = "digitsutils.nim";
+    addChars__stdZprivateZdigitsutils_u198(result_p0, result_p0_Idx, ((x_p1) + ""));
+  framePtr = F.prev;
+
+  
+}
+
+function addInt__stdZprivateZdigitsutils_u241(result_p0, result_p0_Idx, x_p1) {
+  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\private\\digitsutils.nim", line: 0};
+  framePtr = F;
+    F.line = 116;
+    F.filename = "digitsutils.nim";
+    addInt__stdZprivateZdigitsutils_u223(result_p0, result_p0_Idx, BigInt(x_p1));
+  framePtr = F.prev;
+
+  
+}
+
+function HEX24__systemZdollars_u8(x_p0) {
+  var result_369098762 = [[]];
+
+  var F = {procname: "dollars.$", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\dollars.nim", line: 0};
+  framePtr = F;
+    F.line = 18;
+    F.filename = "dollars.nim";
+    addInt__stdZprivateZdigitsutils_u241(result_369098762, 0, x_p0);
+  framePtr = F.prev;
+
+  return result_369098762[0];
 
 }
-var F = {procname: "module advent", prev: framePtr, filename: "/home/alex/dev/nim/advent/advent.nim", line: 0};
+
+function formatValue__advent_u13(result_p0, result_p0_Idx, value_p1) {
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strformat.nim", line: 0};
+  framePtr = F;
+    F.line = 501;
+    F.filename = "strformat.nim";
+    result_p0[result_p0_Idx].push.apply(result_p0[result_p0_Idx], HEX24__systemZdollars_u8(value_p1));;
+  framePtr = F.prev;
+
+  
+}
+
+function getInput__solutionsZday1_u6() {
+  var result_956301997 = [];
+
+  var F = {procname: "day1.getInput", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 37;
+    F.filename = "day1.nim";
+    result_956301997 = nimCopy(null, makeNimstrLit("64256   78813\x0A46941   56838\x0A47111   50531\x0A48819   41511\x0A54871   96958\x0A97276   63446\x0A91790   76995\x0A51405   43195\x0A99980   46417\x0A74608   18059\x0A26255   90566\x0A47292   78740\x0A57870   56838\x0A20660   12418\x0A35846   57403\x0A10273   20144\x0A53825   80257\x0A24235   20144\x0A96247   81222\x0A20579   23330\x0A91257   50531\x0A90977   46458\x0A89849   25379\x0A31588   54916\x0A95306   30498\x0A19816   90566\x0A16376   67130\x0A71425   17219\x0A46872   11652\x0A58795   95589\x0A21889   86793\x0A32431   78740\x0A67789   81103\x0A80514   35435\x0A82909   84785\x0A19622   95863\x0A19697   70270\x0A68663   44785\x0A50015   23823\x0A12929   77754\x0A69610   51839\x0A22251   19260\x0A21631   42542\x0A33909   11338\x0A33376   77640\x0A84711   83727\x0A39566   78146\x0A81193   29131\x0A76787   40869\x0A23431   67122\x0A16425   59484\x0A53555   11652\x0A91852   70424\x0A82716   29464\x0A69198   90095\x0A73950   56838\x0A78553   13814\x0A76683   50354\x0A57334   88209\x0A10250   11652\x0A83464   83708\x0A48986   97034\x0A92641   86674\x0A15819   11652\x0A95589   66052\x0A86704   33232\x0A51765   28739\x0A22901   94525\x0A30554   24407\x0A52911   56797\x0A16610   19172\x0A61582   56328\x0A72143   59883\x0A31523   86674\x0A84906   33232\x0A10686   29713\x0A33650   28792\x0A90959   54032\x0A65104   21538\x0A41031   61958\x0A47655   81120\x0A95158   43240\x0A55203   95701\x0A90104   78146\x0A49575   34630\x0A34391   95064\x0A86515   34590\x0A88433   29317\x0A68336   11652\x0A51419   87957\x0A39642   94608\x0A77354   80257\x0A69014   56838\x0A36908   19133\x0A79182   85056\x0A75454   61279\x0A91867   39293\x0A49077   35991\x0A93462   64245\x0A74253   29396\x0A27275   46231\x0A59720   24785\x0A48644   34630\x0A72553   22482\x0A76491   84785\x0A29626   83708\x0A91194   63803\x0A90198   11652\x0A13959   85077\x0A23736   32206\x0A52948   33232\x0A37669   98022\x0A14648   30619\x0A48652   84542\x0A21151   46458\x0A84345   51839\x0A76490   98003\x0A91195   63371\x0A26786   92083\x0A94400   86674\x0A79219   94220\x0A97207   77691\x0A12697   26207\x0A63431   61112\x0A99271   31600\x0A59814   38845\x0A85093   50531\x0A92295   79925\x0A22949   72883\x0A89495   25965\x0A91065   66254\x0A34086   87511\x0A12885   85621\x0A74260   59815\x0A24025   82057\x0A25172   22110\x0A62041   22110\x0A27918   59815\x0A36562   84275\x0A39884   46417\x0A20013   94608\x0A83424   78404\x0A45508   30387\x0A67439   93288\x0A34150   39255\x0A38887   24407\x0A22060   83708\x0A74272   50043\x0A92701   92014\x0A49716   94287\x0A70994   54166\x0A42441   95589\x0A99709   35817\x0A95287   49688\x0A25178   80257\x0A93842   26207\x0A36044   69439\x0A82059   43382\x0A41717   99188\x0A68213   83708\x0A43746   15226\x0A53833   84785\x0A64230   88594\x0A93381   58789\x0A99575   47307\x0A26716   66395\x0A45505   50531\x0A89144   22110\x0A63614   18281\x0A95569   91688\x0A15782   59600\x0A34023   11155\x0A55077   13983\x0A36010   86674\x0A22667   59265\x0A87203   29518\x0A47211   38925\x0A26166   86674\x0A93656   89592\x0A61411   97237\x0A25691   29464\x0A99193   61958\x0A14952   52166\x0A79140   50347\x0A86855   51839\x0A42894   56838\x0A53004   65939\x0A38462   83708\x0A56838   11046\x0A67217   48055\x0A99027   27091\x0A27825   85621\x0A79804   74260\x0A46417   83708\x0A26344   94287\x0A30973   49771\x0A96212   63142\x0A79527   18446\x0A50082   90566\x0A69079   45826\x0A73116   15728\x0A16911   93494\x0A44304   30973\x0A72826   26207\x0A39302   35817\x0A69575   22743\x0A49774   33117\x0A34821   83708\x0A22517   22110\x0A73020   94142\x0A80335   22110\x0A86703   90095\x0A25745   19203\x0A33931   90566\x0A13846   92012\x0A94702   73406\x0A53782   28441\x0A97672   99475\x0A10146   90566\x0A56508   55741\x0A19950   63567\x0A70168   90095\x0A98310   42585\x0A75870   40634\x0A45544   30669\x0A12962   81103\x0A97837   85475\x0A79472   46458\x0A31455   51573\x0A86396   22110\x0A23722   63729\x0A40428   83707\x0A16797   71876\x0A57965   17666\x0A95265   20144\x0A46522   52636\x0A25704   46417\x0A55463   31838\x0A42902   96138\x0A33299   51839\x0A68593   78740\x0A30229   89654\x0A69470   80257\x0A98858   49538\x0A32058   30267\x0A38932   80257\x0A75479   51680\x0A78015   29642\x0A99869   78740\x0A86965   19476\x0A25049   53152\x0A74715   31141\x0A63429   59155\x0A18062   20399\x0A26207   86674\x0A52206   26207\x0A68643   75696\x0A96263   13286\x0A46616   16210\x0A86333   34630\x0A58202   26871\x0A25530   52843\x0A12914   33232\x0A60244   11211\x0A83708   15497\x0A24040   11652\x0A34555   66162\x0A51828   35925\x0A91619   15875\x0A31733   39149\x0A10615   53121\x0A55557   73143\x0A76031   74590\x0A35916   50531\x0A53439   88449\x0A64080   17538\x0A19120   24407\x0A40634   80257\x0A59789   66181\x0A95277   46458\x0A11655   80257\x0A57592   32902\x0A50982   46458\x0A71349   66868\x0A61958   11257\x0A32140   86674\x0A85705   15767\x0A17102   34630\x0A91081   11257\x0A23685   60701\x0A14524   78740\x0A81835   32522\x0A42372   37673\x0A46946   40292\x0A56290   33232\x0A92785   51839\x0A58966   90095\x0A74619   83708\x0A85111   22110\x0A41949   19056\x0A74162   81103\x0A72982   33232\x0A49784   30973\x0A51391   31931\x0A79122   14488\x0A12060   34630\x0A63723   59795\x0A41490   51839\x0A50803   26207\x0A36591   83708\x0A38309   70540\x0A46754   88101\x0A11037   97034\x0A13947   64788\x0A26032   81103\x0A40010   90095\x0A99903   17166\x0A76420   25236\x0A24144   72040\x0A38907   26207\x0A55366   78740\x0A92708   35817\x0A59598   10155\x0A57858   67137\x0A72398   11257\x0A11870   78146\x0A62664   20144\x0A24442   83708\x0A84343   15767\x0A48718   43387\x0A49171   74846\x0A84359   78404\x0A46194   92512\x0A52554   99088\x0A52275   51680\x0A54287   50531\x0A87746   71275\x0A15802   33232\x0A74293   95589\x0A58320   80257\x0A23301   90566\x0A59696   81103\x0A48011   52010\x0A42024   67461\x0A11055   78740\x0A26980   24439\x0A87406   49013\x0A62092   26207\x0A12615   31992\x0A90566   38439\x0A43272   51766\x0A48341   57710\x0A50382   88030\x0A27147   94140\x0A56696   91918\x0A78336   24407\x0A90073   49165\x0A74273   78146\x0A93329   22110\x0A95747   92326\x0A57126   51286\x0A32590   83708\x0A20256   10519\x0A30748   30621\x0A10324   50356\x0A36352   73642\x0A27824   93776\x0A49226   34630\x0A57688   61505\x0A87891   14157\x0A84037   22179\x0A95557   68029\x0A36195   30973\x0A96408   44068\x0A19758   50228\x0A99836   11652\x0A70462   81673\x0A17679   36125\x0A69059   24407\x0A26323   15767\x0A91240   33232\x0A99919   71443\x0A86280   52008\x0A56039   35518\x0A95930   93778\x0A67682   51839\x0A13812   71986\x0A90095   99288\x0A18723   29078\x0A85216   57514\x0A41692   59815\x0A22463   78404\x0A61648   35817\x0A66327   70256\x0A14307   93014\x0A54924   57314\x0A90353   90095\x0A26875   93056\x0A93415   81103\x0A22179   86344\x0A47961   83708\x0A96296   35392\x0A78924   56492\x0A67437   56838\x0A68348   13814\x0A81641   97623\x0A62062   22110\x0A19715   51680\x0A46426   74768\x0A34537   94380\x0A34043   11257\x0A15767   11257\x0A54986   83520\x0A78473   13814\x0A24861   20144\x0A96415   36199\x0A73417   90095\x0A59145   18583\x0A26491   51839\x0A33233   53715\x0A72413   19665\x0A26945   38265\x0A79855   85621\x0A65097   90095\x0A75600   94608\x0A74719   82404\x0A28223   83633\x0A76079   44824\x0A12641   82437\x0A16501   64037\x0A33232   86771\x0A51082   24407\x0A46778   79915\x0A23344   14263\x0A74224   43373\x0A92126   78740\x0A70835   51839\x0A48028   78740\x0A23335   90095\x0A10216   85770\x0A10785   90722\x0A20619   20144\x0A36624   11652\x0A97050   99982\x0A59443   89612\x0A95673   91083\x0A53666   49166\x0A62733   38603\x0A16479   23682\x0A53747   33232\x0A76585   58949\x0A57399   80257\x0A36922   78404\x0A61437   26207\x0A47374   34630\x0A78782   50531\x0A77773   44415\x0A17089   91050\x0A35224   71184\x0A51418   83322\x0A41315   33232\x0A31167   35877\x0A53763   45391\x0A66810   71249\x0A91002   51680\x0A55889   35274\x0A37895   76943\x0A19467   43974\x0A45247   80497\x0A36058   36587\x0A50816   56838\x0A80257   18307\x0A46458   38828\x0A88690   22743\x0A75224   22664\x0A29730   78740\x0A30724   74260\x0A94287   31600\x0A79592   38828\x0A12143   40634\x0A52980   37253\x0A20128   40666\x0A15587   88031\x0A51593   47674\x0A15120   95589\x0A35523   15767\x0A74036   88201\x0A14273   95589\x0A59016   46458\x0A84206   90566\x0A94407   55634\x0A71034   70627\x0A52037   11652\x0A84283   83708\x0A69938   69449\x0A98322   19716\x0A36339   80257\x0A33863   67946\x0A22743   72561\x0A98490   31869\x0A83610   70046\x0A30153   11257\x0A11993   28955\x0A24524   56912\x0A13032   46458\x0A64286   95589\x0A32525   72060\x0A77693   41145\x0A19263   99012\x0A72863   97433\x0A47136   81601\x0A33414   22743\x0A44920   15767\x0A92217   16128\x0A92591   81103\x0A14255   78740\x0A29464   95589\x0A44406   80975\x0A21961   29422\x0A11964   56838\x0A67721   69886\x0A26912   80257\x0A18103   73796\x0A63426   36273\x0A37731   34504\x0A20670   26207\x0A37836   34630\x0A40026   78261\x0A86598   11683\x0A66945   84905\x0A59865   94608\x0A26543   37685\x0A97590   78404\x0A35969   51839\x0A69295   61958\x0A87933   32529\x0A76832   34630\x0A95023   40634\x0A34630   13814\x0A41959   70450\x0A15373   34630\x0A74526   16292\x0A89021   82205\x0A84421   94608\x0A18127   90095\x0A18764   26207\x0A52711   51301\x0A21814   51839\x0A78315   33232\x0A48066   51839\x0A84284   57734\x0A86124   60301\x0A31585   41860\x0A24181   41123\x0A87279   13945\x0A85773   77314\x0A89304   92827\x0A78404   11257\x0A72595   56838\x0A82587   50244\x0A92292   98938\x0A18278   46458\x0A29200   50531\x0A42172   17746\x0A10465   33551\x0A62391   48241\x0A95933   68406\x0A82058   85621\x0A16904   47580\x0A29358   94608\x0A91563   29640\x0A24356   63687\x0A41283   33232\x0A31131   36480\x0A62331   90566\x0A39831   73641\x0A83195   56838\x0A35817   15767\x0A47204   52370\x0A60179   87307\x0A17930   83708\x0A59799   38261\x0A41307   86674\x0A35269   20144\x0A21845   93623\x0A17582   50531\x0A60576   92995\x0A51969   19613\x0A13611   22743\x0A16291   44315\x0A14801   85621\x0A45622   32578\x0A46893   96499\x0A18476   59815\x0A33185   50531\x0A59345   11652\x0A85055   44877\x0A90967   86728\x0A57081   21645\x0A67183   65255\x0A53280   98144\x0A77972   45453\x0A55668   34630\x0A51244   86674\x0A93800   22110\x0A35609   76922\x0A80958   80257\x0A80957   86674\x0A23206   68169\x0A58954   95589\x0A60801   50531\x0A24892   65766\x0A79125   95959\x0A62436   49340\x0A51675   13284\x0A54089   87123\x0A12332   61958\x0A93683   84248\x0A64266   75529\x0A39695   93315\x0A75179   78740\x0A25814   46484\x0A18896   19911\x0A69287   85621\x0A97339   34630\x0A11257   83708\x0A24241   84785\x0A65208   11445\x0A70111   80239\x0A28024   55786\x0A94496   29053\x0A34214   56838\x0A15328   30973\x0A89279   65555\x0A13814   26207\x0A59690   61478\x0A62247   63130\x0A83234   90566\x0A61861   59853\x0A74106   10254\x0A17328   35817\x0A57491   48834\x0A71199   55890\x0A53791   24218\x0A68974   31219\x0A47164   56838\x0A20523   96595\x0A16253   31330\x0A78637   97034\x0A36563   66886\x0A97257   56838\x0A65473   58382\x0A97846   77390\x0A63188   64946\x0A60862   80372\x0A23343   59815\x0A25361   87026\x0A14279   79342\x0A77188   78404\x0A35097   99995\x0A72613   19487\x0A20971   97034\x0A27917   20144\x0A87889   72616\x0A51839   40258\x0A27660   72628\x0A89010   84034\x0A87829   90566\x0A25797   11652\x0A56211   58084\x0A59788   13115\x0A92355   22743\x0A17940   26207\x0A22822   27211\x0A44358   45220\x0A85850   20144\x0A64268   89540\x0A13244   94608\x0A21551   95589\x0A77129   35809\x0A31842   11652\x0A74965   32821\x0A75323   56838\x0A10030   49271\x0A11462   97034\x0A21160   26207\x0A14596   73844\x0A76110   62622\x0A49881   43463\x0A21601   51839\x0A14484   78740\x0A19562   18451\x0A59735   46458\x0A96979   56222\x0A82261   13814\x0A45837   57345\x0A86536   34713\x0A62288   97704\x0A41162   72587\x0A38304   20144\x0A53617   77493\x0A59482   81557\x0A71276   64082\x0A25857   57114\x0A16907   82468\x0A13672   40738\x0A73551   21978\x0A52538   24407\x0A67418   13865\x0A13242   22110\x0A12944   13814\x0A97964   29756\x0A80310   99455\x0A21854   56838\x0A71068   94608\x0A58327   13814\x0A43452   61958\x0A45417   33218\x0A94608   81103\x0A98624   73288\x0A44722   83708\x0A45104   74178\x0A67497   34972\x0A30038   29880\x0A47272   38828\x0A83026   25415\x0A38193   91815\x0A17684   84785\x0A86157   95589\x0A83558   71725\x0A57785   94608\x0A40393   36957\x0A98844   22392\x0A95198   30276\x0A21801   69825\x0A58679   28710\x0A63987   66512\x0A23954   38179\x0A71894   76180\x0A31700   17531\x0A75484   65725\x0A19993   16417\x0A29343   37383\x0A94771   18690\x0A44622   20144\x0A97057   77068\x0A60776   13534\x0A62787   32974\x0A47964   27153\x0A19594   94878\x0A72116   55582\x0A79318   55418\x0A61978   64528\x0A46756   83708\x0A24796   45078\x0A66010   95589\x0A58753   53746\x0A10193   85621\x0A57866   31224\x0A20780   94608\x0A78482   33232\x0A89976   22110\x0A80828   78740\x0A80205   58782\x0A22110   22110\x0A56310   94287\x0A26068   67268\x0A90182   47866\x0A99907   58906\x0A62372   86537\x0A17257   94608\x0A37684   33552\x0A39830   22110\x0A89726   33232\x0A69498   65640\x0A92985   73920\x0A68905   20176\x0A16788   35542\x0A75897   52187\x0A48600   81103\x0A28077   81531\x0A66913   15772\x0A79179   22743\x0A20144   22110\x0A90754   51839\x0A88917   91866\x0A28026   57141\x0A66940   20144\x0A81435   22110\x0A17163   68734\x0A16474   90566\x0A48360   36491\x0A76309   74652\x0A18920   38506\x0A11184   89015\x0A71777   82010\x0A90858   33232\x0A58229   56838\x0A65978   76364\x0A35211   22867\x0A65729   93282\x0A24638   26207\x0A73424   22110\x0A88338   81408\x0A90258   78740\x0A31600   51010\x0A60964   11652\x0A83301   80257\x0A97515   33232\x0A56777   92832\x0A36727   75609\x0A38828   78740\x0A17615   26207\x0A59305   92826\x0A25980   38168\x0A11652   47318\x0A17124   69964\x0A19321   11652\x0A16563   42338\x0A54576   81103\x0A93884   89753\x0A32696   85162\x0A52051   73134\x0A43866   72475\x0A17519   97034\x0A30750   51839\x0A26771   11652\x0A81352   85897\x0A17047   34630\x0A10065   90566\x0A77453   94851\x0A80307   84785\x0A96001   86674\x0A54245   38145\x0A79211   29144\x0A51138   50916\x0A14093   22110\x0A46751   15767\x0A59076   90566\x0A24821   94287\x0A48904   67355\x0A26437   58054\x0A39935   35743\x0A70499   56838\x0A27755   50838\x0A16121   19261\x0A80181   23332\x0A19883   83708\x0A46964   70936\x0A34795   78339\x0A10705   51839\x0A76968   33232\x0A48193   29808\x0A99215   47551\x0A31223   93854\x0A83617   31600\x0A50966   72994\x0A12203   14296\x0A71268   95589\x0A10187   12480\x0A28093   90566\x0A99815   11652\x0A28987   74681\x0A51057   24740\x0A16007   77056\x0A29380   78420\x0A66329   62373\x0A91090   34630\x0A65100   81103\x0A92119   21944\x0A95881   18021\x0A13538   78404\x0A67441   25952\x0A36360   80504\x0A43095   51834\x0A58161   40617\x0A78502   15767\x0A68347   78740\x0A57569   72562\x0A90296   20144\x0A92799   84785\x0A73517   68264\x0A23554   86674\x0A42370   84785\x0A11121   90566\x0A37754   31600\x0A82632   61958\x0A32740   95795\x0A60262   86443\x0A29286   78404\x0A25091   71365\x0A86674   22110\x0A99481   34630\x0A57200   82612\x0A51409   99801\x0A93094   78404\x0A85708   34630\x0A23510   48826\x0A59715   11652\x0A55579   80582\x0A74919   31912\x0A23040   81110\x0A55692   61958\x0A43965   81582\x0A85806   32371\x0A29315   83760\x0A94587   43993\x0A22351   14835\x0A38418   21452\x0A10283   96909\x0A17138   85621\x0A17376   41408\x0A30433   69498\x0A38485   85095\x0A71122   61958\x0A58574   30253\x0A14545   22068\x0A69678   73746\x0A97034   56838\x0A50531   29464\x0A75065   86674\x0A81103   69969\x0A59842   77885\x0A73063   90646\x0A18089   72178\x0A98634   11652\x0A38721   37867\x0A27442   11257\x0A85621   56133\x0A67896   44615\x0A37226   83818\x0A99638   93555\x0A98255   83708\x0A95365   51839\x0A24536   99780\x0A43881   80950\x0A86620   43055\x0A83679   72460\x0A40095   78889\x0A55345   34630\x0A20969   13814\x0A62957   86828\x0A84785   45483\x0A64585   80830\x0A58230   31600\x0A19025   93293\x0A24033   13972\x0A87712   78740\x0A41092   22110\x0A96433   33232\x0A54457   84785\x0A32612   65638\x0A64105   80257\x0A78146   26943\x0A83222   31139\x0A43536   45129\x0A93440   50531\x0A37744   31600\x0A86030   59327\x0A42840   81274\x0A99272   20044\x0A26779   19115\x0A59815   97034\x0A20218   70403\x0A70051   61958\x0A95421   55489\x0A91282   19861\x0A86074   63272\x0A13563   32921\x0A93577   40797\x0A84563   81103\x0A68335   86674\x0A19985   82068\x0A31843   64244\x0A51680   80257\x0A99597   94287\x0A52944   86674\x0A46110   56838\x0A68702   47750\x0A44893   59180\x0A19070   47848\x0A45997   65301\x0A19990   50531\x0A49947   59815\x0A48382   58240\x0A36527   10338\x0A50798   20144\x0A30194   94608\x0A78740   78404\x0A67462   51839\x0A34679   90417\x0A18013   41914\x0A83629   46417\x0A24407   51680\x0A99828   84785\x0A36006   86674\x0A30914   90095\x0A47918   11257\x0A64417   70229\x0A37597   78404\x0A"), NTI33554449);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_956301997;
+
+}
+
+function substr__system_u3687(s_p0, first_p1, last_p2) {
+  var result_33558123 = [];
+
+  var F = {procname: "system.substr", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 2779;
+    F.filename = "system.nim";
+    var first_33558124 = nimMax(first_p1, 0);
+    F.line = 2780;
+    var L_33558125 = nimMax(addInt(subInt(nimMin(last_p2, (s_p0).length - 1), first_33558124), 1), 0);
+    F.line = 2781;
+    result_33558123 = nimCopy(null, mnewString(chckRange(L_33558125, 0, 2147483647)), NTI33554449);
+    Label1: {
+      F.line = 2782;
+      var i_33558130 = 0;
+      F.line = 81;
+      F.filename = "iterators_1.nim";
+      var colontmp__520093748 = 0;
+      F.line = 2782;
+      F.filename = "system.nim";
+      colontmp__520093748 = subInt(L_33558125, 1);
+      F.line = 96;
+      F.filename = "iterators_1.nim";
+      var res_520093749 = 0;
+      Label2: {
+        F.line = 97;
+          Label3: while (true) {
+          if (!(res_520093749 <= colontmp__520093748)) break Label3;
+            F.line = 2782;
+            F.filename = "system.nim";
+            i_33558130 = res_520093749;
+            F.line = 2783;
+            result_33558123[chckIndx(i_33558130, 0, (result_33558123).length - 1)] = s_p0[chckIndx(addInt(i_33558130, first_33558124), 0, (s_p0).length - 1)];
+            F.line = 102;
+            F.filename = "iterators_1.nim";
+            res_520093749 = addInt(res_520093749, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_33558123;
+
+}
+
+function contains__pkgZregexZcommon_u306(s_p0, value_p1) {
+  var result_1174405432 = false;
+
+  var F = {procname: "contains.contains", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 736;
+    F.filename = "system.nim";
+    result_1174405432 = ((s_p0.a <= value_p1) && (value_p1 <= s_p0.b));
+  framePtr = F.prev;
+
+  return result_1174405432;
+
+}
+
+function HEX2EHEX2E__pkgZregexZcommon_u261(a_p0, b_p1) {
+  var result_1174405388 = ({a: 0, b: 0});
+
+  var F = {procname: ".....", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 420;
+    F.filename = "system.nim";
+    result_1174405388 = nimCopy(result_1174405388, {a: a_p0, b: b_p1}, NTI1174405642);
+  framePtr = F.prev;
+
+  return result_1174405388;
+
+}
+
+function verifyUtf8__pkgZregexZcommon_u255(s_p0) {
+            var Temporary3;
+            var Temporary4;
+            var Temporary5;
+            var Temporary6;
+            var Temporary7;
+            var Temporary8;
+            var Temporary9;
+            var Temporary10;
+
+  var result_1174405377 = 0;
+
+  var F = {procname: "common.verifyUtf8", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim", line: 0};
+  framePtr = F;
+    F.line = 80;
+    F.filename = "common.nim";
+    var state_1174405378 = 1;
+    F.line = 81;
+    var i_1174405379 = 0;
+    F.line = 82;
+    var L_1174405380 = (s_p0).length;
+    Label1: {
+      F.line = 83;
+        Label2: while (true) {
+        if (!(i_1174405379 < L_1174405380)) break Label2;
+          F.line = 84;
+          switch (state_1174405378) {
+          case 1:
+            F.line = 86;
+            result_1174405377 = i_1174405379;
+            F.line = 87;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(0, 127), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary3 = 1;
+            }
+            else {
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(194, 223), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary3 = 2;
+            }
+            else {
+            if ((contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(225, 236), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)]) || contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(238, 239), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)]))) {
+            Temporary3 = 3;
+            }
+            else {
+            if ((s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)] == 224)) {
+            Temporary3 = 4;
+            }
+            else {
+            if ((s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)] == 237)) {
+            Temporary3 = 5;
+            }
+            else {
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(241, 243), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary3 = 6;
+            }
+            else {
+            if ((s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)] == 240)) {
+            Temporary3 = 7;
+            }
+            else {
+            if ((s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)] == 244)) {
+            Temporary3 = 8;
+            }
+            else {
+            Temporary3 = 0;
+            }
+            }}}}}}}
+            state_1174405378 = Temporary3;
+            break;
+          case 2:
+            F.line = 97;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(128, 191), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary4 = 1;
+            }
+            else {
+            Temporary4 = 0;
+            }
+            
+            state_1174405378 = Temporary4;
+            break;
+          case 3:
+            F.line = 99;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(128, 191), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary5 = 2;
+            }
+            else {
+            Temporary5 = 0;
+            }
+            
+            state_1174405378 = Temporary5;
+            break;
+          case 4:
+            F.line = 101;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(160, 191), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary6 = 2;
+            }
+            else {
+            Temporary6 = 0;
+            }
+            
+            state_1174405378 = Temporary6;
+            break;
+          case 5:
+            F.line = 103;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(128, 159), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary7 = 2;
+            }
+            else {
+            Temporary7 = 0;
+            }
+            
+            state_1174405378 = Temporary7;
+            break;
+          case 6:
+            F.line = 105;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(128, 191), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary8 = 3;
+            }
+            else {
+            Temporary8 = 0;
+            }
+            
+            state_1174405378 = Temporary8;
+            break;
+          case 7:
+            F.line = 107;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(144, 191), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary9 = 3;
+            }
+            else {
+            Temporary9 = 0;
+            }
+            
+            state_1174405378 = Temporary9;
+            break;
+          case 8:
+            F.line = 109;
+            if (contains__pkgZregexZcommon_u306(HEX2EHEX2E__pkgZregexZcommon_u261(128, 143), s_p0[chckIndx(i_1174405379, 0, (s_p0).length - 1)])) {
+            Temporary10 = 3;
+            }
+            else {
+            Temporary10 = 0;
+            }
+            
+            state_1174405378 = Temporary10;
+            break;
+          case 0:
+            F.line = 111;
+            break Label1;
+            break;
+          }
+          F.line = 112;
+          i_1174405379 = addInt(i_1174405379, 1);
+        }
+    };
+    if ((state_1174405378 == 1)) {
+    F.line = 114;
+    result_1174405377 = (-1);
+    }
+    
+  framePtr = F.prev;
+
+  return result_1174405377;
+
+}
+
+function sysFatal__stdZassertions_u45(message_p1) {
+  var F = {procname: "sysFatal.sysFatal", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\fatal.nim", line: 0};
+  framePtr = F;
+    F.line = 53;
+    F.filename = "fatal.nim";
+    raiseException({message: nimCopy(null, message_p1, NTI33554449), m_type: NTI134217745, parent: null, name: null, trace: [], up: null}, "AssertionDefect");
+  framePtr = F.prev;
+
+  
+}
+
+function raiseAssert__stdZassertions_u43(msg_p0) {
+  var F = {procname: "assertions.raiseAssert", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\assertions.nim", line: 0};
+  framePtr = F;
+    F.line = 36;
+    F.filename = "assertions.nim";
+    sysFatal__stdZassertions_u45(msg_p0);
+  framePtr = F.prev;
+
+  
+}
+
+function failedAssertImpl__stdZassertions_u85(msg_p0) {
+  var F = {procname: "assertions.failedAssertImpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\std\\assertions.nim", line: 0};
+  framePtr = F;
+    F.line = 41;
+    F.filename = "assertions.nim";
+    raiseAssert__stdZassertions_u43(msg_p0);
+  framePtr = F.prev;
+
+  
+}
+
+function canOpt__pkgZregexZlitopt_u891(litOpt_p0) {
+  var result_1291846525 = false;
+
+  var F = {procname: "litopt.canOpt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\litopt.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 285;
+    F.filename = "litopt.nim";
+    result_1291846525 = (0 < (litOpt_p0.nfa.s).length);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1291846525;
+
+}
+
+function new__pkgZregexZnfatype_u1414() {
+  var result_1275069833 = null;
+
+  var F = {procname: "new.new", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 820;
+    F.filename = "system.nim";
+    var r_1275069835 = null;
+    F.line = 823;
+    r_1275069835 = ({sx: [], ss: [], si: 0});
+    F.line = 824;
+    result_1275069833 = r_1275069835;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1275069833;
+
+}
+
+function newSeq__pkgZregexZnfatype_u1473(len_p0) {
+  var result_1275069893 = [];
+
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 635;
+    F.filename = "system.nim";
+    result_1275069893 = new Array(len_p0); for (var i = 0 ; i < len_p0 ; ++i) { result_1275069893[i] = {Field0: 0, Field1: 0, Field2: ({a: 0, b: 0})}; }  framePtr = F.prev;
+
+  return result_1275069893;
+
+}
+
+function newSeq__pkgZregexZtypes_u539(len_p0) {
+  var result_1090519583 = [];
+
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 635;
+    F.filename = "system.nim";
+    result_1090519583 = new Array(len_p0); for (var i = 0 ; i < len_p0 ; ++i) { result_1090519583[i] = 0; }  framePtr = F.prev;
+
+  return result_1090519583;
+
+}
+
+function newSubmatches__pkgZregexZnfatype_u1411(size_p0) {
+  var result_1275069829 = null;
+
+  var F = {procname: "nfatype.newSubmatches", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 310;
+    F.filename = "nfatype.nim";
+    result_1275069829 = new__pkgZregexZnfatype_u1414();
+    F.line = 311;
+    result_1275069829.sx = nimCopy(null, newSeq__pkgZregexZnfatype_u1473(8), NTI1275069395);
+    F.line = 312;
+    result_1275069829.ss = nimCopy(null, newSeq__pkgZregexZtypes_u539(chckRange(size_p0, 0, 2147483647)), NTI1090519372);
+    F.line = 313;
+    result_1275069829.si = 0;
+  framePtr = F.prev;
+
+  return result_1275069829;
+
+}
+
+function nextPowerOfTwo__pureZmath_u274(x_p0) {
+  var result_771752212 = 0;
+
+    result_771752212 = (x_p0 - 1);
+    result_771752212 = (result_771752212 | (result_771752212 >> 16));
+    result_771752212 = (result_771752212 | (result_771752212 >> 8));
+    result_771752212 = (result_771752212 | (result_771752212 >> 4));
+    result_771752212 = (result_771752212 | (result_771752212 >> 2));
+    result_771752212 = (result_771752212 | (result_771752212 >> 1));
+    result_771752212 += (1 + ((x_p0 <= 0) ? 1 : 0));
+
+  return result_771752212;
+
+}
+
+function initCapts3__pkgZregexZnfatype_u131(groupsLen_p0) {
+  var result_1275068549 = ({s: [], groupsLen: 0, blockSize: 0, blockSizeL2: 0, states: [], free: [], freezeId: 0});
+
+  var F = {procname: "nfatype.initCapts3", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 70;
+    F.filename = "nfatype.nim";
+    result_1275068549.groupsLen = chckRange(groupsLen_p0, 0, 2147483647);
+    F.line = 71;
+    result_1275068549.blockSize = chckRange(nimMax(2, nextPowerOfTwo__pureZmath_u274(groupsLen_p0)), 0, 2147483647);
+    F.line = 72;
+    result_1275068549.blockSizeL2 = chckRange(Math.log2(result_1275068549.blockSize), 0, 2147483647);
+    F.line = 420;
+    F.filename = "system.nim";
+    result_1275068549.freezeId = 5;
+  framePtr = F.prev;
+
+  return result_1275068549;
+
+}
+
+function contains__pkgZregexZparser_u148(s_p0, value_p1) {
+  var result_1207959706 = false;
+
+  var F = {procname: "contains.contains", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 736;
+    F.filename = "system.nim";
+    result_1207959706 = ((s_p0.a <= value_p1) && (value_p1 <= s_p0.b));
+  framePtr = F.prev;
+
+  return result_1207959706;
+
+}
+
+function HEX2EHEX2E__stdZstrbasics_u50(a_p0, b_p1) {
+  var result_721420343 = ({a: 0, b: 0});
+
+  var F = {procname: ".....", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 420;
+    F.filename = "system.nim";
+    result_721420343 = nimCopy(result_721420343, {a: a_p0, b: b_p1}, NTI721420312);
+  framePtr = F.prev;
+
+  return result_721420343;
+
+}
+
+function bwRuneAt__pkgZregexZcommon_u42(s_p0, n_p1) {
+  var result_1174405165 = 0;
+
+  var F = {procname: "common.bwRuneAt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim", line: 0};
+  framePtr = F;
+    if (!((0 <= n_p1))) {
+    F.line = 40;
+    F.filename = "common.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim(40, 3) `n >= 0` "));
+    }
+    
+    if (!((n_p1 <= subInt((s_p0).length, 1)))) {
+    F.line = 41;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim(41, 3) `n <= s.len - 1` "));
+    }
+    
+    F.line = 42;
+    var n_1174405176 = n_p1;
+    Label1: {
+      F.line = 43;
+        Label2: while (true) {
+        if (!((0 < n_1174405176) && ((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] >> 6) == 2))) break Label2;
+          F.line = 44;
+          n_1174405176 = subInt(n_1174405176, 1);
+        }
+    };
+    if ((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] <= 127)) {
+    F.line = 91;
+    F.filename = "unicode.nim";
+    result_1174405165 = chckRange(s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)], (-2147483648), 2147483647);
+    }
+    else {
+    if (((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] >>> 5) == 6)) {
+    if ((n_1174405176 <= subInt((s_p0).length, 2))) {
+    F.line = 96;
+    result_1174405165 = chckRange(((((((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] & 31) >>> 0) << 6) >>> 0) | ((s_p0[chckIndx(addInt(n_1174405176, 1), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 100;
+      result_1174405165 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] >>> 4) == 14)) {
+    if ((n_1174405176 <= subInt((s_p0).length, 3))) {
+    F.line = 106;
+    result_1174405165 = chckRange(((((((((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] & 15) >>> 0) << 12) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(n_1174405176, 2), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 111;
+      result_1174405165 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] >>> 3) == 30)) {
+    if ((n_1174405176 <= subInt((s_p0).length, 4))) {
+    F.line = 118;
+    result_1174405165 = chckRange(((((((((((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] & 7) >>> 0) << 18) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 2), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(n_1174405176, 3), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 124;
+      result_1174405165 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] >>> 2) == 62)) {
+    if ((n_1174405176 <= subInt((s_p0).length, 5))) {
+    F.line = 132;
+    result_1174405165 = chckRange(((((((((((((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] & 3) >>> 0) << 24) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 2), 0, (s_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 3), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(n_1174405176, 4), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 139;
+      result_1174405165 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] >>> 1) == 126)) {
+    if ((n_1174405176 <= subInt((s_p0).length, 6))) {
+    F.line = 148;
+    result_1174405165 = chckRange(((((((((((((((s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)] & 1) >>> 0) << 30) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 24) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 2), 0, (s_p0).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 3), 0, (s_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(n_1174405176, 4), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(n_1174405176, 5), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 156;
+      result_1174405165 = 65533;
+    }
+    
+    }
+    else {
+      F.line = 159;
+      result_1174405165 = chckRange(s_p0[chckIndx(n_1174405176, 0, (s_p0).length - 1)], (-2147483648), 2147483647);
+    }
+    }}}}}
+  framePtr = F.prev;
+
+  return result_1174405165;
+
+}
+
+function clear__pkgZregexZnfatype_u1584(sm_p0, sm_p0_Idx) {
+  var F = {procname: "nfatype.clear", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 338;
+    F.filename = "nfatype.nim";
+    sm_p0[sm_p0_Idx].si = 0;
+  framePtr = F.prev;
+
+  
+}
+
+function hasState__pkgZregexZnfatype_u1546(sm_p0, n_p1) {
+  var result_1275069965 = false;
+
+  var F = {procname: "nfatype.hasState", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 323;
+    F.filename = "nfatype.nim";
+    result_1275069965 = ((sm_p0.ss[chckIndx(n_p1, 0, (sm_p0.ss).length - 1)] < sm_p0.si) && (sm_p0.sx[chckIndx(sm_p0.ss[chckIndx(n_p1, 0, (sm_p0.ss).length - 1)], 0, (sm_p0.sx).length - 1)].Field0 == n_p1));
+  framePtr = F.prev;
+
+  return result_1275069965;
+
+}
+
+function add__pkgZregexZnfatype_u1550(sm_p0, sm_p0_Idx, item_p1) {
+    var Temporary1;
+
+  var F = {procname: "nfatype.add", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!(!(hasState__pkgZregexZnfatype_u1546(sm_p0[sm_p0_Idx], item_p1.Field0)))) {
+    F.line = 326;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(326, 9) `not sm.hasState(item.ni)` "));
+    }
+    
+    if (!((((sm_p0[sm_p0_Idx].si) | 0) <= (sm_p0[sm_p0_Idx].sx).length))) {
+    F.line = 327;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(327, 3) `sm.si <= sm.sx.len` "));
+    }
+    
+    if ((((sm_p0[sm_p0_Idx].si) | 0) == (sm_p0[sm_p0_Idx].sx).length)) {
+    F.line = 329;
+    if (sm_p0[sm_p0_Idx].sx.length < (Temporary1 = chckRange(mulInt((sm_p0[sm_p0_Idx].sx).length, 2), 0, 2147483647), Temporary1)) { for (var i = sm_p0[sm_p0_Idx].sx.length ; i < Temporary1 ; ++i) sm_p0[sm_p0_Idx].sx.push({Field0: 0, Field1: 0, Field2: ({a: 0, b: 0})}); }
+               else { sm_p0[sm_p0_Idx].sx.length = Temporary1; };
+    }
+    
+    F.line = 330;
+    sm_p0[sm_p0_Idx].sx[chckIndx(sm_p0[sm_p0_Idx].si, 0, (sm_p0[sm_p0_Idx].sx).length - 1)] = nimCopy(sm_p0[sm_p0_Idx].sx[chckIndx(sm_p0[sm_p0_Idx].si, 0, (sm_p0[sm_p0_Idx].sx).length - 1)], item_p1, NTI1275069342);
+    F.line = 331;
+    sm_p0[sm_p0_Idx].ss[chckIndx(item_p1.Field0, 0, (sm_p0[sm_p0_Idx].ss).length - 1)] = sm_p0[sm_p0_Idx].si;
+    F.line = 332;
+    sm_p0[sm_p0_Idx].si = addInt(sm_p0[sm_p0_Idx].si, 1);
+  framePtr = F.prev;
+
+  
+}
+
+function len__pkgZregexZnfatype_u1581(sm_p0) {
+  var result_1275069999 = 0;
+
+  var F = {procname: "nfatype.len", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 335;
+    F.filename = "nfatype.nim";
+    result_1275069999 = ((sm_p0.si) | 0);
+  framePtr = F.prev;
+
+  return result_1275069999;
+
+}
+
+function check__pkgZregexZnfatype_u147(curr_p0, next_p1) {
+    var Temporary1;
+
+  var result_1275068566 = false;
+
+  var F = {procname: "nfatype.check", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 77;
+    F.filename = "nfatype.nim";
+    F.line = 77;
+    if (    next_p1 == 0    ){      Temporary1 = ((((curr_p0 == 0) || (curr_p0 == 3)) || (curr_p0 == 4)) || contains__pkgZregexZcommon_u306(stsFrozen_1275068445, curr_p0));
+      }
+    else if (    next_p1 == 1    ){      Temporary1 = ((curr_p0 == 0) || (curr_p0 == 2));
+      }
+    else if (    next_p1 == 2    ){      Temporary1 = ((curr_p0 == 0) || (curr_p0 == 1));
+      }
+    else if (    next_p1 == 3    ){      Temporary1 = ((curr_p0 == 2) || (curr_p0 == 3));
+      }
+    else if (    next_p1 == 4    ){      Temporary1 = (((curr_p0 == 0) || (curr_p0 == 1)) || contains__pkgZregexZcommon_u306(stsFrozen_1275068445, curr_p0));
+      }
+    else{
+      if (!(contains__pkgZregexZcommon_u306(stsFrozen_1275068445, next_p1))) {
+      F.line = 97;
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(97, 5) `next in stsFrozen` "));
+      }
+      
+      Temporary1 = (((curr_p0 == 0) || (curr_p0 == 1)) || (curr_p0 == 2));
+      }
+    result_1275068566 = Temporary1;
+  framePtr = F.prev;
+
+  return result_1275068566;
+
+}
+
+function to__pkgZregexZnfatype_u321(a_p0, a_p0_Idx, b_p1) {
+  var F = {procname: "nfatype.to", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!(check__pkgZregexZnfatype_u147(a_p0[a_p0_Idx], b_p1))) {
+    F.line = 103;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85((makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(103, 3) `check(a, b)` ")).concat(HEX24__systemZdollars_u8(((a_p0[a_p0_Idx]) | 0)),[32],HEX24__systemZdollars_u8(((b_p1) | 0))));
+    }
+    
+    F.line = 104;
+    a_p0[a_p0_Idx] = b_p1;
+  framePtr = F.prev;
+
+  
+}
+
+function keepAlive__pkgZregexZnfatype_u329(capts_p0, captIdx_p1) {
+  var F = {procname: "nfatype.keepAlive", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!(!((capts_p0.states[chckIndx(captIdx_p1, 0, (capts_p0.states).length - 1)] == 3)))) {
+    F.line = 108;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(108, 3) `state != stsRecycled` "));
+    }
+    
+    if (((capts_p0.states[chckIndx(captIdx_p1, 0, (capts_p0.states).length - 1)] == 0) || (capts_p0.states[chckIndx(captIdx_p1, 0, (capts_p0.states).length - 1)] == 2))) {
+    F.line = 111;
+    to__pkgZregexZnfatype_u321(capts_p0.states, chckIndx(captIdx_p1, 0, (capts_p0.states).length - 1), 1);
+    }
+    
+  framePtr = F.prev;
+
+  
+}
+
+function isEpsilonTransition__pkgZregexZtypes_u611(n_p0) {
+    var Temporary1;
+
+  var result_1090519653 = false;
+
+  var F = {procname: "types.isEpsilonTransition", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\types.nim", line: 0};
+  framePtr = F;
+    F.line = 279;
+    F.filename = "types.nim";
+    F.line = 279;
+    switch (n_p0.kind) {
+    case 3:
+    case 4:
+    case 11:
+    case 12:
+    case 13:
+    case 14:
+    case 15:
+    case 16:
+    case 17:
+    case 18:
+    case 29:
+    case 30:
+    case 39:
+    case 40:
+    case 41:
+    case 42:
+      Temporary1 = true;
+      break;
+    default: 
+      Temporary1 = false;
+      break;
+    }
+    result_1090519653 = Temporary1;
+  framePtr = F.prev;
+
+  return result_1090519653;
+
+}
+
+function pop__pkgZregexZnfa_u283(s_p0, s_p0_Idx) {
+  var result_1358954782 = 0;
+
+  var F = {procname: "pop.pop", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 1773;
+    F.filename = "system.nim";
+    var L_1358954786 = subInt((s_p0[s_p0_Idx]).length, 1);
+    F.line = 1778;
+    result_1358954782 = s_p0[s_p0_Idx][chckIndx(L_1358954786, 0, (s_p0[s_p0_Idx]).length - 1)];
+    F.line = 1779;
+    if (s_p0[s_p0_Idx].length < chckRange(L_1358954786, 0, 2147483647)) { for (var i = s_p0[s_p0_Idx].length ; i < chckRange(L_1358954786, 0, 2147483647) ; ++i) s_p0[s_p0_Idx].push(0); }
+               else { s_p0[s_p0_Idx].length = chckRange(L_1358954786, 0, 2147483647); };
+  framePtr = F.prev;
+
+  return result_1358954782;
+
+}
+
+function len__pkgZregexZnfatype_u40(capts_p0) {
+  var result_1275068458 = 0;
+
+  var F = {procname: "nfatype.len", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 40;
+    F.filename = "nfatype.nim";
+    result_1275068458 = ((capts_p0.s).length >> capts_p0.blockSizeL2);
+  framePtr = F.prev;
+
+  return result_1275068458;
+
+}
+
+function HEX5BHEX5DHEX3D__pkgZregexZnfatype_u107(capts_p0, i_p1, j_p2, x_p3) {
+  var F = {procname: "nfatype.[]=", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!((i_p1 <= subInt(len__pkgZregexZnfatype_u40(capts_p0), 1)))) {
+    F.line = 53;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(53, 3) `i <= capts.len - 1` "));
+    }
+    
+    if (!((j_p2 <= subInt(capts_p0.blockSize, 1)))) {
+    F.line = 54;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(54, 3) `j <= capts.blockSize - 1` "));
+    }
+    
+    F.line = 55;
+    capts_p0.s[chckIndx(addInt(((i_p1 << capts_p0.blockSizeL2) << 0 >> 0), j_p2), 0, (capts_p0.s).length - 1)] = nimCopy(capts_p0.s[chckIndx(addInt(((i_p1 << capts_p0.blockSizeL2) << 0 >> 0), j_p2), 0, (capts_p0.s).length - 1)], x_p3, NTI721420312);
+  framePtr = F.prev;
+
+  
+}
+
+function HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p0, i_p1, j_p2) {
+  var result_1275068492 = null;
+
+  var F = {procname: "nfatype.[]", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!((i_p1 <= subInt(len__pkgZregexZnfatype_u40(capts_p0), 1)))) {
+    F.line = 48;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(48, 3) `i <= capts.len - 1` "));
+    }
+    
+    if (!((j_p2 <= subInt(capts_p0.blockSize, 1)))) {
+    F.line = 49;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(49, 3) `j <= capts.blockSize - 1` "));
+    }
+    
+    F.line = 50;
+    result_1275068492 = capts_p0.s[chckIndx(addInt(((i_p1 << capts_p0.blockSizeL2) << 0 >> 0), j_p2), 0, (capts_p0.s).length - 1)];
+  framePtr = F.prev;
+
+  return result_1275068492;
+
+}
+
+function diverge__pkgZregexZnfatype_u483(capts_p0, captIdx_p1) {
+  var result_1275068902 = 0;
+
+  var F = {procname: "nfatype.diverge", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if ((0 < (capts_p0.free).length)) {
+    F.line = 135;
+    F.filename = "nfatype.nim";
+    result_1275068902 = ((pop__pkgZregexZnfa_u283(capts_p0, "free")) | 0);
+    Label1: {
+      F.line = 136;
+      var i_1275068913 = 0;
+      F.line = 81;
+      F.filename = "iterators_1.nim";
+      var colontmp__520093806 = 0;
+      F.line = 136;
+      F.filename = "nfatype.nim";
+      colontmp__520093806 = subInt(capts_p0.blockSize, 1);
+      F.line = 96;
+      F.filename = "iterators_1.nim";
+      var res_520093807 = 0;
+      Label2: {
+        F.line = 97;
+          Label3: while (true) {
+          if (!(res_520093807 <= colontmp__520093806)) break Label3;
+            F.line = 136;
+            F.filename = "nfatype.nim";
+            i_1275068913 = res_520093807;
+            F.line = 137;
+            HEX5BHEX5DHEX3D__pkgZregexZnfatype_u107(capts_p0, chckRange(result_1275068902, 0, 2147483647), chckRange(i_1275068913, 0, 2147483647), nonCapture_1275068429);
+            F.line = 102;
+            F.filename = "iterators_1.nim";
+            res_520093807 = addInt(res_520093807, 1);
+          }
+      };
+    };
+    F.line = 138;
+    F.filename = "nfatype.nim";
+    to__pkgZregexZnfatype_u321(capts_p0.states, chckIndx(result_1275068902, 0, (capts_p0.states).length - 1), 0);
+    }
+    else {
+      F.line = 140;
+      result_1275068902 = ((len__pkgZregexZnfatype_u40(capts_p0)) | 0);
+      Label4: {
+        F.line = 141;
+        var __1275068918 = 0;
+        F.line = 81;
+        F.filename = "iterators_1.nim";
+        var colontmp__520093810 = 0;
+        F.line = 141;
+        F.filename = "nfatype.nim";
+        colontmp__520093810 = subInt(capts_p0.blockSize, 1);
+        F.line = 96;
+        F.filename = "iterators_1.nim";
+        var res_520093811 = 0;
+        Label5: {
+          F.line = 97;
+            Label6: while (true) {
+            if (!(res_520093811 <= colontmp__520093810)) break Label6;
+              F.line = 141;
+              F.filename = "nfatype.nim";
+              __1275068918 = res_520093811;
+              F.line = 142;
+              var Temporary7 = nimCopy(null, nonCapture_1275068429, NTI721420312);
+              capts_p0.s.push(Temporary7);;
+              F.line = 102;
+              F.filename = "iterators_1.nim";
+              res_520093811 = addInt(res_520093811, 1);
+            }
+        };
+      };
+      F.line = 143;
+      F.filename = "nfatype.nim";
+      capts_p0.states.push(0);;
+      if (!((result_1275068902 == ((subInt((capts_p0.states).length, 1)) | 0)))) {
+      F.line = 144;
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(144, 5) `result == capts.states.len - 1` "));
+      }
+      
+    }
+    
+    if (!((captIdx_p1 == (-1)))) {
+    Label8: {
+      F.line = 146;
+      var i_1275068939 = 0;
+      F.line = 81;
+      F.filename = "iterators_1.nim";
+      var colontmp__520093814 = 0;
+      F.line = 146;
+      F.filename = "nfatype.nim";
+      colontmp__520093814 = subInt(capts_p0.blockSize, 1);
+      F.line = 96;
+      F.filename = "iterators_1.nim";
+      var res_520093815 = 0;
+      Label9: {
+        F.line = 97;
+          Label10: while (true) {
+          if (!(res_520093815 <= colontmp__520093814)) break Label10;
+            F.line = 146;
+            F.filename = "nfatype.nim";
+            i_1275068939 = res_520093815;
+            F.line = 147;
+            HEX5BHEX5DHEX3D__pkgZregexZnfatype_u107(capts_p0, chckRange(result_1275068902, 0, 2147483647), chckRange(i_1275068939, 0, 2147483647), HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p0, chckRange(captIdx_p1, 0, 2147483647), chckRange(i_1275068939, 0, 2147483647)));
+            F.line = 102;
+            F.filename = "iterators_1.nim";
+            res_520093815 = addInt(res_520093815, 1);
+          }
+      };
+    };
+    }
+    
+  framePtr = F.prev;
+
+  return result_1275068902;
+
+}
+
+function HEX3DHEX3D__pureZunicode_u1024(a_p0, b_p1) {
+  var result_704644099 = false;
+
+  var F = {procname: "unicode.==", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 462;
+    F.filename = "unicode.nim";
+    result_704644099 = (((a_p0) | 0) == ((b_p1) | 0));
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_704644099;
+
+}
+
+function contains__pkgZunicodedbZtypes_u65(ut_p0, utm_p1) {
+  var result_1325400132 = false;
+
+  var F = {procname: "types.contains", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\types.nim", line: 0};
+  framePtr = F;
+    F.line = 85;
+    F.filename = "types.nim";
+    result_1325400132 = !(((ut_p0 & utm_p1) == 0));
+  framePtr = F.prev;
+
+  return result_1325400132;
+
+}
+
+function raiseDivByZero() {
+    raiseException({message: [100,105,118,105,115,105,111,110,32,98,121,32,122,101,114,111], parent: null, m_type: NTI134217742, name: null, trace: [], up: null}, "DivByZeroDefect");
+
+  
+}
+
+function unicodeTypes__pkgZunicodedbZtypes_u3(cp_p0) {
+  var result_1325400069 = 0;
+
+  var F = {procname: "types.unicodeTypes", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\types.nim", line: 0};
+  framePtr = F;
+    if (!((((cp_p0) | 0) <= 1114111))) {
+    F.line = 24;
+    F.filename = "types.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\types.nim(24, 3) `cp.int <= 0x0010FFFF` "));
+    }
+    
+    F.line = 26;
+    var blockOffset_1325400079 = mulInt(((typesOffsets_1342177291[chckIndx(divInt(((cp_p0) | 0), 64), 0, (typesOffsets_1342177291).length - 1)]) | 0), 64);
+    F.line = 27;
+    var idx_1325400080 = typesIndices_1342177292[chckIndx(addInt(blockOffset_1325400079, modInt(((cp_p0) | 0), 64)), 0, (typesIndices_1342177292).length - 1)];
+    F.line = 28;
+    result_1325400069 = ((typesData_1342177293[chckIndx(idx_1325400080, 0, (typesData_1342177293).length - 1)]) | 0);
+  framePtr = F.prev;
+
+  return result_1325400069;
+
+}
+
+function isWord__pkgZregexZnodematch_u7(r_p0) {
+  var result_1308622857 = false;
+
+  var F = {procname: "nodematch.isWord", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 11;
+    F.filename = "nodematch.nim";
+    result_1308622857 = contains__pkgZunicodedbZtypes_u65(unicodeTypes__pkgZunicodedbZtypes_u3(r_p0), 128);
+  framePtr = F.prev;
+
+  return result_1308622857;
+
+}
+
+function isWordBoundary__pkgZregexZnodematch_u41(r_p0, nxt_p1) {
+  var result_1308622892 = false;
+
+  var F = {procname: "nodematch.isWordBoundary", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 33;
+    F.filename = "nodematch.nim";
+    result_1308622892 = ((((-1) < ((r_p0) | 0)) && isWord__pkgZregexZnodematch_u7(r_p0)) != (((-1) < ((nxt_p1) | 0)) && isWord__pkgZregexZnodematch_u7(nxt_p1)));
+  framePtr = F.prev;
+
+  return result_1308622892;
+
+}
+
+function isWordAscii__pkgZregexZnodematch_u13(r_p0) {
+    var Temporary1;
+
+  var result_1308622863 = false;
+
+  var F = {procname: "nodematch.isWordAscii", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 17;
+    F.filename = "nodematch.nim";
+    F.line = 19;
+    if (    ((r_p0) | 0) >= 65 && ((r_p0) | 0) <= 90 || 
+    ((r_p0) | 0) >= 97 && ((r_p0) | 0) <= 122 || 
+    ((r_p0) | 0) >= 48 && ((r_p0) | 0) <= 57 || 
+    ((r_p0) | 0) == 95    ){      Temporary1 = true;
+      }
+    else{
+      Temporary1 = false;
+      }
+    result_1308622863 = Temporary1;
+  framePtr = F.prev;
+
+  return result_1308622863;
+
+}
+
+function isWordBoundaryAscii__pkgZregexZnodematch_u45(r_p0, nxt_p1) {
+  var result_1308622896 = false;
+
+  var F = {procname: "nodematch.isWordBoundaryAscii", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 38;
+    F.filename = "nodematch.nim";
+    result_1308622896 = ((((-1) < ((r_p0) | 0)) && isWordAscii__pkgZregexZnodematch_u13(r_p0)) != (((-1) < ((nxt_p1) | 0)) && isWordAscii__pkgZregexZnodematch_u13(nxt_p1)));
+  framePtr = F.prev;
+
+  return result_1308622896;
+
+}
+
+function match__pkgZregexZnodematch_u49(n_p0, r_p1, nxt_p2) {
+    var Temporary1;
+
+  var result_1308622901 = false;
+
+  var F = {procname: "nodematch.match", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 43;
+    F.filename = "nodematch.nim";
+    F.line = 46;
+    switch (n_p0.kind) {
+    case 15:
+    case 11:
+      Temporary1 = HEX3DHEX3D__pureZunicode_u1024(r_p1, (-1));
+      break;
+    case 16:
+    case 12:
+      Temporary1 = HEX3DHEX3D__pureZunicode_u1024(nxt_p2, (-1));
+      break;
+    case 13:
+      Temporary1 = (HEX3DHEX3D__pureZunicode_u1024(r_p1, (-1)) || HEX3DHEX3D__pureZunicode_u1024(r_p1, 10));
+      break;
+    case 14:
+      Temporary1 = (HEX3DHEX3D__pureZunicode_u1024(nxt_p2, (-1)) || HEX3DHEX3D__pureZunicode_u1024(nxt_p2, 10));
+      break;
+    case 17:
+      Temporary1 = isWordBoundary__pkgZregexZnodematch_u41(r_p1, nxt_p2);
+      break;
+    case 18:
+      Temporary1 = !(isWordBoundary__pkgZregexZnodematch_u41(r_p1, nxt_p2));
+      break;
+    case 29:
+      Temporary1 = isWordBoundaryAscii__pkgZregexZnodematch_u45(r_p1, nxt_p2);
+      break;
+    case 30:
+      Temporary1 = !(isWordBoundaryAscii__pkgZregexZnodematch_u45(r_p1, nxt_p2));
+      break;
+    default: 
+      if (true) {
+      F.line = 66;
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim(66, 5) `false` "));
+      }
+      
+      Temporary1 = false;
+      break;
+    }
+    result_1308622901 = Temporary1;
+  framePtr = F.prev;
+
+  return result_1308622901;
+
+}
+
+function freeze__pkgZregexZnfatype_u338(capts_p0) {
+  var result_1275068756 = 0;
+
+  var F = {procname: "nfatype.freeze", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!((capts_p0.freezeId < 255))) {
+    F.line = 116;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(116, 3) `capts.freezeId < stsFrozen.b` "));
+    }
+    
+    F.line = 117;
+    capts_p0.freezeId = ((capts_p0.freezeId + 1) & 0xff);
+    F.line = 118;
+    result_1275068756 = capts_p0.freezeId;
+    Label1: {
+      F.line = 119;
+      var state_1275068789 = null;
+      var state_1275068789_Idx = 0;
+      F.line = 258;
+      F.filename = "iterators.nim";
+      var i_520093819 = 0;
+      F.line = 259;
+      var L_520093820 = (capts_p0.states).length;
+      Label2: {
+        F.line = 260;
+          Label3: while (true) {
+          if (!(i_520093819 < L_520093820)) break Label3;
+            F.line = 119;
+            F.filename = "nfatype.nim";
+            state_1275068789 = capts_p0.states; state_1275068789_Idx = chckIndx(i_520093819, 0, (capts_p0.states).length - 1);
+            if ((((state_1275068789[state_1275068789_Idx] == 0) || (state_1275068789[state_1275068789_Idx] == 1)) || (state_1275068789[state_1275068789_Idx] == 2))) {
+            F.line = 123;
+            to__pkgZregexZnfatype_u321(state_1275068789, state_1275068789_Idx, result_1275068756);
+            }
+            
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520093819 += 1;
+            if (!(((capts_p0.states).length == L_520093820))) {
+            F.line = 263;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\lib\\system\\iterators.nim(263, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            }
+            
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_1275068756;
+
+}
+
+function grow__pkgZregexZnfatype_u1643(sm_p0) {
+    var Temporary1;
+
+  var F = {procname: "nfatype.grow", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!((sm_p0.i <= (sm_p0.s).length))) {
+    F.line = 387;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(387, 3) `sm.i <= sm.s.len` "));
+    }
+    
+    if ((sm_p0.i == (sm_p0.s).length)) {
+    F.line = 389;
+    if (sm_p0.s.length < (Temporary1 = chckRange(mulInt(nimMax(1, (sm_p0.s).length), 2), 0, 2147483647), Temporary1)) { for (var i = sm_p0.s.length ; i < Temporary1 ; ++i) sm_p0.s.push(({a: null, b: null})); }
+               else { sm_p0.s.length = Temporary1; };
+    }
+    
+    F.line = 390;
+    sm_p0.i = addInt(sm_p0.i, 1);
+  framePtr = F.prev;
+
+  
+}
+
+function setLen__pkgZregexZnfatype_u1599(sm_p0, sm_p0_Idx, size_p1) {
+  var F = {procname: "nfatype.setLen", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 353;
+    F.filename = "nfatype.nim";
+    if (sm_p0[sm_p0_Idx].ss.length < chckRange(size_p1, 0, 2147483647)) { for (var i = sm_p0[sm_p0_Idx].ss.length ; i < chckRange(size_p1, 0, 2147483647) ; ++i) sm_p0[sm_p0_Idx].ss.push(0); }
+               else { sm_p0[sm_p0_Idx].ss.length = chckRange(size_p1, 0, 2147483647); };
+  framePtr = F.prev;
+
+  
+}
+
+function setLen__pkgZregexZnfatype_u1612(item_p0, size_p1) {
+  var F = {procname: "nfatype.setLen", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if ((item_p0.a == null)) {
+    if (!((item_p0.b == null))) {
+    F.line = 369;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(369, 5) `item.b == nil` "));
+    }
+    
+    F.line = 370;
+    item_p0.a = newSubmatches__pkgZregexZnfatype_u1411(size_p1);
+    F.line = 371;
+    item_p0.b = newSubmatches__pkgZregexZnfatype_u1411(size_p1);
+    }
+    else {
+      if (!(!((item_p0.b == null)))) {
+      F.line = 373;
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(373, 5) `item.b != nil` "));
+      }
+      
+      F.line = 374;
+      setLen__pkgZregexZnfatype_u1599(item_p0, "a", size_p1);
+      F.line = 375;
+      setLen__pkgZregexZnfatype_u1599(item_p0, "b", size_p1);
+    }
+    
+  framePtr = F.prev;
+
+  
+}
+
+function removeLast__pkgZregexZnfatype_u1668(sm_p0) {
+  var F = {procname: "nfatype.removeLast", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!((0 < sm_p0.i))) {
+    F.line = 393;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(393, 3) `sm.i > 0` "));
+    }
+    
+    F.line = 394;
+    sm_p0.i = subInt(sm_p0.i, 1);
+  framePtr = F.prev;
+
+  
+}
+
+function lookAround__pkgZregexZnfamatch2_u36(ntn_p0, capts_p1, captIdx_p2, captIdx_p2_Idx, text_p3, look_p4, start_p5, flags_p6) {
+    var Temporary1;
+
+  var result_1442840620 = false;
+
+  var F = {procname: "nfamatch2.lookAround", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim", line: 0};
+  framePtr = F;
+    F.line = 50;
+    F.filename = "nfamatch2.nim";
+    var flags2_1442840625 = nimCopy(null, ConstSet4, NTI1442840610);
+    if (ntn_p0.subExp.reverseCapts) {
+    F.line = 52;
+    flags2_1442840625[6] = true;
+    }
+    
+    if ((flags_p6[7] != undefined)) {
+    F.line = 54;
+    flags2_1442840625[7] = true;
+    }
+    
+    F.line = 55;
+    grow__pkgZregexZnfatype_u1643(look_p4.smL);
+    F.line = 56;
+    setLen__pkgZregexZnfatype_u1612(look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], (ntn_p0.subExp.nfa.s).length);
+    F.line = 57;
+    F.line = 57;
+    switch (ntn_p0.kind) {
+    case 39:
+      Temporary1 = look_p4.ahead(look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "a", look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "b", capts_p1, captIdx_p2, captIdx_p2_Idx, text_p3, ntn_p0.subExp.nfa, look_p4, start_p5, flags2_1442840625);
+      break;
+    case 41:
+      Temporary1 = !(look_p4.ahead(look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "a", look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "b", capts_p1, captIdx_p2, captIdx_p2_Idx, text_p3, ntn_p0.subExp.nfa, look_p4, start_p5, flags2_1442840625));
+      break;
+    case 40:
+      Temporary1 = !((look_p4.behind(look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "a", look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "b", capts_p1, captIdx_p2, captIdx_p2_Idx, text_p3, ntn_p0.subExp.nfa, look_p4, start_p5, 0, flags2_1442840625) == (-1)));
+      break;
+    case 42:
+      Temporary1 = (look_p4.behind(look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "a", look_p4.smL.s[chckIndx(subInt(look_p4.smL.i, 1), 0, (look_p4.smL.s).length - 1)], "b", capts_p1, captIdx_p2, captIdx_p2_Idx, text_p3, ntn_p0.subExp.nfa, look_p4, start_p5, 0, flags2_1442840625) == (-1));
+      break;
+    default: 
+      if (true) {
+      F.line = 75;
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim(75, 5) `false` "));
+      }
+      
+      Temporary1 = false;
+      break;
+    }
+    result_1442840620 = Temporary1;
+    F.line = 77;
+    removeLast__pkgZregexZnfatype_u1668(look_p4.smL);
+  framePtr = F.prev;
+
+  return result_1442840620;
+
+}
+
+function unfreeze__pkgZregexZnfatype_u406(capts_p0, freezeId_p1) {
+  var F = {procname: "nfatype.unfreeze", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if (!(contains__pkgZregexZcommon_u306(stsFrozen_1275068445, freezeId_p1))) {
+    F.line = 126;
+    F.filename = "nfatype.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(126, 3) `freezeId in stsFrozen` "));
+    }
+    
+    if (!((freezeId_p1 == capts_p0.freezeId))) {
+    F.line = 127;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(127, 3) `freezeId == capts.freezeId` Unordered freeze/unfreeze call"));
+    }
+    
+    Label1: {
+      F.line = 128;
+      var state_1275068893 = null;
+      var state_1275068893_Idx = 0;
+      F.line = 258;
+      F.filename = "iterators.nim";
+      var i_520093823 = 0;
+      F.line = 259;
+      var L_520093824 = (capts_p0.states).length;
+      Label2: {
+        F.line = 260;
+          Label3: while (true) {
+          if (!(i_520093823 < L_520093824)) break Label3;
+            F.line = 128;
+            F.filename = "nfatype.nim";
+            state_1275068893 = capts_p0.states; state_1275068893_Idx = chckIndx(i_520093823, 0, (capts_p0.states).length - 1);
+            if ((state_1275068893[state_1275068893_Idx] == freezeId_p1)) {
+            F.line = 130;
+            to__pkgZregexZnfatype_u321(state_1275068893, state_1275068893_Idx, 0);
+            }
+            
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520093823 += 1;
+            if (!(((capts_p0.states).length == L_520093824))) {
+            F.line = 263;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\lib\\system\\iterators.nim(263, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            }
+            
+          }
+      };
+    };
+    F.line = 131;
+    F.filename = "nfatype.nim";
+    capts_p0.freezeId = ((capts_p0.freezeId - 1) & 0xff);
+  framePtr = F.prev;
+
+  
+}
+
+function isDecimal__pkgZregexZnodematch_u10(r_p0) {
+  var result_1308622860 = false;
+
+  var F = {procname: "nodematch.isDecimal", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 14;
+    F.filename = "nodematch.nim";
+    result_1308622860 = contains__pkgZunicodedbZtypes_u65(unicodeTypes__pkgZunicodedbZtypes_u3(r_p0), 1);
+  framePtr = F.prev;
+
+  return result_1308622860;
+
+}
+
+function isWhiteSpace__pkgZregexZnodematch_u88(r_p0) {
+  var result_1308622938 = false;
+
+  var F = {procname: "nodematch.isWhiteSpace", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 77;
+    F.filename = "nodematch.nim";
+    result_1308622938 = contains__pkgZunicodedbZtypes_u65(unicodeTypes__pkgZunicodedbZtypes_u3(r_p0), 64);
+  framePtr = F.prev;
+
+  return result_1308622938;
+
+}
+
+function hasJsBigInt__stdZprivateZjsutils_u43() {
+  var result_855638060 = false;
+
+    result_855638060 = typeof BigInt != 'undefined';
+
+  return result_855638060;
+
+}
+
+function hiXorLoJs__pureZhashes_u85(a_p0, b_p1) {
+  var result_1006633048 = 0n;
+
+  var F = {procname: "hashes.hiXorLoJs", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\hashes.nim", line: 0};
+  framePtr = F;
+    F.line = 140;
+    F.filename = "hashes.nim";
+    var prod_1006633049 = (a_p0 * b_p1);
+    F.line = 141;
+    var mask_1006633050 = BigInt("0xffffffffffffffff");
+    F.line = 142;
+    result_1006633048 = ((prod_1006633049 >> BigInt("64")) ^ (prod_1006633049 & mask_1006633050));
+  framePtr = F.prev;
+
+  return result_1006633048;
+
+}
+
+function hashWangYi1__pureZhashes_u193(x_p0) {
+  var result_1006633156 = 0;
+
+  var F = {procname: "hashWangYi1.hashWangYi1", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\hashes.nim", line: 0};
+  framePtr = F;
+    if (hasJsBigInt__stdZprivateZjsutils_u43()) {
+    F.line = 182;
+    F.filename = "hashes.nim";
+    F.line = 146;
+    var P0HEX60gensym4_1006633170 = BigInt("0xa0761d6478bd642f");
+    F.line = 147;
+    var P1HEX60gensym4_1006633171 = BigInt("0xe7037ed1a0b428db");
+    F.line = 148;
+    var P58HEX60gensym4_1006633172 = BigInt("0xeb44accab455d16d");
+    F.line = 149;
+    var resHEX60gensym4_1006633173 = hiXorLoJs__pureZhashes_u85(hiXorLoJs__pureZhashes_u85(P0HEX60gensym4_1006633170, (BigInt(x_p0) ^ P1HEX60gensym4_1006633171)), P58HEX60gensym4_1006633172);
+    result_1006633156 = Number((() => { const i = resHEX60gensym4_1006633173, b = 32; return BigInt.asIntN(b, i) })());
+    }
+    else {
+      F.line = 184;
+      result_1006633156 = (Number(BigInt.asIntN(32, x_p0)) & Number(BigInt.asIntN(32, 4294967295n)));
+    }
+    
+  framePtr = F.prev;
+
+  return result_1006633156;
+
+}
+
+function hash__pkgZregexZparser_u831(x_p0) {
+  var result_1207960386 = 0;
+
+  var F = {procname: "hash.hash", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\hashes.nim", line: 0};
+  framePtr = F;
+    F.line = 214;
+    F.filename = "hashes.nim";
+    result_1207960386 = hashWangYi1__pureZhashes_u193(BigInt.asUintN(64, BigInt(x_p0)));
+  framePtr = F.prev;
+
+  return result_1207960386;
+
+}
+
+function isFilled__pureZcollectionsZsets_u39(hcode_p0) {
+  var result_1107296297 = false;
+
+  var F = {procname: "sets.isFilled", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\hashcommon.nim", line: 0};
+  framePtr = F;
+    F.line = 27;
+    F.filename = "hashcommon.nim";
+    result_1107296297 = !((hcode_p0 == 0));
+  framePtr = F.prev;
+
+  return result_1107296297;
+
+}
+
+function nextTry__pureZcollectionsZsets_u42(h_p0, maxHash_p1) {
+  var result_1107296301 = 0;
+
+  var F = {procname: "sets.nextTry", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\hashcommon.nim", line: 0};
+  framePtr = F;
+    F.line = 30;
+    F.filename = "hashcommon.nim";
+    result_1107296301 = (addInt(h_p0, 1) & maxHash_p1);
+  framePtr = F.prev;
+
+  return result_1107296301;
+
+}
+
+function rawGet__pkgZregexZparser_u824(t_p0, key_p1, hc_p2, hc_p2_Idx) {
+  var result_1207960382 = 0;
+
+  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\hashcommon.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 59;
+    F.filename = "hashcommon.nim";
+    hc_p2[hc_p2_Idx] = hash__pkgZregexZparser_u831(key_p1);
+    if ((hc_p2[hc_p2_Idx] == 0)) {
+    F.line = 64;
+    hc_p2[hc_p2_Idx] = 314159265;
+    }
+    
+    if (((t_p0.data).length == 0)) {
+    F.line = 43;
+    result_1207960382 = (-1);
+    break BeforeRet;
+    }
+    
+    F.line = 44;
+    var h_1207960418 = (hc_p2[hc_p2_Idx] & (t_p0.data).length - 1);
+    Label1: {
+      F.line = 45;
+        Label2: while (true) {
+        if (!isFilled__pureZcollectionsZsets_u39(t_p0.data[chckIndx(h_1207960418, 0, (t_p0.data).length - 1)].Field0)) break Label2;
+          if (((t_p0.data[chckIndx(h_1207960418, 0, (t_p0.data).length - 1)].Field0 == hc_p2[hc_p2_Idx]) && HEX3DHEX3D__pureZunicode_u1024(t_p0.data[chckIndx(h_1207960418, 0, (t_p0.data).length - 1)].Field1, key_p1))) {
+          F.line = 51;
+          result_1207960382 = h_1207960418;
+          break BeforeRet;
+          }
+          
+          F.line = 52;
+          h_1207960418 = nextTry__pureZcollectionsZsets_u42(h_1207960418, (t_p0.data).length - 1);
+        }
+    };
+    F.line = 53;
+    result_1207960382 = subInt((-1), h_1207960418);
+  };
+  framePtr = F.prev;
+
+  return result_1207960382;
+
+}
+
+function contains__pkgZregexZnodematch_u145(s_p0, key_p1) {
+  var result_1308622997 = false;
+
+  var F = {procname: "contains.contains", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sets.nim", line: 0};
+  framePtr = F;
+    F.line = 168;
+    F.filename = "sets.nim";
+    var hc_1308622998 = [0];
+    F.line = 169;
+    var index_1308623012 = rawGet__pkgZregexZparser_u824(s_p0, key_p1, hc_1308622998, 0);
+    F.line = 170;
+    result_1308622997 = (0 <= index_1308623012);
+  framePtr = F.prev;
+
+  return result_1308622997;
+
+}
+
+function HEX3CHEX3D__pkgZregexZcommon_u34(x_p0, y_p1) {
+  var result_1174405157 = false;
+
+  var F = {procname: "common.<=", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim", line: 0};
+  framePtr = F;
+    F.line = 33;
+    F.filename = "common.nim";
+    result_1174405157 = (((x_p0) | 0) <= ((y_p1) | 0));
+  framePtr = F.prev;
+
+  return result_1174405157;
+
+}
+
+function contains__pkgZregexZnodematch_u81(s_p0, value_p1) {
+  var result_1308622935 = false;
+
+  var F = {procname: "contains.contains", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 736;
+    F.filename = "system.nim";
+    result_1308622935 = (HEX3CHEX3D__pkgZregexZcommon_u34(s_p0.a, value_p1) && HEX3CHEX3D__pkgZregexZcommon_u34(value_p1, s_p0.b));
+  framePtr = F.prev;
+
+  return result_1308622935;
+
+}
+
+function contains__pkgZregexZnodematch_u59(sr_p0, r_p1) {
+  var result_1308622911 = false;
+
+  var F = {procname: "nodematch.contains", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 70;
+    F.filename = "nodematch.nim";
+    result_1308622911 = false;
+    Label1: {
+      F.line = 71;
+      var sl_1308622915 = ({a: 0, b: 0});
+      F.line = 249;
+      F.filename = "iterators.nim";
+      var i_520093833 = 0;
+      F.line = 250;
+      var L_520093834 = (sr_p0).length;
+      Label2: {
+        F.line = 251;
+          Label3: while (true) {
+          if (!(i_520093833 < L_520093834)) break Label3;
+            F.line = 71;
+            F.filename = "nodematch.nim";
+            sl_1308622915 = sr_p0[chckIndx(i_520093833, 0, (sr_p0).length - 1)];
+            F.line = 72;
+            result_1308622911 = contains__pkgZregexZnodematch_u81(sl_1308622915, r_p1);
+            if (result_1308622911) {
+            F.line = 74;
+            break Label1;
+            }
+            
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520093833 += 1;
+            if (!(((sr_p0).length == L_520093834))) {
+            F.line = 254;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\lib\\system\\iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            }
+            
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_1308622911;
+
+}
+
+function binarySearch__pureZunicode_u1037(c_p0, tab_p1, len_p2, stride_p3) {
+  var result_704644114 = 0;
+
+  var F = {procname: "unicode.binarySearch", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 468;
+    F.filename = "unicode.nim";
+    var n_704644115 = len_p2;
+    F.line = 469;
+    var t_704644116 = 0;
+    Label1: {
+      F.line = 470;
+        Label2: while (true) {
+        if (!(1 < n_704644115)) break Label2;
+          F.line = 471;
+          var m_704644117 = divInt(n_704644115, 2);
+          F.line = 472;
+          var p_704644118 = addInt(t_704644116, mulInt(m_704644117, stride_p3));
+          if ((tab_p1[chckIndx(p_704644118, 0, (tab_p1).length - 1)] <= c_p0)) {
+          F.line = 474;
+          t_704644116 = p_704644118;
+          F.line = 475;
+          n_704644115 = subInt(n_704644115, m_704644117);
+          }
+          else {
+            F.line = 477;
+            n_704644115 = m_704644117;
+          }
+          
+        }
+    };
+    if ((!((n_704644115 == 0)) && (tab_p1[chckIndx(t_704644116, 0, (tab_p1).length - 1)] <= c_p0))) {
+    F.line = 479;
+    result_704644114 = t_704644116;
+    break BeforeRet;
+    }
+    
+    F.line = 480;
+    result_704644114 = (-1);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_704644114;
+
+}
+
+function nuctoLower(c_p0) {
+  var result_704644121 = 0;
+
+  var F = {procname: "unicode.toLower", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 491;
+    F.filename = "unicode.nim";
+    var c_704644122 = c_p0;
+    F.line = 492;
+    var p_704644131 = binarySearch__pureZunicode_u1037(c_704644122, toLowerRanges_704644100, 45, 3);
+    if ((((0 <= p_704644131) && (toLowerRanges_704644100[chckIndx(p_704644131, 0, (toLowerRanges_704644100).length - 1)] <= c_704644122)) && (c_704644122 <= toLowerRanges_704644100[chckIndx(addInt(p_704644131, 1), 0, (toLowerRanges_704644100).length - 1)]))) {
+    F.line = 494;
+    result_704644121 = subInt(addInt(c_704644122, toLowerRanges_704644100[chckIndx(addInt(p_704644131, 2), 0, (toLowerRanges_704644100).length - 1)]), 500);
+    break BeforeRet;
+    }
+    
+    F.line = 495;
+    p_704644131 = binarySearch__pureZunicode_u1037(c_704644122, toLowerSinglets_704644101, 610, 2);
+    if (((0 <= p_704644131) && (c_704644122 == toLowerSinglets_704644101[chckIndx(p_704644131, 0, (toLowerSinglets_704644101).length - 1)]))) {
+    F.line = 497;
+    result_704644121 = subInt(addInt(c_704644122, toLowerSinglets_704644101[chckIndx(addInt(p_704644131, 1), 0, (toLowerSinglets_704644101).length - 1)]), 500);
+    break BeforeRet;
+    }
+    
+    F.line = 498;
+    result_704644121 = c_704644122;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_704644121;
+
+}
+
+function nuctoUpper(c_p0) {
+  var result_704644221 = 0;
+
+  var F = {procname: "unicode.toUpper", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 509;
+    F.filename = "unicode.nim";
+    var c_704644222 = c_p0;
+    F.line = 510;
+    var p_704644231 = binarySearch__pureZunicode_u1037(c_704644222, toUpperRanges_704644102, 46, 3);
+    if ((((0 <= p_704644231) && (toUpperRanges_704644102[chckIndx(p_704644231, 0, (toUpperRanges_704644102).length - 1)] <= c_704644222)) && (c_704644222 <= toUpperRanges_704644102[chckIndx(addInt(p_704644231, 1), 0, (toUpperRanges_704644102).length - 1)]))) {
+    F.line = 512;
+    result_704644221 = subInt(addInt(c_704644222, toUpperRanges_704644102[chckIndx(addInt(p_704644231, 2), 0, (toUpperRanges_704644102).length - 1)]), 500);
+    break BeforeRet;
+    }
+    
+    F.line = 513;
+    p_704644231 = binarySearch__pureZunicode_u1037(c_704644222, toUpperSinglets_704644103, 624, 2);
+    if (((0 <= p_704644231) && (c_704644222 == toUpperSinglets_704644103[chckIndx(p_704644231, 0, (toUpperSinglets_704644103).length - 1)]))) {
+    F.line = 515;
+    result_704644221 = subInt(addInt(c_704644222, toUpperSinglets_704644103[chckIndx(addInt(p_704644231, 1), 0, (toUpperSinglets_704644103).length - 1)]), 500);
+    break BeforeRet;
+    }
+    
+    F.line = 516;
+    result_704644221 = c_704644222;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_704644221;
+
+}
+
+function swapCase__pkgZregexZnodematch_u121(r_p0) {
+  var result_1308622971 = 0;
+
+  var F = {procname: "nodematch.swapCase", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 101;
+    F.filename = "nodematch.nim";
+    result_1308622971 = nuctoLower(r_p0);
+    if (!(HEX3DHEX3D__pureZunicode_u1024(result_1308622971, r_p0))) {
+    F.line = 103;
+    break BeforeRet;
+    }
+    
+    F.line = 104;
+    result_1308622971 = nuctoUpper(r_p0);
+  };
+  framePtr = F.prev;
+
+  return result_1308622971;
+
+}
+
+function isDigitAscii__pkgZregexZnodematch_u112(r_p0) {
+    var Temporary1;
+
+  var result_1308622962 = false;
+
+  var F = {procname: "nodematch.isDigitAscii", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 92;
+    F.filename = "nodematch.nim";
+    F.line = 92;
+    if (    ((r_p0) | 0) >= 48 && ((r_p0) | 0) <= 57    ){      Temporary1 = true;
+      }
+    else{
+      Temporary1 = false;
+      }
+    result_1308622962 = Temporary1;
+  framePtr = F.prev;
+
+  return result_1308622962;
+
+}
+
+function isWhiteSpaceAscii__pkgZregexZnodematch_u91(r_p0) {
+    var Temporary1;
+
+  var result_1308622941 = false;
+
+  var F = {procname: "nodematch.isWhiteSpaceAscii", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+    F.line = 80;
+    F.filename = "nodematch.nim";
+    F.line = 80;
+    if (    ((r_p0) | 0) == 32 || 
+    ((r_p0) | 0) == 9 || 
+    ((r_p0) | 0) == 10 || 
+    ((r_p0) | 0) == 13 || 
+    ((r_p0) | 0) == 12 || 
+    ((r_p0) | 0) == 11    ){      Temporary1 = true;
+      }
+    else{
+      Temporary1 = false;
+      }
+    result_1308622941 = Temporary1;
+  framePtr = F.prev;
+
+  return result_1308622941;
+
+}
+
+function contains__pkgZunicodedbZproperties_u4(a_p0, b_p1) {
+  var result_1140850695 = false;
+
+  var F = {procname: "properties.contains", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties.nim", line: 0};
+  framePtr = F;
+    F.line = 54;
+    F.filename = "properties.nim";
+    result_1140850695 = !(((((b_p1) | 0) & ((a_p0) | 0)) == 0));
+  framePtr = F.prev;
+
+  return result_1140850695;
+
+}
+
+function unicodeCategory__pkgZunicodedbZproperties_u189(props_p0) {
+  var result_1140850879 = 0;
+
+  var F = {procname: "properties.unicodeCategory", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties.nim", line: 0};
+  framePtr = F;
+    F.line = 239;
+    F.filename = "properties.nim";
+    result_1140850879 = props_p0[chckIndx(0, 0, (props_p0).length - 1)];
+  framePtr = F.prev;
+
+  return result_1140850879;
+
+}
+
+function properties__pkgZunicodedbZproperties_u111(cp_p0) {
+  var result_1140850801 = new Int32Array(4);
+
+  var F = {procname: "properties.properties", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties.nim", line: 0};
+  framePtr = F;
+    if (!((((cp_p0) | 0) <= 1114111))) {
+    F.line = 197;
+    F.filename = "properties.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties.nim(197, 3) `cp.int <= 0x0010FFFF` "));
+    }
+    
+    F.line = 200;
+    var blockOffset_1140850811 = mulInt(((propsOffsets_1157627947[chckIndx(divInt(((cp_p0) | 0), 128), 0, (propsOffsets_1157627947).length - 1)]) | 0), 128);
+    F.line = 201;
+    var idx_1140850812 = propsIndices_1157627948[chckIndx(addInt(blockOffset_1140850811, modInt(((cp_p0) | 0), 128)), 0, (propsIndices_1157627948).length - 1)];
+    F.line = 202;
+    result_1140850801 = nimCopy(result_1140850801, propsData_1157627949[chckIndx(idx_1140850812, 0, (propsData_1157627949).length - 1)], NTI1140850748);
+  framePtr = F.prev;
+
+  return result_1140850801;
+
+}
+
+function unicodeCategory__pkgZunicodedbZproperties_u192(cp_p0) {
+  var result_1140850882 = 0;
+
+  var F = {procname: "properties.unicodeCategory", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\unicodedb-0.13.0-5c5fc0c8a83d270aca74fe41d33158e9042bb91a\\unicodedb\\properties.nim", line: 0};
+  framePtr = F;
+    F.line = 242;
+    F.filename = "properties.nim";
+    result_1140850882 = unicodeCategory__pkgZunicodedbZproperties_u189(properties__pkgZunicodedbZproperties_u111(cp_p0));
+  framePtr = F.prev;
+
+  return result_1140850882;
+
+}
+
+function match__pkgZregexZnodematch_u124(n_p0, r_p1) {
+    var Temporary1;
+
+  var result_1308622975 = false;
+
+  var F = {procname: "nodematch.match", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 107;
+    F.filename = "nodematch.nim";
+    if ((((r_p1) | 0) < 0)) {
+    F.line = 111;
+    result_1308622975 = (n_p0.kind == 44);
+    break BeforeRet;
+    }
+    
+    F.line = 112;
+    switch (n_p0.kind) {
+    case 44:
+      Temporary1 = HEX3DHEX3D__pureZunicode_u1024(r_p1, (-1));
+      break;
+    case 19:
+      Temporary1 = isWord__pkgZregexZnodematch_u7(r_p1);
+      break;
+    case 23:
+      Temporary1 = !(isWord__pkgZregexZnodematch_u7(r_p1));
+      break;
+    case 20:
+      Temporary1 = isDecimal__pkgZregexZnodematch_u10(r_p1);
+      break;
+    case 24:
+      Temporary1 = !(isDecimal__pkgZregexZnodematch_u10(r_p1));
+      break;
+    case 21:
+      Temporary1 = isWhiteSpace__pkgZregexZnodematch_u88(r_p1);
+      break;
+    case 25:
+      Temporary1 = !(isWhiteSpace__pkgZregexZnodematch_u88(r_p1));
+      break;
+    case 37:
+    case 38:
+      F.line = 128;
+      var matches_1308623013 = (contains__pkgZregexZnodematch_u145(n_p0.cps, r_p1) || contains__pkgZregexZnodematch_u59(n_p0.ranges, r_p1));
+      if (!(matches_1308623013)) {
+      Label2: {
+        F.line = 132;
+        var nn_1308623017 = ({kind: 0, cp: 0, next: [], isGreedy: false, uid: 0, idx: 0, isCapturing: false, name: [], flags: [], min: 0, max: 0, cps: ({data: [], counter: 0}), ranges: [], shorthands: [], cc: 0, subExp: ({nfa: ({s: []}), rpn: ({s: []}), reverseCapts: false})});
+        F.line = 249;
+        F.filename = "iterators.nim";
+        var i_520093827 = 0;
+        F.line = 250;
+        var L_520093828 = (n_p0.shorthands).length;
+        Label3: {
+          F.line = 251;
+            Label4: while (true) {
+            if (!(i_520093827 < L_520093828)) break Label4;
+              F.line = 132;
+              F.filename = "nodematch.nim";
+              nn_1308623017 = n_p0.shorthands[chckIndx(i_520093827, 0, (n_p0.shorthands).length - 1)];
+              F.line = 133;
+              matches_1308623013 = match__pkgZregexZnodematch_u124(nn_1308623017, r_p1);
+              if (matches_1308623013) {
+              F.line = 134;
+              break Label2;
+              }
+              
+              F.line = 13;
+              F.filename = "iterators.nim";
+              i_520093827 += 1;
+              if (!(((n_p0.shorthands).length == L_520093828))) {
+              F.line = 254;
+              failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\lib\\system\\iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+              }
+              
+            }
+        };
+      };
+      }
+      
+      Temporary1 = ((matches_1308623013 && (n_p0.kind == 37)) || (!(matches_1308623013) && (n_p0.kind == 38)));
+      break;
+    case 27:
+      Temporary1 = !(HEX3DHEX3D__pureZunicode_u1024(r_p1, 10));
+      break;
+    case 28:
+      Temporary1 = true;
+      break;
+    case 1:
+      Temporary1 = (HEX3DHEX3D__pureZunicode_u1024(r_p1, n_p0.cp) || HEX3DHEX3D__pureZunicode_u1024(r_p1, swapCase__pkgZregexZnodematch_u121(n_p0.cp)));
+      break;
+    case 31:
+      Temporary1 = isWordAscii__pkgZregexZnodematch_u13(r_p1);
+      break;
+    case 32:
+      Temporary1 = isDigitAscii__pkgZregexZnodematch_u112(r_p1);
+      break;
+    case 33:
+      Temporary1 = isWhiteSpaceAscii__pkgZregexZnodematch_u91(r_p1);
+      break;
+    case 22:
+      Temporary1 = contains__pkgZunicodedbZproperties_u4(n_p0.cc, unicodeCategory__pkgZunicodedbZproperties_u192(r_p1));
+      break;
+    case 34:
+      Temporary1 = !(isWordAscii__pkgZregexZnodematch_u13(r_p1));
+      break;
+    case 35:
+      Temporary1 = !(isDigitAscii__pkgZregexZnodematch_u112(r_p1));
+      break;
+    case 36:
+      Temporary1 = !(isWhiteSpaceAscii__pkgZregexZnodematch_u91(r_p1));
+      break;
+    case 26:
+      Temporary1 = !(contains__pkgZunicodedbZproperties_u4(n_p0.cc, unicodeCategory__pkgZunicodedbZproperties_u192(r_p1)));
+      break;
+    default: 
+      if (!((n_p0.kind == 0))) {
+      F.line = 160;
+      F.filename = "nodematch.nim";
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nodematch.nim(160, 5) `n.kind == reChar` "));
+      }
+      
+      Temporary1 = HEX3DHEX3D__pureZunicode_u1024(n_p0.cp, r_p1);
+      break;
+    }
+    result_1308622975 = Temporary1;
+  };
+  framePtr = F.prev;
+
+  return result_1308622975;
+
+}
+
+function recycle__pkgZregexZnfatype_u524(capts_p0) {
+  var F = {procname: "nfatype.recycle", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 152;
+    F.filename = "nfatype.nim";
+    if (capts_p0.free.length < 0) { for (var i = capts_p0.free.length ; i < 0 ; ++i) capts_p0.free.push(0); }
+               else { capts_p0.free.length = 0; };
+    Label1: {
+      F.line = 153;
+      var i_1275068986 = 0;
+      F.line = 153;
+      var state_1275068987 = null;
+      var state_1275068987_Idx = 0;
+      F.line = 192;
+      F.filename = "iterators.nim";
+      var i_520093840 = 0;
+      F.line = 193;
+      var L_520093841 = (capts_p0.states).length;
+      Label2: {
+        F.line = 194;
+          Label3: while (true) {
+          if (!(i_520093840 < L_520093841)) break Label3;
+            F.line = 153;
+            F.filename = "nfatype.nim";
+            i_1275068986 = i_520093840;
+            F.line = 153;
+            state_1275068987 = capts_p0.states; state_1275068987_Idx = chckIndx(i_520093840, 0, (capts_p0.states).length - 1);
+            if (((state_1275068987[state_1275068987_Idx] == 2) || (state_1275068987[state_1275068987_Idx] == 3))) {
+            F.line = 156;
+            capts_p0.free.push(chckRange(i_1275068986, (-32768), 32767));;
+            F.line = 157;
+            to__pkgZregexZnfatype_u321(state_1275068987, state_1275068987_Idx, 3);
+            }
+            
+            if (((state_1275068987[state_1275068987_Idx] == 0) || (state_1275068987[state_1275068987_Idx] == 1))) {
+            F.line = 160;
+            to__pkgZregexZnfatype_u321(state_1275068987, state_1275068987_Idx, 2);
+            }
+            
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520093840 += 1;
+            if (!(((capts_p0.states).length == L_520093841))) {
+            F.line = 197;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\lib\\system\\iterators.nim(197, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            }
+            
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  
+}
+
+function HEX5BHEX5D__pkgZregexZnfatype_u1537(sm_p0, i_p1) {
+  var result_1275069956 = {Field0: 0, Field1: 0, Field2: ({a: 0, b: 0})};
+
+  var F = {procname: "nfatype.[]", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 319;
+    F.filename = "nfatype.nim";
+    if (!((i_p1 < ((sm_p0.si) | 0)))) {
+    F.line = 319;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim(319, 3) `i < sm.si` "));
+    }
+    
+    result_1275069956 = nimCopy(result_1275069956, sm_p0.sx[chckIndx(i_p1, 0, (sm_p0.sx).length - 1)], NTI1275069342);
+  framePtr = F.prev;
+
+  return result_1275069956;
+
+}
+
+function matchImpl__pkgZregexZnfamatch2_u72(smA_p0, smA_p0_Idx, smB_p1, smB_p1_Idx, capts_p2, captIdx_p3, captIdx_p3_Idx, text_p4, nfa_p5, look_p6, start_p7, flags_p8) {
+    var Temporary1;
+                                    var Temporary12;
+                                    var Temporary13;
+                              var Temporary22;
+                              var Temporary23;
+
+  var result_1442840658 = false;
+
+  var F = {procname: "nfamatch2.matchImpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 146;
+    F.filename = "nfamatch2.nim";
+    var c_1442840659 = (-1);
+    F.line = 147;
+    var cPrev_1442840660 = (-1);
+    F.line = 148;
+    var i_1442840661 = start_p7;
+    F.line = 149;
+    var iNext_1442840662 = start_p7;
+    F.line = 150;
+    var captx_1442840663 = [(-1)];
+    F.line = 151;
+    var matched_1442840664 = false;
+    F.line = 153;
+    var anchored_1442840669 = (flags_p8[4] != undefined);
+    F.line = 154;
+    var binFlag_1442840674 = (flags_p8[7] != undefined);
+    if (contains__pkgZregexZparser_u148(HEX2EHEX2E__stdZstrbasics_u50(0, subInt((text_p4).length, 1)), subInt(start_p7, 1))) {
+    F.line = 156;
+    if (binFlag_1442840674) {
+    Temporary1 = ((text_p4[chckIndx(subInt(start_p7, 1), 0, (text_p4).length - 1)]) | 0);
+    }
+    else {
+    Temporary1 = bwRuneAt__pkgZregexZcommon_u42(text_p4, subInt(start_p7, 1));
+    }
+    
+    cPrev_1442840660 = Temporary1;
+    }
+    
+    F.line = 160;
+    clear__pkgZregexZnfatype_u1584(smA_p0, smA_p0_Idx);
+    F.line = 161;
+    add__pkgZregexZnfatype_u1550(smA_p0, smA_p0_Idx, {Field0: 0, Field1: captIdx_p3[captIdx_p3_Idx], Field2: HEX2EHEX2E__stdZstrbasics_u50(i_1442840661, subInt(i_1442840661, 1))});
+    Label2: {
+      F.line = 162;
+        Label3: while (true) {
+        if (!(i_1442840661 < (text_p4).length)) break Label3;
+          if (binFlag_1442840674) {
+          F.line = 164;
+          c_1442840659 = ((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)]) | 0);
+          F.line = 165;
+          iNext_1442840662 = addInt(iNext_1442840662, 1);
+          }
+          else {
+            if ((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] <= 127)) {
+            F.line = 91;
+            F.filename = "unicode.nim";
+            c_1442840659 = chckRange(text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)], (-2147483648), 2147483647);
+            F.line = 92;
+            iNext_1442840662 = addInt(iNext_1442840662, 1);
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] >>> 5) == 6)) {
+            if ((iNext_1442840662 <= subInt((text_p4).length, 2))) {
+            F.line = 96;
+            c_1442840659 = chckRange(((((((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] & 31) >>> 0) << 6) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442840662, 1), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 98;
+            iNext_1442840662 = addInt(iNext_1442840662, 2);
+            }
+            else {
+              F.line = 100;
+              c_1442840659 = 65533;
+              F.line = 101;
+              iNext_1442840662 = addInt(iNext_1442840662, 1);
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] >>> 4) == 14)) {
+            if ((iNext_1442840662 <= subInt((text_p4).length, 3))) {
+            F.line = 106;
+            c_1442840659 = chckRange(((((((((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] & 15) >>> 0) << 12) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442840662, 2), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 109;
+            iNext_1442840662 = addInt(iNext_1442840662, 3);
+            }
+            else {
+              F.line = 111;
+              c_1442840659 = 65533;
+              F.line = 112;
+              iNext_1442840662 = addInt(iNext_1442840662, 1);
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] >>> 3) == 30)) {
+            if ((iNext_1442840662 <= subInt((text_p4).length, 4))) {
+            F.line = 118;
+            c_1442840659 = chckRange(((((((((((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] & 7) >>> 0) << 18) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442840662, 3), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 122;
+            iNext_1442840662 = addInt(iNext_1442840662, 4);
+            }
+            else {
+              F.line = 124;
+              c_1442840659 = 65533;
+              F.line = 125;
+              iNext_1442840662 = addInt(iNext_1442840662, 1);
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] >>> 2) == 62)) {
+            if ((iNext_1442840662 <= subInt((text_p4).length, 5))) {
+            F.line = 132;
+            c_1442840659 = chckRange(((((((((((((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] & 3) >>> 0) << 24) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 3), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442840662, 4), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 137;
+            iNext_1442840662 = addInt(iNext_1442840662, 5);
+            }
+            else {
+              F.line = 139;
+              c_1442840659 = 65533;
+              F.line = 140;
+              iNext_1442840662 = addInt(iNext_1442840662, 1);
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] >>> 1) == 126)) {
+            if ((iNext_1442840662 <= subInt((text_p4).length, 6))) {
+            F.line = 148;
+            c_1442840659 = chckRange(((((((((((((((text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)] & 1) >>> 0) << 30) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 24) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 3), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442840662, 4), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442840662, 5), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 154;
+            iNext_1442840662 = addInt(iNext_1442840662, 6);
+            }
+            else {
+              F.line = 156;
+              c_1442840659 = 65533;
+              F.line = 157;
+              iNext_1442840662 = addInt(iNext_1442840662, 1);
+            }
+            
+            }
+            else {
+              F.line = 159;
+              c_1442840659 = chckRange(text_p4[chckIndx(iNext_1442840662, 0, (text_p4).length - 1)], (-2147483648), 2147483647);
+              F.line = 160;
+              iNext_1442840662 = addInt(iNext_1442840662, 1);
+            }
+            }}}}}
+          }
+          
+          F.line = 86;
+          F.filename = "nfamatch2.nim";
+          clear__pkgZregexZnfatype_u1584(smB_p1, smB_p1_Idx);
+          Label4: {
+            F.line = 87;
+            var n_1442840959 = 0;
+            F.line = 87;
+            var capt_1442840960 = 0;
+            F.line = 87;
+            var bounds_1442840961 = ({a: 0, b: 0});
+            Label5: {
+              F.line = 341;
+              F.filename = "nfatype.nim";
+              var i_520093788 = 0;
+              F.line = 81;
+              F.filename = "iterators_1.nim";
+              var colontmp__520093789 = 0;
+              F.line = 341;
+              F.filename = "nfatype.nim";
+              colontmp__520093789 = subInt(len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]), 1);
+              F.line = 96;
+              F.filename = "iterators_1.nim";
+              var res_520093790 = 0;
+              Label6: {
+                F.line = 97;
+                  Label7: while (true) {
+                  if (!(res_520093790 <= colontmp__520093789)) break Label7;
+                    F.line = 341;
+                    F.filename = "nfatype.nim";
+                    i_520093788 = res_520093790;
+                    F.line = 87;
+                    F.filename = "nfamatch2.nim";
+                    var colontmp__520093793 = nimCopy(null, smA_p0[smA_p0_Idx].sx[chckIndx(i_520093788, 0, (smA_p0[smA_p0_Idx].sx).length - 1)], NTI1275069342);
+                    F.line = 87;
+                    n_1442840959 = colontmp__520093793["Field0"];
+                    F.line = 87;
+                    capt_1442840960 = colontmp__520093793["Field1"];
+                    F.line = 87;
+                    bounds_1442840961 = nimCopy(bounds_1442840961, colontmp__520093793["Field2"], NTI721420312);
+                    if (!((capt_1442840960 == (-1)))) {
+                    F.line = 89;
+                    keepAlive__pkgZregexZnfatype_u329(capts_p2, capt_1442840960);
+                    }
+                    
+                    if ((anchored_1442840669 && (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].kind == 44))) {
+                    if (!(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], n_1442840959))) {
+                    F.line = 92;
+                    add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: n_1442840959, Field1: capt_1442840960, Field2: nimCopy(null, bounds_1442840961, NTI721420312)});
+                    }
+                    
+                    F.line = 93;
+                    break Label4;
+                    }
+                    
+                    F.line = 94;
+                    var nti_1442840966 = 0;
+                    Label8: {
+                      F.line = 95;
+                        Label9: while (true) {
+                        if (!(nti_1442840966 <= subInt((nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length, 1))) break Label9;
+                          F.line = 96;
+                          matched_1442840664 = true;
+                          F.line = 97;
+                          captx_1442840663[0] = capt_1442840960;
+                          Label10: {
+                            F.line = 98;
+                              Label11: while (true) {
+                              if (!isEpsilonTransition__pkgZregexZtypes_u611(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)])) break Label11;
+                                if (matched_1442840664) {
+                                F.line = 100;
+                                switch (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind) {
+                                case 3:
+                                  F.line = 103;
+                                  captx_1442840663[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442840663[0]);
+                                    if (!((flags_p8[6] != undefined))) Temporary12 = true; else {                                      Temporary12 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a == (-1));                                    }                                  if (Temporary12) {
+                                  F.line = 106;
+                                  HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a = i_1442840661;
+                                  }
+                                  
+                                  break;
+                                case 4:
+                                  F.line = 108;
+                                  captx_1442840663[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442840663[0]);
+                                    if (!((flags_p8[6] != undefined))) Temporary13 = true; else {                                      Temporary13 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b == (-2));                                    }                                  if (Temporary13) {
+                                  F.line = 111;
+                                  HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b = subInt(i_1442840661, 1);
+                                  }
+                                  
+                                  break;
+                                case 11:
+                                case 12:
+                                case 13:
+                                case 14:
+                                case 15:
+                                case 16:
+                                case 17:
+                                case 18:
+                                case 29:
+                                case 30:
+                                  F.line = 116;
+                                  matched_1442840664 = match__pkgZregexZnodematch_u49(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], cPrev_1442840660, c_1442840659);
+                                  break;
+                                case 39:
+                                case 40:
+                                case 41:
+                                case 42:
+                                  F.line = 118;
+                                  var freezed_1442840982 = freeze__pkgZregexZnfatype_u338(capts_p2);
+                                  F.line = 119;
+                                  matched_1442840664 = lookAround__pkgZregexZnfamatch2_u36(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], capts_p2, captx_1442840663, 0, text_p4, look_p6, i_1442840661, flags_p8);
+                                  F.line = 120;
+                                  unfreeze__pkgZregexZnfatype_u406(capts_p2, freezed_1442840982);
+                                  if (!((captx_1442840663[0] == (-1)))) {
+                                  F.line = 122;
+                                  keepAlive__pkgZregexZnfatype_u329(capts_p2, captx_1442840663[0]);
+                                  }
+                                  
+                                  break;
+                                default: 
+                                  if (true) {
+                                  F.line = 124;
+                                  failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim(124, 13) `false` "));
+                                  }
+                                  
+                                  break;
+                                }
+                                }
+                                
+                                F.line = 126;
+                                nti_1442840966 = addInt(nti_1442840966, 1);
+                              }
+                          };
+                          if (((matched_1442840664 && !(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)]))) && (match__pkgZregexZnodematch_u124(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], c_1442840659) || (anchored_1442840669 && (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind == 44))))) {
+                          F.line = 130;
+                          add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442840966, 0, (nfa_p5.s[chckIndx(n_1442840959, 0, (nfa_p5.s).length - 1)].next).length - 1)], Field1: captx_1442840663[0], Field2: HEX2EHEX2E__stdZstrbasics_u50(bounds_1442840961.a, subInt(i_1442840661, 1))});
+                          }
+                          
+                          F.line = 131;
+                          nti_1442840966 = addInt(nti_1442840966, 1);
+                        }
+                    };
+                    F.line = 102;
+                    F.filename = "iterators_1.nim";
+                    res_520093790 = addInt(res_520093790, 1);
+                  }
+              };
+            };
+          };
+          F.line = 132;
+          F.filename = "nfamatch2.nim";
+          F.line = 132;
+          var HEX3Atmp_520093837 = smA_p0[smA_p0_Idx];
+          F.line = 132;
+          smA_p0[smA_p0_Idx] = smB_p1[smB_p1_Idx];
+          F.line = 132;
+          smB_p1[smB_p1_Idx] = HEX3Atmp_520093837;
+          F.line = 133;
+          recycle__pkgZregexZnfatype_u524(capts_p2);
+          if ((len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]) == 0)) {
+          F.line = 170;
+          result_1442840658 = false;
+          break BeforeRet;
+          }
+          
+          if ((anchored_1442840669 && (nfa_p5.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(smA_p0[smA_p0_Idx], 0).Field0, 0, (nfa_p5.s).length - 1)].kind == 44))) {
+          F.line = 172;
+          break Label2;
+          }
+          
+          F.line = 173;
+          i_1442840661 = iNext_1442840662;
+          F.line = 174;
+          cPrev_1442840660 = c_1442840659;
+        }
+    };
+    F.line = 175;
+    c_1442840659 = (-1);
+    F.line = 86;
+    clear__pkgZregexZnfatype_u1584(smB_p1, smB_p1_Idx);
+    Label14: {
+      F.line = 87;
+      var n_1442841019 = 0;
+      F.line = 87;
+      var capt_1442841020 = 0;
+      F.line = 87;
+      var bounds_1442841021 = ({a: 0, b: 0});
+      Label15: {
+        F.line = 341;
+        F.filename = "nfatype.nim";
+        var i_520093798 = 0;
+        F.line = 81;
+        F.filename = "iterators_1.nim";
+        var colontmp__520093799 = 0;
+        F.line = 341;
+        F.filename = "nfatype.nim";
+        colontmp__520093799 = subInt(len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]), 1);
+        F.line = 96;
+        F.filename = "iterators_1.nim";
+        var res_520093800 = 0;
+        Label16: {
+          F.line = 97;
+            Label17: while (true) {
+            if (!(res_520093800 <= colontmp__520093799)) break Label17;
+              F.line = 341;
+              F.filename = "nfatype.nim";
+              i_520093798 = res_520093800;
+              F.line = 87;
+              F.filename = "nfamatch2.nim";
+              var colontmp__520093803 = nimCopy(null, smA_p0[smA_p0_Idx].sx[chckIndx(i_520093798, 0, (smA_p0[smA_p0_Idx].sx).length - 1)], NTI1275069342);
+              F.line = 87;
+              n_1442841019 = colontmp__520093803["Field0"];
+              F.line = 87;
+              capt_1442841020 = colontmp__520093803["Field1"];
+              F.line = 87;
+              bounds_1442841021 = nimCopy(bounds_1442841021, colontmp__520093803["Field2"], NTI721420312);
+              if (!((capt_1442841020 == (-1)))) {
+              F.line = 89;
+              keepAlive__pkgZregexZnfatype_u329(capts_p2, capt_1442841020);
+              }
+              
+              if ((anchored_1442840669 && (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].kind == 44))) {
+              if (!(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], n_1442841019))) {
+              F.line = 92;
+              add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: n_1442841019, Field1: capt_1442841020, Field2: nimCopy(null, bounds_1442841021, NTI721420312)});
+              }
+              
+              F.line = 93;
+              break Label14;
+              }
+              
+              F.line = 94;
+              var nti_1442841026 = 0;
+              Label18: {
+                F.line = 95;
+                  Label19: while (true) {
+                  if (!(nti_1442841026 <= subInt((nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length, 1))) break Label19;
+                    F.line = 96;
+                    matched_1442840664 = true;
+                    F.line = 97;
+                    captx_1442840663[0] = capt_1442841020;
+                    Label20: {
+                      F.line = 98;
+                        Label21: while (true) {
+                        if (!isEpsilonTransition__pkgZregexZtypes_u611(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)])) break Label21;
+                          if (matched_1442840664) {
+                          F.line = 100;
+                          switch (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind) {
+                          case 3:
+                            F.line = 103;
+                            captx_1442840663[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442840663[0]);
+                              if (!((flags_p8[6] != undefined))) Temporary22 = true; else {                                Temporary22 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a == (-1));                              }                            if (Temporary22) {
+                            F.line = 106;
+                            HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a = i_1442840661;
+                            }
+                            
+                            break;
+                          case 4:
+                            F.line = 108;
+                            captx_1442840663[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442840663[0]);
+                              if (!((flags_p8[6] != undefined))) Temporary23 = true; else {                                Temporary23 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b == (-2));                              }                            if (Temporary23) {
+                            F.line = 111;
+                            HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442840663[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b = subInt(i_1442840661, 1);
+                            }
+                            
+                            break;
+                          case 11:
+                          case 12:
+                          case 13:
+                          case 14:
+                          case 15:
+                          case 16:
+                          case 17:
+                          case 18:
+                          case 29:
+                          case 30:
+                            F.line = 116;
+                            matched_1442840664 = match__pkgZregexZnodematch_u49(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], cPrev_1442840660, c_1442840659);
+                            break;
+                          case 39:
+                          case 40:
+                          case 41:
+                          case 42:
+                            F.line = 118;
+                            var freezed_1442841042 = freeze__pkgZregexZnfatype_u338(capts_p2);
+                            F.line = 119;
+                            matched_1442840664 = lookAround__pkgZregexZnfamatch2_u36(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], capts_p2, captx_1442840663, 0, text_p4, look_p6, i_1442840661, flags_p8);
+                            F.line = 120;
+                            unfreeze__pkgZregexZnfatype_u406(capts_p2, freezed_1442841042);
+                            if (!((captx_1442840663[0] == (-1)))) {
+                            F.line = 122;
+                            keepAlive__pkgZregexZnfatype_u329(capts_p2, captx_1442840663[0]);
+                            }
+                            
+                            break;
+                          default: 
+                            if (true) {
+                            F.line = 124;
+                            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim(124, 13) `false` "));
+                            }
+                            
+                            break;
+                          }
+                          }
+                          
+                          F.line = 126;
+                          nti_1442841026 = addInt(nti_1442841026, 1);
+                        }
+                    };
+                    if (((matched_1442840664 && !(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)]))) && (match__pkgZregexZnodematch_u124(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], c_1442840659) || (anchored_1442840669 && (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind == 44))))) {
+                    F.line = 130;
+                    add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841026, 0, (nfa_p5.s[chckIndx(n_1442841019, 0, (nfa_p5.s).length - 1)].next).length - 1)], Field1: captx_1442840663[0], Field2: HEX2EHEX2E__stdZstrbasics_u50(bounds_1442841021.a, subInt(i_1442840661, 1))});
+                    }
+                    
+                    F.line = 131;
+                    nti_1442841026 = addInt(nti_1442841026, 1);
+                  }
+              };
+              F.line = 102;
+              F.filename = "iterators_1.nim";
+              res_520093800 = addInt(res_520093800, 1);
+            }
+        };
+      };
+    };
+    F.line = 132;
+    F.filename = "nfamatch2.nim";
+    F.line = 132;
+    var HEX3Atmp_520093843 = smA_p0[smA_p0_Idx];
+    F.line = 132;
+    smA_p0[smA_p0_Idx] = smB_p1[smB_p1_Idx];
+    F.line = 132;
+    smB_p1[smB_p1_Idx] = HEX3Atmp_520093843;
+    F.line = 133;
+    recycle__pkgZregexZnfatype_u524(capts_p2);
+    if ((0 < len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]))) {
+    F.line = 178;
+    captIdx_p3[captIdx_p3_Idx] = HEX5BHEX5D__pkgZregexZnfatype_u1537(smA_p0[smA_p0_Idx], 0).Field1;
+    }
+    
+    F.line = 179;
+    result_1442840658 = (0 < len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]));
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1442840658;
+
+}
+
+function runeAt__pureZunicode_u7225(s_p0, i_p1) {
+  var result_704650300 = 0;
+
+  var F = {procname: "unicode.runeAt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+    if ((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] <= 127)) {
+    F.line = 91;
+    F.filename = "unicode.nim";
+    result_704650300 = chckRange(s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)], (-2147483648), 2147483647);
+    }
+    else {
+    if (((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] >>> 5) == 6)) {
+    if ((i_p1 <= subInt((s_p0).length, 2))) {
+    F.line = 96;
+    result_704650300 = chckRange(((((((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] & 31) >>> 0) << 6) >>> 0) | ((s_p0[chckIndx(addInt(i_p1, 1), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 100;
+      result_704650300 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] >>> 4) == 14)) {
+    if ((i_p1 <= subInt((s_p0).length, 3))) {
+    F.line = 106;
+    result_704650300 = chckRange(((((((((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] & 15) >>> 0) << 12) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(i_p1, 2), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 111;
+      result_704650300 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] >>> 3) == 30)) {
+    if ((i_p1 <= subInt((s_p0).length, 4))) {
+    F.line = 118;
+    result_704650300 = chckRange(((((((((((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] & 7) >>> 0) << 18) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 2), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(i_p1, 3), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 124;
+      result_704650300 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] >>> 2) == 62)) {
+    if ((i_p1 <= subInt((s_p0).length, 5))) {
+    F.line = 132;
+    result_704650300 = chckRange(((((((((((((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] & 3) >>> 0) << 24) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 2), 0, (s_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 3), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(i_p1, 4), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 139;
+      result_704650300 = 65533;
+    }
+    
+    }
+    else {
+    if (((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] >>> 1) == 126)) {
+    if ((i_p1 <= subInt((s_p0).length, 6))) {
+    F.line = 148;
+    result_704650300 = chckRange(((((((((((((((s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)] & 1) >>> 0) << 30) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 1), 0, (s_p0).length - 1)] & 63) >>> 0) << 24) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 2), 0, (s_p0).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 3), 0, (s_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((s_p0[chckIndx(addInt(i_p1, 4), 0, (s_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((s_p0[chckIndx(addInt(i_p1, 5), 0, (s_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+    }
+    else {
+      F.line = 156;
+      result_704650300 = 65533;
+    }
+    
+    }
+    else {
+      F.line = 159;
+      result_704650300 = chckRange(s_p0[chckIndx(i_p1, 0, (s_p0).length - 1)], (-2147483648), 2147483647);
+    }
+    }}}}}
+  framePtr = F.prev;
+
+  return result_704650300;
+
+}
+
+function reversedMatchImpl__pkgZregexZnfamatch2_u495(smA_p0, smA_p0_Idx, smB_p1, smB_p1_Idx, capts_p2, captIdx_p3, captIdx_p3_Idx, text_p4, nfa_p5, look_p6, start_p7, limit_p8, flags_p9) {
+    var Temporary1;
+                                    var Temporary14;
+                                    var Temporary15;
+                              var Temporary26;
+                              var Temporary27;
+
+  var result_1442841082 = 0;
+
+  var F = {procname: "nfamatch2.reversedMatchImpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    if (!((limit_p8 <= start_p7))) {
+    F.line = 193;
+    F.filename = "nfamatch2.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim(193, 3) `start >= limit` "));
+    }
+    
+    F.line = 195;
+    var c_1442841088 = (-1);
+    F.line = 196;
+    var cPrev_1442841089 = (-1);
+    F.line = 197;
+    var i_1442841090 = start_p7;
+    F.line = 198;
+    var iNext_1442841091 = start_p7;
+    F.line = 199;
+    var captx_1442841092 = [0];
+    F.line = 200;
+    var matched_1442841093 = false;
+    F.line = 201;
+    var anchored_1442841094 = true;
+    F.line = 202;
+    var binFlag_1442841099 = (flags_p9[7] != undefined);
+    if (contains__pkgZregexZparser_u148(HEX2EHEX2E__stdZstrbasics_u50(0, subInt((text_p4).length, 1)), start_p7)) {
+    F.line = 204;
+    if (binFlag_1442841099) {
+    Temporary1 = ((text_p4[chckIndx(start_p7, 0, (text_p4).length - 1)]) | 0);
+    }
+    else {
+    Temporary1 = runeAt__pureZunicode_u7225(text_p4, chckRange(start_p7, 0, 2147483647));
+    }
+    
+    cPrev_1442841089 = Temporary1;
+    }
+    
+    F.line = 208;
+    clear__pkgZregexZnfatype_u1584(smA_p0, smA_p0_Idx);
+    F.line = 209;
+    add__pkgZregexZnfatype_u1550(smA_p0, smA_p0_Idx, {Field0: 0, Field1: captIdx_p3[captIdx_p3_Idx], Field2: HEX2EHEX2E__stdZstrbasics_u50(i_1442841090, subInt(i_1442841090, 1))});
+    Label2: {
+      F.line = 210;
+        Label3: while (true) {
+        if (!(limit_p8 < iNext_1442841091)) break Label3;
+          if (binFlag_1442841099) {
+          F.line = 212;
+          c_1442841088 = ((text_p4[chckIndx(subInt(iNext_1442841091, 1), 0, (text_p4).length - 1)]) | 0);
+          F.line = 213;
+          iNext_1442841091 = subInt(iNext_1442841091, 1);
+          }
+          else {
+            if (!((0 < iNext_1442841091))) {
+            F.line = 51;
+            F.filename = "common.nim";
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim(51, 3) `iNext > 0` "));
+            }
+            
+            if (!((iNext_1442841091 <= (text_p4).length))) {
+            F.line = 52;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim(52, 3) `iNext <= text.len` "));
+            }
+            
+            F.line = 53;
+            iNext_1442841091 = subInt(iNext_1442841091, 1);
+            Label4: {
+              F.line = 54;
+                Label5: while (true) {
+                if (!((0 < iNext_1442841091) && ((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >> 6) == 2))) break Label5;
+                  F.line = 55;
+                  iNext_1442841091 = subInt(iNext_1442841091, 1);
+                }
+            };
+            if ((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] <= 127)) {
+            F.line = 91;
+            F.filename = "unicode.nim";
+            c_1442841088 = chckRange(text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)], (-2147483648), 2147483647);
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 5) == 6)) {
+            if ((iNext_1442841091 <= subInt((text_p4).length, 2))) {
+            F.line = 96;
+            c_1442841088 = chckRange(((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 31) >>> 0) << 6) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            }
+            else {
+              F.line = 100;
+              c_1442841088 = 65533;
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 4) == 14)) {
+            if ((iNext_1442841091 <= subInt((text_p4).length, 3))) {
+            F.line = 106;
+            c_1442841088 = chckRange(((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 15) >>> 0) << 12) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            }
+            else {
+              F.line = 111;
+              c_1442841088 = 65533;
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 3) == 30)) {
+            if ((iNext_1442841091 <= subInt((text_p4).length, 4))) {
+            F.line = 118;
+            c_1442841088 = chckRange(((((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 7) >>> 0) << 18) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 3), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            }
+            else {
+              F.line = 124;
+              c_1442841088 = 65533;
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 2) == 62)) {
+            if ((iNext_1442841091 <= subInt((text_p4).length, 5))) {
+            F.line = 132;
+            c_1442841088 = chckRange(((((((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 3) >>> 0) << 24) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 3), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 4), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            }
+            else {
+              F.line = 139;
+              c_1442841088 = 65533;
+            }
+            
+            }
+            else {
+            if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 1) == 126)) {
+            if ((iNext_1442841091 <= subInt((text_p4).length, 6))) {
+            F.line = 148;
+            c_1442841088 = chckRange(((((((((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 1) >>> 0) << 30) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 24) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 3), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 4), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 5), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            }
+            else {
+              F.line = 156;
+              c_1442841088 = 65533;
+            }
+            
+            }
+            else {
+              F.line = 159;
+              c_1442841088 = chckRange(text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)], (-2147483648), 2147483647);
+            }
+            }}}}}
+          }
+          
+          F.line = 86;
+          F.filename = "nfamatch2.nim";
+          clear__pkgZregexZnfatype_u1584(smB_p1, smB_p1_Idx);
+          Label6: {
+            F.line = 87;
+            var n_1442841351 = 0;
+            F.line = 87;
+            var capt_1442841352 = 0;
+            F.line = 87;
+            var bounds_1442841353 = ({a: 0, b: 0});
+            Label7: {
+              F.line = 341;
+              F.filename = "nfatype.nim";
+              var i_520093850 = 0;
+              F.line = 81;
+              F.filename = "iterators_1.nim";
+              var colontmp__520093851 = 0;
+              F.line = 341;
+              F.filename = "nfatype.nim";
+              colontmp__520093851 = subInt(len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]), 1);
+              F.line = 96;
+              F.filename = "iterators_1.nim";
+              var res_520093852 = 0;
+              Label8: {
+                F.line = 97;
+                  Label9: while (true) {
+                  if (!(res_520093852 <= colontmp__520093851)) break Label9;
+                    F.line = 341;
+                    F.filename = "nfatype.nim";
+                    i_520093850 = res_520093852;
+                    F.line = 87;
+                    F.filename = "nfamatch2.nim";
+                    var colontmp__520093855 = nimCopy(null, smA_p0[smA_p0_Idx].sx[chckIndx(i_520093850, 0, (smA_p0[smA_p0_Idx].sx).length - 1)], NTI1275069342);
+                    F.line = 87;
+                    n_1442841351 = colontmp__520093855["Field0"];
+                    F.line = 87;
+                    capt_1442841352 = colontmp__520093855["Field1"];
+                    F.line = 87;
+                    bounds_1442841353 = nimCopy(bounds_1442841353, colontmp__520093855["Field2"], NTI721420312);
+                    if (!((capt_1442841352 == (-1)))) {
+                    F.line = 89;
+                    keepAlive__pkgZregexZnfatype_u329(capts_p2, capt_1442841352);
+                    }
+                    
+                    if ((anchored_1442841094 && (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].kind == 44))) {
+                    if (!(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], n_1442841351))) {
+                    F.line = 92;
+                    add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: n_1442841351, Field1: capt_1442841352, Field2: nimCopy(null, bounds_1442841353, NTI721420312)});
+                    }
+                    
+                    F.line = 93;
+                    break Label6;
+                    }
+                    
+                    F.line = 94;
+                    var nti_1442841358 = 0;
+                    Label10: {
+                      F.line = 95;
+                        Label11: while (true) {
+                        if (!(nti_1442841358 <= subInt((nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length, 1))) break Label11;
+                          F.line = 96;
+                          matched_1442841093 = true;
+                          F.line = 97;
+                          captx_1442841092[0] = capt_1442841352;
+                          Label12: {
+                            F.line = 98;
+                              Label13: while (true) {
+                              if (!isEpsilonTransition__pkgZregexZtypes_u611(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)])) break Label13;
+                                if (matched_1442841093) {
+                                F.line = 100;
+                                switch (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind) {
+                                case 3:
+                                  F.line = 103;
+                                  captx_1442841092[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442841092[0]);
+                                    if (!((flags_p9[6] != undefined))) Temporary14 = true; else {                                      Temporary14 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a == (-1));                                    }                                  if (Temporary14) {
+                                  F.line = 106;
+                                  HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a = i_1442841090;
+                                  }
+                                  
+                                  break;
+                                case 4:
+                                  F.line = 108;
+                                  captx_1442841092[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442841092[0]);
+                                    if (!((flags_p9[6] != undefined))) Temporary15 = true; else {                                      Temporary15 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b == (-2));                                    }                                  if (Temporary15) {
+                                  F.line = 111;
+                                  HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b = subInt(i_1442841090, 1);
+                                  }
+                                  
+                                  break;
+                                case 11:
+                                case 12:
+                                case 13:
+                                case 14:
+                                case 15:
+                                case 16:
+                                case 17:
+                                case 18:
+                                case 29:
+                                case 30:
+                                  F.line = 114;
+                                  matched_1442841093 = match__pkgZregexZnodematch_u49(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], c_1442841088, cPrev_1442841089);
+                                  break;
+                                case 39:
+                                case 40:
+                                case 41:
+                                case 42:
+                                  F.line = 118;
+                                  var freezed_1442841374 = freeze__pkgZregexZnfatype_u338(capts_p2);
+                                  F.line = 119;
+                                  matched_1442841093 = lookAround__pkgZregexZnfamatch2_u36(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], capts_p2, captx_1442841092, 0, text_p4, look_p6, i_1442841090, flags_p9);
+                                  F.line = 120;
+                                  unfreeze__pkgZregexZnfatype_u406(capts_p2, freezed_1442841374);
+                                  if (!((captx_1442841092[0] == (-1)))) {
+                                  F.line = 122;
+                                  keepAlive__pkgZregexZnfatype_u329(capts_p2, captx_1442841092[0]);
+                                  }
+                                  
+                                  break;
+                                default: 
+                                  if (true) {
+                                  F.line = 124;
+                                  failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim(124, 13) `false` "));
+                                  }
+                                  
+                                  break;
+                                }
+                                }
+                                
+                                F.line = 126;
+                                nti_1442841358 = addInt(nti_1442841358, 1);
+                              }
+                          };
+                          if (((matched_1442841093 && !(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)]))) && (match__pkgZregexZnodematch_u124(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], c_1442841088) || (anchored_1442841094 && (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind == 44))))) {
+                          F.line = 130;
+                          add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841358, 0, (nfa_p5.s[chckIndx(n_1442841351, 0, (nfa_p5.s).length - 1)].next).length - 1)], Field1: captx_1442841092[0], Field2: HEX2EHEX2E__stdZstrbasics_u50(i_1442841090, bounds_1442841353.b)});
+                          }
+                          
+                          F.line = 131;
+                          nti_1442841358 = addInt(nti_1442841358, 1);
+                        }
+                    };
+                    F.line = 102;
+                    F.filename = "iterators_1.nim";
+                    res_520093852 = addInt(res_520093852, 1);
+                  }
+              };
+            };
+          };
+          F.line = 132;
+          F.filename = "nfamatch2.nim";
+          F.line = 132;
+          var HEX3Atmp_520093875 = smA_p0[smA_p0_Idx];
+          F.line = 132;
+          smA_p0[smA_p0_Idx] = smB_p1[smB_p1_Idx];
+          F.line = 132;
+          smB_p1[smB_p1_Idx] = HEX3Atmp_520093875;
+          F.line = 133;
+          recycle__pkgZregexZnfatype_u524(capts_p2);
+          if ((len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]) == 0)) {
+          F.line = 218;
+          result_1442841082 = (-1);
+          break BeforeRet;
+          }
+          
+          if ((nfa_p5.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(smA_p0[smA_p0_Idx], 0).Field0, 0, (nfa_p5.s).length - 1)].kind == 44)) {
+          F.line = 220;
+          break Label2;
+          }
+          
+          F.line = 221;
+          i_1442841090 = iNext_1442841091;
+          F.line = 222;
+          cPrev_1442841089 = c_1442841088;
+        }
+    };
+    F.line = 223;
+    c_1442841088 = (-1);
+    if ((0 < iNext_1442841091)) {
+    if (binFlag_1442841099) {
+    F.line = 226;
+    c_1442841088 = ((text_p4[chckIndx(subInt(iNext_1442841091, 1), 0, (text_p4).length - 1)]) | 0);
+    F.line = 227;
+    iNext_1442841091 = subInt(iNext_1442841091, 1);
+    }
+    else {
+      if (!((0 < iNext_1442841091))) {
+      F.line = 51;
+      F.filename = "common.nim";
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim(51, 3) `iNext > 0` "));
+      }
+      
+      if (!((iNext_1442841091 <= (text_p4).length))) {
+      F.line = 52;
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\common.nim(52, 3) `iNext <= text.len` "));
+      }
+      
+      F.line = 53;
+      iNext_1442841091 = subInt(iNext_1442841091, 1);
+      Label16: {
+        F.line = 54;
+          Label17: while (true) {
+          if (!((0 < iNext_1442841091) && ((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >> 6) == 2))) break Label17;
+            F.line = 55;
+            iNext_1442841091 = subInt(iNext_1442841091, 1);
+          }
+      };
+      if ((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] <= 127)) {
+      F.line = 91;
+      F.filename = "unicode.nim";
+      c_1442841088 = chckRange(text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)], (-2147483648), 2147483647);
+      }
+      else {
+      if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 5) == 6)) {
+      if ((iNext_1442841091 <= subInt((text_p4).length, 2))) {
+      F.line = 96;
+      c_1442841088 = chckRange(((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 31) >>> 0) << 6) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+      }
+      else {
+        F.line = 100;
+        c_1442841088 = 65533;
+      }
+      
+      }
+      else {
+      if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 4) == 14)) {
+      if ((iNext_1442841091 <= subInt((text_p4).length, 3))) {
+      F.line = 106;
+      c_1442841088 = chckRange(((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 15) >>> 0) << 12) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+      }
+      else {
+        F.line = 111;
+        c_1442841088 = 65533;
+      }
+      
+      }
+      else {
+      if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 3) == 30)) {
+      if ((iNext_1442841091 <= subInt((text_p4).length, 4))) {
+      F.line = 118;
+      c_1442841088 = chckRange(((((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 7) >>> 0) << 18) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 3), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+      }
+      else {
+        F.line = 124;
+        c_1442841088 = 65533;
+      }
+      
+      }
+      else {
+      if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 2) == 62)) {
+      if ((iNext_1442841091 <= subInt((text_p4).length, 5))) {
+      F.line = 132;
+      c_1442841088 = chckRange(((((((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 3) >>> 0) << 24) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 3), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 4), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+      }
+      else {
+        F.line = 139;
+        c_1442841088 = 65533;
+      }
+      
+      }
+      else {
+      if (((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] >>> 1) == 126)) {
+      if ((iNext_1442841091 <= subInt((text_p4).length, 6))) {
+      F.line = 148;
+      c_1442841088 = chckRange(((((((((((((((text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)] & 1) >>> 0) << 30) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 1), 0, (text_p4).length - 1)] & 63) >>> 0) << 24) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 2), 0, (text_p4).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 3), 0, (text_p4).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p4[chckIndx(addInt(iNext_1442841091, 4), 0, (text_p4).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p4[chckIndx(addInt(iNext_1442841091, 5), 0, (text_p4).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+      }
+      else {
+        F.line = 156;
+        c_1442841088 = 65533;
+      }
+      
+      }
+      else {
+        F.line = 159;
+        c_1442841088 = chckRange(text_p4[chckIndx(iNext_1442841091, 0, (text_p4).length - 1)], (-2147483648), 2147483647);
+      }
+      }}}}}
+    }
+    
+    }
+    
+    F.line = 86;
+    F.filename = "nfamatch2.nim";
+    clear__pkgZregexZnfatype_u1584(smB_p1, smB_p1_Idx);
+    Label18: {
+      F.line = 87;
+      var n_1442841604 = 0;
+      F.line = 87;
+      var capt_1442841605 = 0;
+      F.line = 87;
+      var bounds_1442841606 = ({a: 0, b: 0});
+      Label19: {
+        F.line = 341;
+        F.filename = "nfatype.nim";
+        var i_520093861 = 0;
+        F.line = 81;
+        F.filename = "iterators_1.nim";
+        var colontmp__520093862 = 0;
+        F.line = 341;
+        F.filename = "nfatype.nim";
+        colontmp__520093862 = subInt(len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]), 1);
+        F.line = 96;
+        F.filename = "iterators_1.nim";
+        var res_520093863 = 0;
+        Label20: {
+          F.line = 97;
+            Label21: while (true) {
+            if (!(res_520093863 <= colontmp__520093862)) break Label21;
+              F.line = 341;
+              F.filename = "nfatype.nim";
+              i_520093861 = res_520093863;
+              F.line = 87;
+              F.filename = "nfamatch2.nim";
+              var colontmp__520093866 = nimCopy(null, smA_p0[smA_p0_Idx].sx[chckIndx(i_520093861, 0, (smA_p0[smA_p0_Idx].sx).length - 1)], NTI1275069342);
+              F.line = 87;
+              n_1442841604 = colontmp__520093866["Field0"];
+              F.line = 87;
+              capt_1442841605 = colontmp__520093866["Field1"];
+              F.line = 87;
+              bounds_1442841606 = nimCopy(bounds_1442841606, colontmp__520093866["Field2"], NTI721420312);
+              if (!((capt_1442841605 == (-1)))) {
+              F.line = 89;
+              keepAlive__pkgZregexZnfatype_u329(capts_p2, capt_1442841605);
+              }
+              
+              if ((anchored_1442841094 && (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].kind == 44))) {
+              if (!(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], n_1442841604))) {
+              F.line = 92;
+              add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: n_1442841604, Field1: capt_1442841605, Field2: nimCopy(null, bounds_1442841606, NTI721420312)});
+              }
+              
+              F.line = 93;
+              break Label18;
+              }
+              
+              F.line = 94;
+              var nti_1442841611 = 0;
+              Label22: {
+                F.line = 95;
+                  Label23: while (true) {
+                  if (!(nti_1442841611 <= subInt((nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length, 1))) break Label23;
+                    F.line = 96;
+                    matched_1442841093 = true;
+                    F.line = 97;
+                    captx_1442841092[0] = capt_1442841605;
+                    Label24: {
+                      F.line = 98;
+                        Label25: while (true) {
+                        if (!isEpsilonTransition__pkgZregexZtypes_u611(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)])) break Label25;
+                          if (matched_1442841093) {
+                          F.line = 100;
+                          switch (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind) {
+                          case 3:
+                            F.line = 103;
+                            captx_1442841092[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442841092[0]);
+                              if (!((flags_p9[6] != undefined))) Temporary26 = true; else {                                Temporary26 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a == (-1));                              }                            if (Temporary26) {
+                            F.line = 106;
+                            HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).a = i_1442841090;
+                            }
+                            
+                            break;
+                          case 4:
+                            F.line = 108;
+                            captx_1442841092[0] = diverge__pkgZregexZnfatype_u483(capts_p2, captx_1442841092[0]);
+                              if (!((flags_p9[6] != undefined))) Temporary27 = true; else {                                Temporary27 = (HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b == (-2));                              }                            if (Temporary27) {
+                            F.line = 111;
+                            HEX5BHEX5D__pkgZregexZnfatype_u71(capts_p2, chckRange(captx_1442841092[0], 0, 2147483647), chckRange(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].idx, 0, 2147483647)).b = subInt(i_1442841090, 1);
+                            }
+                            
+                            break;
+                          case 11:
+                          case 12:
+                          case 13:
+                          case 14:
+                          case 15:
+                          case 16:
+                          case 17:
+                          case 18:
+                          case 29:
+                          case 30:
+                            F.line = 114;
+                            matched_1442841093 = match__pkgZregexZnodematch_u49(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], c_1442841088, cPrev_1442841089);
+                            break;
+                          case 39:
+                          case 40:
+                          case 41:
+                          case 42:
+                            F.line = 118;
+                            var freezed_1442841627 = freeze__pkgZregexZnfatype_u338(capts_p2);
+                            F.line = 119;
+                            matched_1442841093 = lookAround__pkgZregexZnfamatch2_u36(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], capts_p2, captx_1442841092, 0, text_p4, look_p6, i_1442841090, flags_p9);
+                            F.line = 120;
+                            unfreeze__pkgZregexZnfatype_u406(capts_p2, freezed_1442841627);
+                            if (!((captx_1442841092[0] == (-1)))) {
+                            F.line = 122;
+                            keepAlive__pkgZregexZnfatype_u329(capts_p2, captx_1442841092[0]);
+                            }
+                            
+                            break;
+                          default: 
+                            if (true) {
+                            F.line = 124;
+                            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim(124, 13) `false` "));
+                            }
+                            
+                            break;
+                          }
+                          }
+                          
+                          F.line = 126;
+                          nti_1442841611 = addInt(nti_1442841611, 1);
+                        }
+                    };
+                    if (((matched_1442841093 && !(hasState__pkgZregexZnfatype_u1546(smB_p1[smB_p1_Idx], nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)]))) && (match__pkgZregexZnodematch_u124(nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)], c_1442841088) || (anchored_1442841094 && (nfa_p5.s[chckIndx(nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], 0, (nfa_p5.s).length - 1)].kind == 44))))) {
+                    F.line = 130;
+                    add__pkgZregexZnfatype_u1550(smB_p1, smB_p1_Idx, {Field0: nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next[chckIndx(nti_1442841611, 0, (nfa_p5.s[chckIndx(n_1442841604, 0, (nfa_p5.s).length - 1)].next).length - 1)], Field1: captx_1442841092[0], Field2: HEX2EHEX2E__stdZstrbasics_u50(i_1442841090, bounds_1442841606.b)});
+                    }
+                    
+                    F.line = 131;
+                    nti_1442841611 = addInt(nti_1442841611, 1);
+                  }
+              };
+              F.line = 102;
+              F.filename = "iterators_1.nim";
+              res_520093863 = addInt(res_520093863, 1);
+            }
+        };
+      };
+    };
+    F.line = 132;
+    F.filename = "nfamatch2.nim";
+    F.line = 132;
+    var HEX3Atmp_520093876 = smA_p0[smA_p0_Idx];
+    F.line = 132;
+    smA_p0[smA_p0_Idx] = smB_p1[smB_p1_Idx];
+    F.line = 132;
+    smB_p1[smB_p1_Idx] = HEX3Atmp_520093876;
+    F.line = 133;
+    recycle__pkgZregexZnfatype_u524(capts_p2);
+    Label28: {
+      F.line = 231;
+      var n_1442841656 = 0;
+      F.line = 231;
+      var capt_1442841657 = 0;
+      F.line = 231;
+      var bounds_1442841658 = ({a: 0, b: 0});
+      Label29: {
+        F.line = 341;
+        F.filename = "nfatype.nim";
+        var i_520093869 = 0;
+        F.line = 81;
+        F.filename = "iterators_1.nim";
+        var colontmp__520093870 = 0;
+        F.line = 341;
+        F.filename = "nfatype.nim";
+        colontmp__520093870 = subInt(len__pkgZregexZnfatype_u1581(smA_p0[smA_p0_Idx]), 1);
+        F.line = 96;
+        F.filename = "iterators_1.nim";
+        var res_520093871 = 0;
+        Label30: {
+          F.line = 97;
+            Label31: while (true) {
+            if (!(res_520093871 <= colontmp__520093870)) break Label31;
+              F.line = 341;
+              F.filename = "nfatype.nim";
+              i_520093869 = res_520093871;
+              F.line = 231;
+              F.filename = "nfamatch2.nim";
+              var colontmp__520093874 = nimCopy(null, smA_p0[smA_p0_Idx].sx[chckIndx(i_520093869, 0, (smA_p0[smA_p0_Idx].sx).length - 1)], NTI1275069342);
+              F.line = 231;
+              n_1442841656 = colontmp__520093874["Field0"];
+              F.line = 231;
+              capt_1442841657 = colontmp__520093874["Field1"];
+              F.line = 231;
+              bounds_1442841658 = nimCopy(bounds_1442841658, colontmp__520093874["Field2"], NTI721420312);
+              if ((nfa_p5.s[chckIndx(n_1442841656, 0, (nfa_p5.s).length - 1)].kind == 44)) {
+              F.line = 233;
+              captIdx_p3[captIdx_p3_Idx] = capt_1442841657;
+              F.line = 234;
+              result_1442841082 = bounds_1442841658.a;
+              break BeforeRet;
+              }
+              
+              F.line = 102;
+              F.filename = "iterators_1.nim";
+              res_520093871 = addInt(res_520093871, 1);
+            }
+        };
+      };
+    };
+    F.line = 235;
+    F.filename = "nfamatch2.nim";
+    result_1442841082 = (-1);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1442841082;
+
+}
+
+function cap__pkgZregexZnfatype_u1593(sm_p0) {
+  var result_1275070011 = 0;
+
+  var F = {procname: "nfatype.cap", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 350;
+    F.filename = "nfatype.nim";
+    result_1275070011 = (sm_p0.ss).length;
+  framePtr = F.prev;
+
+  return result_1275070011;
+
+}
+
+function clear__pkgZregexZnfatype_u582(capts_p0) {
+  var F = {procname: "nfatype.clear", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 169;
+    F.filename = "nfatype.nim";
+    if (capts_p0.s.length < 0) { for (var i = capts_p0.s.length ; i < 0 ; ++i) capts_p0.s.push(({a: 0, b: 0})); }
+               else { capts_p0.s.length = 0; };
+    F.line = 170;
+    if (capts_p0.states.length < 0) { for (var i = capts_p0.states.length ; i < 0 ; ++i) capts_p0.states.push(0); }
+               else { capts_p0.states.length = 0; };
+    F.line = 171;
+    if (capts_p0.free.length < 0) { for (var i = capts_p0.free.length ; i < 0 ; ++i) capts_p0.free.push(0); }
+               else { capts_p0.free.length = 0; };
+  framePtr = F.prev;
+
+  
+}
+
+function clear__pkgZregexZnfafindall2_u58(ms_p0) {
+  var F = {procname: "nfafindall2.clear", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+  framePtr = F;
+    F.line = 102;
+    F.filename = "nfafindall2.nim";
+    clear__pkgZregexZnfatype_u1584(ms_p0, "a");
+    F.line = 103;
+    clear__pkgZregexZnfatype_u1584(ms_p0, "b");
+    F.line = 104;
+    if (ms_p0.m.length < 0) { for (var i = ms_p0.m.length ; i < 0 ; ++i) ms_p0.m.push({Field0: 0, Field1: ({a: 0, b: 0})}); }
+               else { ms_p0.m.length = 0; };
+    F.line = 105;
+    clear__pkgZregexZnfatype_u582(ms_p0.c);
+  framePtr = F.prev;
+
+  
+}
+
+function toMatchFlags__pkgZregexZnfatype_u812(f_p0) {
+  var result_1275069230 = {};
+
+  var F = {procname: "nfatype.toMatchFlags", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    if ((f_p0[0] != undefined)) {
+    F.line = 233;
+    F.filename = "nfatype.nim";
+    result_1275069230[7] = true;
+    }
+    
+  framePtr = F.prev;
+
+  return result_1275069230;
+
+}
+
+function nsuFindChar(s_p0, sub_p1, start_p2, last_p3) {
+    var Temporary1;
+
+  var result_754976423 = 0;
+
+  var F = {procname: "strutils.find", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 1968;
+    F.filename = "strutils.nim";
+    result_754976423 = (-1);
+    F.line = 1969;
+    if ((last_p3 < 0)) {
+    Temporary1 = (s_p0).length - 1;
+    }
+    else {
+    Temporary1 = last_p3;
+    }
+    
+    var last_754976424 = Temporary1;
+    Label2: {
+      F.line = 1972;
+      var iHEX60gensym176_754976438 = 0;
+      F.line = 81;
+      F.filename = "iterators_1.nim";
+      var colontmp__520093882 = 0;
+      F.line = 1972;
+      F.filename = "strutils.nim";
+      colontmp__520093882 = start_p2;
+      F.line = 96;
+      F.filename = "iterators_1.nim";
+      var res_520093883 = colontmp__520093882;
+      Label3: {
+        F.line = 97;
+          Label4: while (true) {
+          if (!(res_520093883 <= last_754976424)) break Label4;
+            F.line = 1986;
+            F.filename = "strutils.nim";
+            iHEX60gensym176_754976438 = res_520093883;
+            if ((s_p0[chckIndx(iHEX60gensym176_754976438, 0, (s_p0).length - 1)] == sub_p1)) {
+            F.line = 1974;
+            result_754976423 = iHEX60gensym176_754976438;
+            break BeforeRet;
+            }
+            
+            F.line = 102;
+            F.filename = "iterators_1.nim";
+            res_520093883 = addInt(res_520093883, 1);
+          }
+      };
+    };
+  };
+  framePtr = F.prev;
+
+  return result_754976423;
+
+}
+
+function nsuFindStrA(a_p0, s_p1, sub_p2, start_p3, last_p4) {
+    var Temporary1;
+
+  var result_754976402 = 0;
+
+  var F = {procname: "strutils.find", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 1928;
+    F.filename = "strutils.nim";
+    if ((last_p4 < 0)) {
+    Temporary1 = (s_p1).length - 1;
+    }
+    else {
+    Temporary1 = last_p4;
+    }
+    
+    var last_754976403 = Temporary1;
+    F.line = 1929;
+    var subLast_754976404 = subInt((sub_p2).length, 1);
+    if ((subLast_754976404 == (-1))) {
+    F.line = 1934;
+    result_754976402 = start_p3;
+    break BeforeRet;
+    }
+    
+    F.line = 1938;
+    result_754976402 = (-1);
+    F.line = 1939;
+    var skip_754976405 = start_p3;
+    Label2: {
+      F.line = 1941;
+        Label3: while (true) {
+        if (!(subLast_754976404 <= subInt(last_754976403, skip_754976405))) break Label3;
+          F.line = 1942;
+          var i_754976406 = subLast_754976404;
+          Label4: {
+            F.line = 1943;
+              Label5: while (true) {
+              if (!(s_p1[chckIndx(addInt(skip_754976405, i_754976406), 0, (s_p1).length - 1)] == sub_p2[chckIndx(i_754976406, 0, (sub_p2).length - 1)])) break Label5;
+                if ((i_754976406 == 0)) {
+                F.line = 1945;
+                result_754976402 = skip_754976405;
+                break BeforeRet;
+                }
+                
+                F.line = 1946;
+                i_754976406 = subInt(i_754976406, 1);
+              }
+          };
+          F.line = 1947;
+          skip_754976405 = addInt(skip_754976405, a_p0[chckIndx(s_p1[chckIndx(addInt(skip_754976405, subLast_754976404), 0, (s_p1).length - 1)], 0, (a_p0).length - 1)]);
+        }
+    };
+  };
+  framePtr = F.prev;
+
+  return result_754976402;
+
+}
+
+function fill__pureZstrutils_u1622(a_p0, value_p1) {
+  var F = {procname: "fill.fill", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\algorithm.nim", line: 0};
+  framePtr = F;
+    F.line = 72;
+    F.filename = "algorithm.nim";
+    var xHEX60gensym172_754976351 = 0;
+    Label1: {
+      F.line = 98;
+        Label2: while (true) {
+        if (!(xHEX60gensym172_754976351 <= (a_p0).length - 1)) break Label2;
+          F.line = 98;
+          a_p0[chckIndx(xHEX60gensym172_754976351, 0, (a_p0).length - 1)] = value_p1;
+          F.line = 75;
+          xHEX60gensym172_754976351 = addInt(xHEX60gensym172_754976351, 1);
+        }
+    };
+  framePtr = F.prev;
+
+  
+}
+
+function nsuInitSkipTable(a_p0, sub_p1) {
+  var F = {procname: "strutils.initSkipTable", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+  framePtr = F;
+    F.line = 1901;
+    F.filename = "strutils.nim";
+    var m_754976341 = (sub_p1).length;
+    F.line = 1902;
+    fill__pureZstrutils_u1622(a_p0, m_754976341);
+    Label1: {
+      F.line = 1904;
+      var i_754976361 = 0;
+      F.line = 126;
+      F.filename = "iterators_1.nim";
+      var colontmp__520093888 = 0;
+      F.line = 1904;
+      F.filename = "strutils.nim";
+      colontmp__520093888 = subInt(m_754976341, 1);
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520093889 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520093889 < colontmp__520093888)) break Label3;
+            F.line = 1904;
+            F.filename = "strutils.nim";
+            i_754976361 = i_520093889;
+            F.line = 1905;
+            a_p0[chckIndx(sub_p1[chckIndx(i_754976361, 0, (sub_p1).length - 1)], 0, (a_p0).length - 1)] = subInt(subInt(m_754976341, 1), i_754976361);
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520093889 = addInt(i_520093889, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  
+}
+
+function nsuInitNewSkipTable(sub_p0) {
+  var result_754976395 = [new Int32Array(256)];
+
+  var F = {procname: "strutils.initSkipTable", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+  framePtr = F;
+    F.line = 1914;
+    F.filename = "strutils.nim";
+    nsuInitSkipTable(result_754976395[0], sub_p0);
+  framePtr = F.prev;
+
+  return result_754976395[0];
+
+}
+
+function nsuFindStr(s_p0, sub_p1, start_p2, last_p3) {
+  var result_754976460 = 0;
+
+  var F = {procname: "strutils.find", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    if ((subInt((s_p0).length, start_p2) < (sub_p1).length)) {
+    F.line = 2026;
+    F.filename = "strutils.nim";
+    result_754976460 = (-1);
+    break BeforeRet;
+    }
+    
+    if (((sub_p1).length == 1)) {
+    F.line = 2027;
+    result_754976460 = nsuFindChar(s_p0, sub_p1[chckIndx(0, 0, (sub_p1).length - 1)], start_p2, last_p3);
+    break BeforeRet;
+    }
+    
+    F.line = 2030;
+    result_754976460 = nsuFindStrA(nsuInitNewSkipTable(sub_p1), s_p0, sub_p1, start_p2, last_p3);
+  };
+  framePtr = F.prev;
+
+  return result_754976460;
+
+}
+
+function reversedMatchImpl__pkgZregexZnfamatch2_u1087(smA_p0, smA_p0_Idx, smB_p1, smB_p1_Idx, text_p2, nfa_p3, look_p4, groupsLen_p5, start_p6, limit_p7, flags_p8) {
+  var result_1442841673 = 0;
+
+  var F = {procname: "nfamatch2.reversedMatchImpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfamatch2.nim", line: 0};
+  framePtr = F;
+    F.line = 246;
+    F.filename = "nfamatch2.nim";
+    F.line = 246;
+    var capts_1442841674 = [initCapts3__pkgZregexZnfatype_u131(groupsLen_p5)];
+    F.line = 247;
+    var captIdx_1442841675 = [(-1)];
+    result_1442841673 = reversedMatchImpl__pkgZregexZnfamatch2_u495(smA_p0, smA_p0_Idx, smB_p1, smB_p1_Idx, capts_1442841674[0], captIdx_1442841675, 0, text_p2, nfa_p3, look_p4, start_p6, limit_p7, flags_p8);
+  framePtr = F.prev;
+
+  return result_1442841673;
+
+}
+
+function recyclable__pkgZregexZnfatype_u579(capts_p0, captIdx_p1) {
+  var F = {procname: "nfatype.recyclable", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 166;
+    F.filename = "nfatype.nim";
+    to__pkgZregexZnfatype_u321(capts_p0.states, chckIndx(captIdx_p1, 0, (capts_p0.states).length - 1), 0);
+  framePtr = F.prev;
+
+  
+}
+
+function notRecyclable__pkgZregexZnfatype_u576(capts_p0, captIdx_p1) {
+  var F = {procname: "nfatype.notRecyclable", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfatype.nim", line: 0};
+  framePtr = F;
+    F.line = 163;
+    F.filename = "nfatype.nim";
+    to__pkgZregexZnfatype_u321(capts_p0.states, chckIndx(captIdx_p1, 0, (capts_p0.states).length - 1), 4);
+  framePtr = F.prev;
+
+  
+}
+
+function add__pkgZregexZnfafindall2_u29(ms_p0, m_p1) {
+  var F = {procname: "nfafindall2.add", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+  framePtr = F;
+    F.line = 85;
+    F.filename = "nfafindall2.nim";
+    var size_1426063394 = 0;
+    Label1: {
+      F.line = 86;
+      var i_1426063403 = 0;
+      F.line = 6;
+      F.filename = "iterators_1.nim";
+      var colontmp__520093897 = 0;
+      F.line = 86;
+      F.filename = "nfafindall2.nim";
+      colontmp__520093897 = subInt((ms_p0.m).length, 1);
+      F.line = 33;
+      F.filename = "iterators_1.nim";
+      var res_520093898 = colontmp__520093897;
+      Label2: {
+        F.line = 34;
+          Label3: while (true) {
+          if (!(0 <= res_520093898)) break Label3;
+            F.line = 86;
+            F.filename = "nfafindall2.nim";
+            i_1426063403 = res_520093898;
+            if ((nimMax(ms_p0.m[chckIndx(i_1426063403, 0, (ms_p0.m).length - 1)].Field1.b, ms_p0.m[chckIndx(i_1426063403, 0, (ms_p0.m).length - 1)].Field1.a) < m_p1.Field1.a)) {
+            F.line = 88;
+            size_1426063394 = addInt(i_1426063403, 1);
+            F.line = 89;
+            break Label1;
+            }
+            
+            if (!((ms_p0.m[chckIndx(i_1426063403, 0, (ms_p0.m).length - 1)].Field0 == (-1)))) {
+            F.line = 92;
+            recyclable__pkgZregexZnfatype_u579(ms_p0.c, ms_p0.m[chckIndx(i_1426063403, 0, (ms_p0.m).length - 1)].Field0);
+            }
+            
+            F.line = 39;
+            F.filename = "iterators_1.nim";
+            res_520093898 = subInt(res_520093898, 1);
+          }
+      };
+    };
+    F.line = 93;
+    F.filename = "nfafindall2.nim";
+    if (ms_p0.m.length < chckRange(size_1426063394, 0, 2147483647)) { for (var i = ms_p0.m.length ; i < chckRange(size_1426063394, 0, 2147483647) ; ++i) ms_p0.m.push({Field0: 0, Field1: ({a: 0, b: 0})}); }
+               else { ms_p0.m.length = chckRange(size_1426063394, 0, 2147483647); };
+    F.line = 94;
+    var Temporary4 = nimCopy(null, m_p1, NTI1426063364);
+    ms_p0.m.push(Temporary4);;
+    if (!((m_p1.Field0 == (-1)))) {
+    F.line = 96;
+    notRecyclable__pkgZregexZnfatype_u576(ms_p0.c, m_p1.Field0);
+    }
+    
+  framePtr = F.prev;
+
+  
+}
+
+function submatch__pkgZregexZnfafindall2_u219(ms_p0, text_p1, regex_p2, i_p3, cPrev_p4, c_p5, flags_p6) {
+                      var Temporary7;
+                      var Temporary8;
+                        var Temporary9;
+                        var Temporary10;
+                        var Temporary11;
+                        var Temporary12;
+                  var Temporary13;
+                  var Temporary14;
+                  var Temporary15;
+                  var Temporary16;
+                var Temporary17;
+
+  var F = {procname: "nfafindall2.submatch", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+  framePtr = F;
+    F.line = 160;
+    F.filename = "nfafindall2.nim";
+    clear__pkgZregexZnfatype_u1584(ms_p0, "b");
+    F.line = 161;
+    var captx_1426063597 = [0];
+    F.line = 162;
+    var matched_1426063598 = true;
+    F.line = 163;
+    var eoeFound_1426063599 = false;
+    F.line = 164;
+    var smi_1426063600 = 0;
+    Label1: {
+      F.line = 165;
+        Label2: while (true) {
+        if (!(smi_1426063600 < len__pkgZregexZnfatype_u1581(ms_p0.a))) break Label2;
+          if (!((HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field1 == (-1)))) {
+          F.line = 167;
+          keepAlive__pkgZregexZnfatype_u329(ms_p0.c, HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field1);
+          }
+          
+          F.line = 168;
+          var nti_1426063601 = 0;
+          Label3: {
+            F.line = 169;
+              Label4: while (true) {
+              if (!(nti_1426063601 <= subInt((regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next).length, 1))) break Label4;
+                F.line = 170;
+                matched_1426063598 = true;
+                F.line = 171;
+                captx_1426063597[0] = HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field1;
+                Label5: {
+                  F.line = 172;
+                    Label6: while (true) {
+                    if (!isEpsilonTransition__pkgZregexZtypes_u611(regex_p2.nfa.s[chckIndx((Temporary7 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary7)[chckIndx(nti_1426063601, 0, (Temporary7).length - 1)], 0, (regex_p2.nfa.s).length - 1)])) break Label6;
+                      if (matched_1426063598) {
+                      F.line = 174;
+                      switch (regex_p2.nfa.s[chckIndx((Temporary8 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary8)[chckIndx(nti_1426063601, 0, (Temporary8).length - 1)], 0, (regex_p2.nfa.s).length - 1)].kind) {
+                      case 3:
+                        if (!((flags_p6[1] != undefined))) {
+                        F.line = 177;
+                        captx_1426063597[0] = diverge__pkgZregexZnfatype_u483(ms_p0.c, captx_1426063597[0]);
+                        F.line = 178;
+                        HEX5BHEX5D__pkgZregexZnfatype_u71(ms_p0.c, chckRange(captx_1426063597[0], 0, 2147483647), chckRange(regex_p2.nfa.s[chckIndx((Temporary9 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary9)[chckIndx(nti_1426063601, 0, (Temporary9).length - 1)], 0, (regex_p2.nfa.s).length - 1)].idx, 0, 2147483647)).a = i_p3;
+                        }
+                        
+                        break;
+                      case 4:
+                        if (!((flags_p6[1] != undefined))) {
+                        F.line = 181;
+                        captx_1426063597[0] = diverge__pkgZregexZnfatype_u483(ms_p0.c, captx_1426063597[0]);
+                        F.line = 182;
+                        HEX5BHEX5D__pkgZregexZnfatype_u71(ms_p0.c, chckRange(captx_1426063597[0], 0, 2147483647), chckRange(regex_p2.nfa.s[chckIndx((Temporary10 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary10)[chckIndx(nti_1426063601, 0, (Temporary10).length - 1)], 0, (regex_p2.nfa.s).length - 1)].idx, 0, 2147483647)).b = subInt(i_p3, 1);
+                        }
+                        
+                        break;
+                      case 11:
+                      case 12:
+                      case 13:
+                      case 14:
+                      case 15:
+                      case 16:
+                      case 17:
+                      case 18:
+                      case 29:
+                      case 30:
+                        F.line = 184;
+                        matched_1426063598 = match__pkgZregexZnodematch_u49(regex_p2.nfa.s[chckIndx((Temporary11 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary11)[chckIndx(nti_1426063601, 0, (Temporary11).length - 1)], 0, (regex_p2.nfa.s).length - 1)], cPrev_p4, c_p5);
+                        break;
+                      case 39:
+                      case 40:
+                      case 41:
+                      case 42:
+                        F.line = 186;
+                        var freezed_1426063617 = freeze__pkgZregexZnfatype_u338(ms_p0.c);
+                        F.line = 187;
+                        matched_1426063598 = lookAround__pkgZregexZnfamatch2_u36(regex_p2.nfa.s[chckIndx((Temporary12 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary12)[chckIndx(nti_1426063601, 0, (Temporary12).length - 1)], 0, (regex_p2.nfa.s).length - 1)], ms_p0.c, captx_1426063597, 0, text_p1, ms_p0.look, i_p3, flags_p6);
+                        F.line = 188;
+                        unfreeze__pkgZregexZnfatype_u406(ms_p0.c, freezed_1426063617);
+                        if (!((captx_1426063597[0] == (-1)))) {
+                        F.line = 190;
+                        keepAlive__pkgZregexZnfatype_u329(ms_p0.c, captx_1426063597[0]);
+                        }
+                        
+                        break;
+                      default: 
+                        if (true) {
+                        F.line = 192;
+                        failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(192, 13) `false` "));
+                        }
+                        
+                        break;
+                      }
+                      }
+                      
+                      F.line = 194;
+                      nti_1426063601 = addInt(nti_1426063601, 1);
+                    }
+                };
+                if (((matched_1426063598 && !(hasState__pkgZregexZnfatype_u1546(ms_p0.b, (Temporary13 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary13)[chckIndx(nti_1426063601, 0, (Temporary13).length - 1)]))) && (match__pkgZregexZnodematch_u124(regex_p2.nfa.s[chckIndx((Temporary14 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary14)[chckIndx(nti_1426063601, 0, (Temporary14).length - 1)], 0, (regex_p2.nfa.s).length - 1)], c_p5) || (regex_p2.nfa.s[chckIndx((Temporary15 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary15)[chckIndx(nti_1426063601, 0, (Temporary15).length - 1)], 0, (regex_p2.nfa.s).length - 1)].kind == 44)))) {
+                if ((regex_p2.nfa.s[chckIndx((Temporary16 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary16)[chckIndx(nti_1426063601, 0, (Temporary16).length - 1)], 0, (regex_p2.nfa.s).length - 1)].kind == 44)) {
+                F.line = 200;
+                add__pkgZregexZnfafindall2_u29(ms_p0, {Field0: captx_1426063597[0], Field1: HEX2EHEX2E__stdZstrbasics_u50(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field2.a, subInt(i_p3, 1))});
+                F.line = 201;
+                clear__pkgZregexZnfatype_u1584(ms_p0, "a");
+                if (!(eoeFound_1426063599)) {
+                F.line = 203;
+                eoeFound_1426063599 = true;
+                F.line = 204;
+                add__pkgZregexZnfatype_u1550(ms_p0, "a", {Field0: 0, Field1: (-1), Field2: HEX2EHEX2E__stdZstrbasics_u50(i_p3, subInt(i_p3, 1))});
+                }
+                
+                F.line = 205;
+                smi_1426063600 = (-1);
+                F.line = 206;
+                break Label3;
+                }
+                
+                F.line = 207;
+                add__pkgZregexZnfatype_u1550(ms_p0, "b", {Field0: (Temporary17 = regex_p2.nfa.s[chckIndx(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field0, 0, (regex_p2.nfa.s).length - 1)].next, Temporary17)[chckIndx(nti_1426063601, 0, (Temporary17).length - 1)], Field1: captx_1426063597[0], Field2: HEX2EHEX2E__stdZstrbasics_u50(HEX5BHEX5D__pkgZregexZnfatype_u1537(ms_p0.a, smi_1426063600).Field2.a, subInt(i_p3, 1))});
+                }
+                
+                F.line = 208;
+                nti_1426063601 = addInt(nti_1426063601, 1);
+              }
+          };
+          F.line = 209;
+          smi_1426063600 = addInt(smi_1426063600, 1);
+        }
+    };
+    F.line = 210;
+    F.line = 210;
+    var HEX3Atmp_520093900 = ms_p0.a;
+    F.line = 210;
+    ms_p0.a = ms_p0.b;
+    F.line = 210;
+    ms_p0.b = HEX3Atmp_520093900;
+    F.line = 211;
+    recycle__pkgZregexZnfatype_u524(ms_p0.c);
+  framePtr = F.prev;
+
+  
+}
+
+function hasMatches__pkgZregexZnfafindall2_u52(ms_p0) {
+  var result_1426063414 = false;
+
+  var F = {procname: "nfafindall2.hasMatches", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 99;
+    F.filename = "nfafindall2.nim";
+    result_1426063414 = (0 < (ms_p0.m).length);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1426063414;
+
+}
+
+function findSomeImpl__pkgZregexZnfafindall2_u305(text_p0, regex_p1, ms_p2, start_p3, flags_p4) {
+    var Temporary1;
+    var Temporary2;
+    var Temporary3;
+
+  var result_1426063671 = 0;
+
+  var F = {procname: "nfafindall2.findSomeImpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    if ((ms_p2.a == null)) {
+    if (!((ms_p2.b == null))) {
+    F.line = 67;
+    F.filename = "nfafindall2.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(67, 5) `ms.b == nil` "));
+    }
+    
+    F.line = 68;
+    ms_p2.a = newSubmatches__pkgZregexZnfatype_u1411((regex_p1.nfa.s).length);
+    F.line = 69;
+    ms_p2.b = newSubmatches__pkgZregexZnfatype_u1411((regex_p1.nfa.s).length);
+    F.line = 70;
+    ms_p2.c = nimCopy(ms_p2.c, initCapts3__pkgZregexZnfatype_u131(((regex_p1.groupsCount) | 0)), NTI1275068448);
+    F.line = 71;
+    Temporary1 = matchImpl__pkgZregexZnfamatch2_u72.bind(null); Temporary1.ClP_0 = matchImpl__pkgZregexZnfamatch2_u72; Temporary1.ClE_0 = null;
+    Temporary2 = reversedMatchImpl__pkgZregexZnfamatch2_u495.bind(null); Temporary2.ClP_0 = reversedMatchImpl__pkgZregexZnfamatch2_u495; Temporary2.ClE_0 = null;
+    ms_p2.look = nimCopy(ms_p2.look, {ahead: Temporary1, behind: Temporary2, smL: ({s: [], i: 0})}, NTI1442840581);
+    }
+    
+    if (!((((regex_p1.nfa.s).length <= cap__pkgZregexZnfatype_u1593(ms_p2.a)) && ((regex_p1.nfa.s).length <= cap__pkgZregexZnfatype_u1593(ms_p2.b))))) {
+    F.line = 221;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(221, 16) `ms.a.cap >= len(regex.nfa.s) and ms.b.cap >= len(regex.nfa.s)` "));
+    }
+    
+    F.line = 222;
+    clear__pkgZregexZnfafindall2_u58(ms_p2);
+    F.line = 224;
+    var c_1426063694 = (-1);
+    F.line = 225;
+    var cPrev_1426063695 = (-1);
+    F.line = 226;
+    var i_1426063696 = start_p3;
+    F.line = 227;
+    var iPrev_1426063697 = start_p3;
+    F.line = 229;
+    var flags_1426063702 = SetPlus(toMatchFlags__pkgZregexZnfatype_u812(regex_p1.flags), flags_p4);
+    F.line = 230;
+    var optFlag_1426063707 = (flags_1426063702[3] != undefined);
+    F.line = 231;
+    var binFlag_1426063712 = (flags_1426063702[7] != undefined);
+    F.line = 232;
+    add__pkgZregexZnfatype_u1550(ms_p2, "a", {Field0: 0, Field1: (-1), Field2: HEX2EHEX2E__stdZstrbasics_u50(i_1426063696, subInt(i_1426063696, 1))});
+    if (contains__pkgZregexZparser_u148(HEX2EHEX2E__stdZstrbasics_u50(0, subInt((text_p0).length, 1)), subInt(start_p3, 1))) {
+    F.line = 234;
+    if (binFlag_1426063712) {
+    Temporary3 = ((text_p0[chckIndx(subInt(start_p3, 1), 0, (text_p0).length - 1)]) | 0);
+    }
+    else {
+    Temporary3 = bwRuneAt__pkgZregexZcommon_u42(text_p0, subInt(start_p3, 1));
+    }
+    
+    cPrev_1426063695 = Temporary3;
+    }
+    
+    Label4: {
+      F.line = 238;
+        Label5: while (true) {
+        if (!(i_1426063696 < (text_p0).length)) break Label5;
+          if (binFlag_1426063712) {
+          F.line = 240;
+          c_1426063694 = ((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)]) | 0);
+          F.line = 241;
+          i_1426063696 = addInt(i_1426063696, 1);
+          }
+          else {
+            if ((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] <= 127)) {
+            F.line = 91;
+            F.filename = "unicode.nim";
+            c_1426063694 = chckRange(text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)], (-2147483648), 2147483647);
+            F.line = 92;
+            i_1426063696 = addInt(i_1426063696, 1);
+            }
+            else {
+            if (((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] >>> 5) == 6)) {
+            if ((i_1426063696 <= subInt((text_p0).length, 2))) {
+            F.line = 96;
+            c_1426063694 = chckRange(((((((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] & 31) >>> 0) << 6) >>> 0) | ((text_p0[chckIndx(addInt(i_1426063696, 1), 0, (text_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 98;
+            i_1426063696 = addInt(i_1426063696, 2);
+            }
+            else {
+              F.line = 100;
+              c_1426063694 = 65533;
+              F.line = 101;
+              i_1426063696 = addInt(i_1426063696, 1);
+            }
+            
+            }
+            else {
+            if (((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] >>> 4) == 14)) {
+            if ((i_1426063696 <= subInt((text_p0).length, 3))) {
+            F.line = 106;
+            c_1426063694 = chckRange(((((((((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] & 15) >>> 0) << 12) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 1), 0, (text_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p0[chckIndx(addInt(i_1426063696, 2), 0, (text_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 109;
+            i_1426063696 = addInt(i_1426063696, 3);
+            }
+            else {
+              F.line = 111;
+              c_1426063694 = 65533;
+              F.line = 112;
+              i_1426063696 = addInt(i_1426063696, 1);
+            }
+            
+            }
+            else {
+            if (((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] >>> 3) == 30)) {
+            if ((i_1426063696 <= subInt((text_p0).length, 4))) {
+            F.line = 118;
+            c_1426063694 = chckRange(((((((((((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] & 7) >>> 0) << 18) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 1), 0, (text_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 2), 0, (text_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p0[chckIndx(addInt(i_1426063696, 3), 0, (text_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 122;
+            i_1426063696 = addInt(i_1426063696, 4);
+            }
+            else {
+              F.line = 124;
+              c_1426063694 = 65533;
+              F.line = 125;
+              i_1426063696 = addInt(i_1426063696, 1);
+            }
+            
+            }
+            else {
+            if (((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] >>> 2) == 62)) {
+            if ((i_1426063696 <= subInt((text_p0).length, 5))) {
+            F.line = 132;
+            c_1426063694 = chckRange(((((((((((((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] & 3) >>> 0) << 24) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 1), 0, (text_p0).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 2), 0, (text_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 3), 0, (text_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p0[chckIndx(addInt(i_1426063696, 4), 0, (text_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 137;
+            i_1426063696 = addInt(i_1426063696, 5);
+            }
+            else {
+              F.line = 139;
+              c_1426063694 = 65533;
+              F.line = 140;
+              i_1426063696 = addInt(i_1426063696, 1);
+            }
+            
+            }
+            else {
+            if (((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] >>> 1) == 126)) {
+            if ((i_1426063696 <= subInt((text_p0).length, 6))) {
+            F.line = 148;
+            c_1426063694 = chckRange(((((((((((((((text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)] & 1) >>> 0) << 30) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 1), 0, (text_p0).length - 1)] & 63) >>> 0) << 24) >>> 0)) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 2), 0, (text_p0).length - 1)] & 63) >>> 0) << 18) >>> 0)) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 3), 0, (text_p0).length - 1)] & 63) >>> 0) << 12) >>> 0)) >>> 0) | ((((text_p0[chckIndx(addInt(i_1426063696, 4), 0, (text_p0).length - 1)] & 63) >>> 0) << 6) >>> 0)) >>> 0) | ((text_p0[chckIndx(addInt(i_1426063696, 5), 0, (text_p0).length - 1)] & 63) >>> 0)) >>> 0), (-2147483648), 2147483647);
+            F.line = 154;
+            i_1426063696 = addInt(i_1426063696, 6);
+            }
+            else {
+              F.line = 156;
+              c_1426063694 = 65533;
+              F.line = 157;
+              i_1426063696 = addInt(i_1426063696, 1);
+            }
+            
+            }
+            else {
+              F.line = 159;
+              c_1426063694 = chckRange(text_p0[chckIndx(i_1426063696, 0, (text_p0).length - 1)], (-2147483648), 2147483647);
+              F.line = 160;
+              i_1426063696 = addInt(i_1426063696, 1);
+            }
+            }}}}}
+          }
+          
+          F.line = 244;
+          F.filename = "nfafindall2.nim";
+          submatch__pkgZregexZnfafindall2_u219(ms_p2, text_p0, regex_p1, iPrev_1426063697, cPrev_1426063695, c_1426063694, flags_1426063702);
+          if ((len__pkgZregexZnfatype_u1581(ms_p2.a) == 0)) {
+          if ((i_1426063696 < (text_p0).length)) {
+          if (hasMatches__pkgZregexZnfafindall2_u52(ms_p2)) {
+          F.line = 251;
+          result_1426063671 = i_1426063696;
+          break BeforeRet;
+          }
+          
+          if (optFlag_1426063707) {
+          F.line = 253;
+          result_1426063671 = i_1426063696;
+          break BeforeRet;
+          }
+          
+          }
+          
+          }
+          
+          F.line = 254;
+          add__pkgZregexZnfatype_u1550(ms_p2, "a", {Field0: 0, Field1: (-1), Field2: HEX2EHEX2E__stdZstrbasics_u50(i_1426063696, subInt(i_1426063696, 1))});
+          F.line = 255;
+          iPrev_1426063697 = i_1426063696;
+          F.line = 256;
+          cPrev_1426063695 = c_1426063694;
+        }
+    };
+    F.line = 257;
+    submatch__pkgZregexZnfafindall2_u219(ms_p2, text_p0, regex_p1, iPrev_1426063697, cPrev_1426063695, (-1), flags_1426063702);
+    if (!((len__pkgZregexZnfatype_u1581(ms_p2.a) == 0))) {
+    F.line = 258;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(258, 3) `smA.len == 0` "));
+    }
+    
+    if (hasMatches__pkgZregexZnfafindall2_u52(ms_p2)) {
+    F.line = 261;
+    result_1426063671 = i_1426063696;
+    break BeforeRet;
+    }
+    
+    F.line = 263;
+    result_1426063671 = (-1);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1426063671;
+
+}
+
+function findSomeOptImpl__pkgZregexZnfafindall2_u643(text_p0, regex_p1, ms_p2, start_p3, flags_p4) {
+    var Temporary1;
+    var Temporary2;
+          var Temporary5;
+
+  var result_1426064009 = 0;
+
+  var F = {procname: "nfafindall2.findSomeOptImpl", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    if (!((0 < (regex_p1.litOpt.nfa.s).length))) {
+    F.line = 283;
+    F.filename = "nfafindall2.nim";
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(283, 3) `opt.nfa.s.len > 0` "));
+    }
+    
+    if ((ms_p2.a == null)) {
+    if (!((ms_p2.b == null))) {
+    F.line = 67;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(67, 5) `ms.b == nil` "));
+    }
+    
+    F.line = 68;
+    ms_p2.a = newSubmatches__pkgZregexZnfatype_u1411(nimMax((regex_p1.litOpt.nfa.s).length, (regex_p1.nfa.s).length));
+    F.line = 69;
+    ms_p2.b = newSubmatches__pkgZregexZnfatype_u1411(nimMax((regex_p1.litOpt.nfa.s).length, (regex_p1.nfa.s).length));
+    F.line = 70;
+    ms_p2.c = nimCopy(ms_p2.c, initCapts3__pkgZregexZnfatype_u131(((regex_p1.groupsCount) | 0)), NTI1275068448);
+    F.line = 71;
+    Temporary1 = matchImpl__pkgZregexZnfamatch2_u72.bind(null); Temporary1.ClP_0 = matchImpl__pkgZregexZnfamatch2_u72; Temporary1.ClE_0 = null;
+    Temporary2 = reversedMatchImpl__pkgZregexZnfamatch2_u495.bind(null); Temporary2.ClP_0 = reversedMatchImpl__pkgZregexZnfamatch2_u495; Temporary2.ClE_0 = null;
+    ms_p2.look = nimCopy(ms_p2.look, {ahead: Temporary1, behind: Temporary2, smL: ({s: [], i: 0})}, NTI1442840581);
+    }
+    
+    if (!(((nimMax((regex_p1.litOpt.nfa.s).length, (regex_p1.nfa.s).length) <= cap__pkgZregexZnfatype_u1593(ms_p2.a)) && (nimMax((regex_p1.litOpt.nfa.s).length, (regex_p1.nfa.s).length) <= cap__pkgZregexZnfatype_u1593(ms_p2.b))))) {
+    F.line = 284;
+    failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(284, 16) `ms.a.cap >= max(len(regex.litOpt.nfa.s), len(regex.nfa.s)) and\x0A    ms.b.cap >= max(len(regex.litOpt.nfa.s), len(regex.nfa.s))` "));
+    }
+    
+    F.line = 285;
+    clear__pkgZregexZnfafindall2_u58(ms_p2);
+    F.line = 286;
+    var flags_1426064056 = SetPlus(SetPlus(toMatchFlags__pkgZregexZnfatype_u812(regex_p1.flags), flags_p4), ConstSet5);
+    F.line = 287;
+    var hasLits_1426064057 = (0 < (regex_p1.litOpt.lits).length);
+    F.line = 288;
+    var step_1426064058 = nimMax(1, (regex_p1.litOpt.lits).length);
+    F.line = 289;
+    var limit_1426064059 = start_p3;
+    F.line = 290;
+    var i_1426064060 = start_p3;
+    F.line = 291;
+    var i2_1426064061 = (-1);
+    Label3: {
+      F.line = 292;
+        Label4: while (true) {
+        if (!(i_1426064060 < (text_p0).length)) break Label4;
+          if (!((i2_1426064061 < i_1426064060))) {
+          F.line = 293;
+          failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(293, 5) `i > i2` "));
+          }
+          
+          F.line = 293;
+          i2_1426064061 = i_1426064060;
+          F.line = 296;
+          if (hasLits_1426064057) {
+          Temporary5 = nsuFindStr(text_p0, regex_p1.litOpt.lits, chckRange(i_1426064060, 0, 2147483647), (-1));
+          }
+          else {
+          Temporary5 = nsuFindChar(text_p0, chckRange(regex_p1.litOpt.lit, 0, 255), chckRange(i_1426064060, 0, 2147483647), (-1));
+          }
+          
+          var litIdx_1426064067 = Temporary5;
+          if ((litIdx_1426064067 == (-1))) {
+          F.line = 301;
+          result_1426064009 = (-1);
+          break BeforeRet;
+          }
+          
+          if (!((i_1426064060 <= litIdx_1426064067))) {
+          F.line = 303;
+          failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(303, 5) `litIdx >= i` "));
+          }
+          
+          F.line = 304;
+          i_1426064060 = litIdx_1426064067;
+          F.line = 305;
+          i_1426064060 = reversedMatchImpl__pkgZregexZnfamatch2_u1087(ms_p2, "a", ms_p2, "b", text_p0, regex_p1.litOpt.nfa, ms_p2.look, ((regex_p1.groupsCount) | 0), i_1426064060, limit_1426064059, flags_1426064056);
+          if ((i_1426064060 == (-1))) {
+          F.line = 308;
+          i_1426064060 = addInt(litIdx_1426064067, step_1426064058);
+          }
+          else {
+            if (!((i_1426064060 <= litIdx_1426064067))) {
+            F.line = 310;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim(310, 7) `i <= litIdx` "));
+            }
+            
+            F.line = 312;
+            i_1426064060 = findSomeImpl__pkgZregexZnfafindall2_u305(text_p0, regex_p1, ms_p2, chckRange(i_1426064060, 0, 2147483647), flags_1426064056);
+            if (hasMatches__pkgZregexZnfafindall2_u52(ms_p2)) {
+            F.line = 315;
+            result_1426064009 = i_1426064060;
+            break BeforeRet;
+            }
+            
+            if ((i_1426064060 == (-1))) {
+            F.line = 317;
+            result_1426064009 = (-1);
+            break BeforeRet;
+            }
+            
+          }
+          
+        }
+    };
+    F.line = 318;
+    result_1426064009 = (-1);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1426064009;
+
+}
+
+function HEX5BHEX5D__pkgZregexZnfafindall_u196(s_p0, i_p1) {
+  var result_1392509128 = null;
+
+  var F = {procname: "[].[]", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\indices.nim", line: 0};
+  framePtr = F;
+    F.line = 30;
+    F.filename = "indices.nim";
+    result_1392509128 = s_p0[chckIndx(subInt((s_p0).length, i_p1), 0, (s_p0).length - 1)];
+  framePtr = F.prev;
+
+  return result_1392509128;
+
+}
+
+function dummyMatch__pkgZregexZnfafindall2_u199(ms_p0, i_p1) {
+  var F = {procname: "nfafindall2.dummyMatch", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex\\nfafindall2.nim", line: 0};
+  framePtr = F;
+    if ((((ms_p0.m).length == 0) || (nimMax(HEX5BHEX5D__pkgZregexZnfafindall_u196(ms_p0.m, 1).Field1.a, HEX5BHEX5D__pkgZregexZnfafindall_u196(ms_p0.m, 1).Field1.b) < i_p1))) {
+    F.line = 140;
+    F.filename = "nfafindall2.nim";
+    add__pkgZregexZnfafindall2_u29(ms_p0, {Field0: (-1), Field1: HEX2EHEX2E__stdZstrbasics_u50(addInt(i_p1, 1), i_p1)});
+    }
+    
+  framePtr = F.prev;
+
+  
+}
+
+function split__pkgZregex_u1152(s_p0, sep_p1) {
+            var Temporary4;
+
+  var result_973079683 = [];
+
+  var F = {procname: "regex.split", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex.nim", line: 0};
+  framePtr = F;
+    Label1: {
+      F.line = 764;
+      F.filename = "regex.nim";
+      var w_973079684 = [];
+      if (!(((sep_p1.flags[0] != undefined) || (verifyUtf8__pkgZregexZcommon_u255(s_p0) == (-1))))) {
+      F.line = 478;
+      failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex.nim(478, 11) `regexArbitraryBytes in sep.toRegex.flags or verifyUtf8(s) == -1` Invalid utf-8 input"));
+      }
+      
+      F.line = 742;
+      var first_520093763 = 0;
+      F.line = 742;
+      var last_520093764 = 0;
+      F.line = 742;
+      var i_520093765 = 0;
+      F.line = 743;
+      var i2_520093766 = (-1);
+      F.line = 744;
+      var done_520093767 = false;
+      F.line = 745;
+      var ms_520093768 = [({a: null, b: null, m: [], c: ({s: [], groupsLen: 0, blockSize: 0, blockSizeL2: 0, states: [], free: [], freezeId: 0}), look: ({ahead: null, behind: null, smL: ({s: [], i: 0})})})];
+      F.line = 746;
+      var flags_520093769 = nimCopy(null, ConstSet3, NTI973079149);
+      Label2: {
+        F.line = 747;
+          Label3: while (true) {
+          if (!!(done_520093767)) break Label3;
+            if (!((i2_520093766 < i_520093765))) {
+            F.line = 748;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex.nim(748, 13) `i > i2` "));
+            }
+            
+            F.line = 748;
+            i2_520093766 = i_520093765;
+            F.line = 749;
+            if (canOpt__pkgZregexZlitopt_u891(sep_p1.litOpt)) {
+            Temporary4 = findSomeOptImpl__pkgZregexZnfafindall2_u643(s_p0, sep_p1, ms_520093768[0], chckRange(i_520093765, 0, 2147483647), flags_520093769);
+            }
+            else {
+            Temporary4 = findSomeImpl__pkgZregexZnfafindall2_u305(s_p0, sep_p1, ms_520093768[0], chckRange(i_520093765, 0, 2147483647), flags_520093769);
+            }
+            
+            i_520093765 = Temporary4;
+            F.line = 750;
+            done_520093767 = ((i_520093765 < 0) || ((s_p0).length <= i_520093765));
+            if (done_520093767) {
+            F.line = 751;
+            dummyMatch__pkgZregexZnfafindall2_u199(ms_520093768[0], (s_p0).length);
+            }
+            
+            Label5: {
+              F.line = 752;
+              var ab_520093772 = ({a: 0, b: 0});
+              Label6: {
+                F.line = 108;
+                F.filename = "nfafindall2.nim";
+                var i_520093774 = 0;
+                F.line = 81;
+                F.filename = "iterators_1.nim";
+                var colontmp__520093775 = 0;
+                F.line = 108;
+                F.filename = "nfafindall2.nim";
+                colontmp__520093775 = subInt((ms_520093768[0].m).length, 1);
+                F.line = 96;
+                F.filename = "iterators_1.nim";
+                var res_520093776 = 0;
+                Label7: {
+                  F.line = 97;
+                    Label8: while (true) {
+                    if (!(res_520093776 <= colontmp__520093775)) break Label8;
+                      F.line = 108;
+                      F.filename = "nfafindall2.nim";
+                      i_520093774 = res_520093776;
+                      F.line = 752;
+                      F.filename = "regex.nim";
+                      ab_520093772 = nimCopy(ab_520093772, ms_520093768[0].m[chckIndx(i_520093774, 0, (ms_520093768[0].m).length - 1)].Field1, NTI721420312);
+                      F.line = 753;
+                      last_520093764 = ab_520093772.a;
+                      if (((0 < ab_520093772.a) || (ab_520093772.a <= ab_520093772.b))) {
+                      F.line = 764;
+                      w_973079684 = substr__system_u3687(s_p0, first_520093763, subInt(last_520093764, 1));
+                      F.line = 765;
+                      var Temporary9 = nimCopy(null, w_973079684, NTI33554449);
+                      result_973079683.push(Temporary9);;
+                      }
+                      
+                      F.line = 756;
+                      first_520093763 = addInt(ab_520093772.b, 1);
+                      F.line = 102;
+                      F.filename = "iterators_1.nim";
+                      res_520093776 = addInt(res_520093776, 1);
+                    }
+                };
+              };
+            };
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_973079683;
+
+}
+
+function re2__solutionsZday1_u20() {
+  var result_956301337 = ({nfa: ({s: []}), groupsCount: 0, namedGroups: ({data: [], counter: 0, first: 0, last: 0}), flags: {}, litOpt: ({lit: 0, lits: [], bytelits: [], nfa: ({s: []})})});
+
+  var F = {procname: "re2.re2", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\pkgs2\\regex-0.25.0-cb2e24397c051e55ad5b72b3c0d4f270a90084df\\regex.nim", line: 0};
+  framePtr = F;
+    F.line = 506;
+    F.filename = "regex.nim";
+    result_956301337 = nimCopy(result_956301337, {nfa: {s: [{kind: 43, cp: 35, next: [1], isGreedy: false, uid: 0, idx: 0, isCapturing: false, name: [], flags: [], min: 0, max: 0, cps: {data: [], counter: 0}, ranges: [], shorthands: [], cc: 0, subExp: {nfa: {s: []}, rpn: {s: []}, reverseCapts: false}}, {kind: 21, cp: 115, next: [1, 2], isGreedy: false, uid: 1, idx: 0, isCapturing: false, name: [], flags: [], min: 0, max: 0, cps: {data: [], counter: 0}, ranges: [], shorthands: [], cc: 0, subExp: {nfa: {s: []}, rpn: {s: []}, reverseCapts: false}}, {kind: 44, cp: 35, next: [], isGreedy: false, uid: 0, idx: 0, isCapturing: false, name: [], flags: [], min: 0, max: 0, cps: {data: [], counter: 0}, ranges: [], shorthands: [], cc: 0, subExp: {nfa: {s: []}, rpn: {s: []}, reverseCapts: false}}]}, groupsCount: 0, namedGroups: {data: [{Field0: 0, Field1: 0, Field2: [], Field3: 0}, {Field0: 0, Field1: 0, Field2: [], Field3: 0}, {Field0: 0, Field1: 0, Field2: [], Field3: 0}, {Field0: 0, Field1: 0, Field2: [], Field3: 0}, {Field0: 0, Field1: 0, Field2: [], Field3: 0}, {Field0: 0, Field1: 0, Field2: [], Field3: 0}, {Field0: 0, Field1: 0, Field2: [], Field3: 0}, {Field0: 0, Field1: 0, Field2: [], Field3: 0}], counter: 0, first: (-1), last: (-1)}, flags: nimCopy(null, ConstSet6, NTI1090519045), litOpt: {lit: 0, lits: [], bytelits: [], nfa: {s: []}}}, NTI1275068996);
+  framePtr = F.prev;
+
+  return result_956301337;
+
+}
+
+function integerOutOfRangeError__pureZparseutils_u325() {
+  var F = {procname: "parseutils.integerOutOfRangeError", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\parseutils.nim", line: 0};
+  framePtr = F;
+    F.line = 420;
+    F.filename = "parseutils.nim";
+    raiseException({message: [80,97,114,115,101,100,32,105,110,116,101,103,101,114,32,111,117,116,115,105,100,101,32,111,102,32,118,97,108,105,100,32,114,97,110,103,101], parent: null, m_type: NTI134217746, name: null, trace: [], up: null}, "ValueError");
+  framePtr = F.prev;
+
+  
+}
+
+function rawParseInt__pureZparseutils_u327(s_p0, b_p1, b_p1_Idx) {
+      var Temporary1;
+          var Temporary4;
+
+  var result_687866186 = 0;
+
+  var F = {procname: "parseutils.rawParseInt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\parseutils.nim", line: 0};
+  framePtr = F;
+    F.line = 428;
+    F.filename = "parseutils.nim";
+    var sign_687866187 = (-1n);
+    F.line = 429;
+    var i_687866188 = 0;
+    if ((i_687866188 < (s_p0).length)) {
+    if ((s_p0[chckIndx(i_687866188, 0, (s_p0).length - 1)] == 43)) {
+    F.line = 431;
+    i_687866188 += 1;
+    }
+    else {
+    if ((s_p0[chckIndx(i_687866188, 0, (s_p0).length - 1)] == 45)) {
+    F.line = 433;
+    i_687866188 += 1;
+    F.line = 434;
+    sign_687866187 = 1n;
+    }
+    }
+    }
+    
+      if (!(i_687866188 < (s_p0).length)) Temporary1 = false; else {        Temporary1 = (ConstSet7[s_p0[chckIndx(i_687866188, 0, (s_p0).length - 1)]] != undefined);      }    if (Temporary1) {
+    F.line = 436;
+    b_p1[b_p1_Idx] = 0n;
+    Label2: {
+      F.line = 437;
+        Label3: while (true) {
+          if (!(i_687866188 < (s_p0).length)) Temporary4 = false; else {            Temporary4 = (ConstSet8[s_p0[chckIndx(i_687866188, 0, (s_p0).length - 1)]] != undefined);          }        if (!Temporary4) break Label3;
+          F.line = 438;
+          var c_687866222 = (s_p0[chckIndx(i_687866188, 0, (s_p0).length - 1)] - 48);
+          if ((((-9223372036854775808n) + BigInt(c_687866222)) / 10n <= b_p1[b_p1_Idx])) {
+          F.line = 440;
+          b_p1[b_p1_Idx] = ((b_p1[b_p1_Idx] * 10n) - BigInt(c_687866222));
+          }
+          else {
+            F.line = 442;
+          integerOutOfRangeError__pureZparseutils_u325();
+          }
+          
+          F.line = 443;
+          i_687866188 += 1;
+          Label5: {
+            F.line = 444;
+              Label6: while (true) {
+              if (!((i_687866188 < (s_p0).length) && (s_p0[chckIndx(i_687866188, 0, (s_p0).length - 1)] == 95))) break Label6;
+                F.line = 444;
+                i_687866188 += 1;
+              }
+          };
+        }
+    };
+    if (((sign_687866187 == (-1n)) && (b_p1[b_p1_Idx] == (-9223372036854775808n)))) {
+    F.line = 446;
+    integerOutOfRangeError__pureZparseutils_u325();
+    }
+    else {
+      F.line = 448;
+      b_p1[b_p1_Idx] = (b_p1[b_p1_Idx] * sign_687866187);
+      F.line = 449;
+      result_687866186 = i_687866188;
+    }
+    
+    }
+    
+  framePtr = F.prev;
+
+  return result_687866186;
+
+}
+
+function npuParseBiggestInt(s_p0, number_p1, number_p1_Idx) {
+  var result_687866247 = 0;
+
+  var F = {procname: "parseutils.parseBiggestInt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\parseutils.nim", line: 0};
+  framePtr = F;
+    F.line = 465;
+    F.filename = "parseutils.nim";
+    var res_687866248 = [0n];
+    F.line = 468;
+    result_687866247 = rawParseInt__pureZparseutils_u327(s_p0, res_687866248, 0);
+    if (!((result_687866247 == 0))) {
+    F.line = 470;
+    number_p1[number_p1_Idx] = res_687866248[0];
+    }
+    
+  framePtr = F.prev;
+
+  return result_687866247;
+
+}
+
+function npuParseInt(s_p0, number_p1, number_p1_Idx) {
+  var result_687866252 = 0;
+
+  var F = {procname: "parseutils.parseInt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\parseutils.nim", line: 0};
+  framePtr = F;
+    F.line = 481;
+    F.filename = "parseutils.nim";
+    var res_687866253 = [0n];
+    F.line = 482;
+    result_687866252 = npuParseBiggestInt(s_p0, res_687866253, 0);
+    if (((res_687866253[0] < (-2147483648n)) || (2147483647n < res_687866253[0]))) {
+    F.line = 485;
+    integerOutOfRangeError__pureZparseutils_u325();
+    }
+    
+    if (!((result_687866252 == 0))) {
+    F.line = 487;
+    number_p1[number_p1_Idx] = chckRange(Number(res_687866253[0]), (-2147483648), 2147483647);
+    }
+    
+  framePtr = F.prev;
+
+  return result_687866252;
+
+}
+
+function parseInt__pureZparseutils_u907(s_p0, number_p1, number_p1_Idx, start_p2) {
+  var result_687866767 = 0;
+
+  var F = {procname: "parseutils.parseInt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\parseutils.nim", line: 0};
+  framePtr = F;
+    F.line = 1002;
+    F.filename = "parseutils.nim";
+    result_687866767 = npuParseInt((s_p0.slice(start_p2, (s_p0).length - 1 + 1)), number_p1, number_p1_Idx);
+  framePtr = F.prev;
+
+  return result_687866767;
+
+}
+
+function nsuParseInt(s_p0) {
+  var result_754975578 = [0];
+
+  var F = {procname: "strutils.parseInt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+  framePtr = F;
+    F.line = 1156;
+    F.filename = "strutils.nim";
+    result_754975578[0] = 0;
+    F.line = 1157;
+    var L_754975579 = parseInt__pureZparseutils_u907(s_p0, result_754975578, 0, 0);
+    if ((!((L_754975579 == (s_p0).length)) || (L_754975579 == 0))) {
+    F.line = 1159;
+    raiseException({message: ([105,110,118,97,108,105,100,32,105,110,116,101,103,101,114,58,32]).concat(s_p0), parent: null, m_type: NTI134217746, name: null, trace: [], up: null}, "ValueError");
+    }
+    
+  framePtr = F.prev;
+
+  return result_754975578[0];
+
+}
+
+function getLocations__solutionsZday1_u7() {
+            var Temporary6;
+
+  var result_956301320 = {Field0: [], Field1: []};
+
+  var F = {procname: "day1.getLocations", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 10;
+    F.filename = "day1.nim";
+    var col1_956301325 = [];
+    F.line = 11;
+    var col2_956301330 = [];
+    Label1: {
+      F.line = 12;
+      var line_956301331 = [];
+      F.line = 653;
+      F.filename = "strutils.nim";
+      var colontmp__520093737 = [];
+      F.line = 12;
+      F.filename = "day1.nim";
+      colontmp__520093737 = getInput__solutionsZday1_u6();
+      F.line = 683;
+      F.filename = "strutils.nim";
+      var first_520093740 = 0;
+      F.line = 684;
+      var last_520093741 = 0;
+      F.line = 685;
+      var eolpos_520093742 = 0;
+      Label2: {
+        F.line = 686;
+          Label3: while (true) {
+          if (!true) break Label3;
+            Label4: {
+              F.line = 687;
+                Label5: while (true) {
+                if (!((last_520093741 < (colontmp__520093737).length) && !((ConstSet2[colontmp__520093737[chckIndx(last_520093741, 0, (colontmp__520093737).length - 1)]] != undefined)))) break Label5;
+                  F.line = 687;
+                  last_520093741 = addInt(last_520093741, 1);
+                }
+            };
+            F.line = 689;
+            eolpos_520093742 = last_520093741;
+            if ((last_520093741 < (colontmp__520093737).length)) {
+            if ((colontmp__520093737[chckIndx(last_520093741, 0, (colontmp__520093737).length - 1)] == 10)) {
+            F.line = 691;
+            last_520093741 = addInt(last_520093741, 1);
+            }
+            else {
+            if ((colontmp__520093737[chckIndx(last_520093741, 0, (colontmp__520093737).length - 1)] == 13)) {
+            F.line = 693;
+            last_520093741 = addInt(last_520093741, 1);
+            if (((last_520093741 < (colontmp__520093737).length) && (colontmp__520093737[chckIndx(last_520093741, 0, (colontmp__520093737).length - 1)] == 10))) {
+            F.line = 694;
+            last_520093741 = addInt(last_520093741, 1);
+            }
+            
+            }
+            }
+            }
+            
+            F.line = 12;
+            F.filename = "day1.nim";
+            if (false) {
+            Temporary6 = subInt(last_520093741, 1);
+            }
+            else {
+            Temporary6 = subInt(eolpos_520093742, 1);
+            }
+            
+            line_956301331 = substr__system_u3687(colontmp__520093737, first_520093740, Temporary6);
+            if (eqStrings(line_956301331, [])) {
+            F.line = 14;
+            break Label1;
+            }
+            
+            F.line = 15;
+            var inputs_956301584 = split__pkgZregex_u1152(line_956301331, re2__solutionsZday1_u20());
+            F.line = 16;
+            col1_956301325.push(nsuParseInt(inputs_956301584[chckIndx(0, 0, (inputs_956301584).length - 1)]));;
+            F.line = 17;
+            col2_956301330.push(nsuParseInt(inputs_956301584[chckIndx(1, 0, (inputs_956301584).length - 1)]));;
+            if ((eolpos_520093742 == last_520093741)) {
+            F.line = 700;
+            F.filename = "strutils.nim";
+            break Label2;
+            }
+            
+            F.line = 702;
+            first_520093740 = last_520093741;
+          }
+      };
+    };
+    F.line = 18;
+    F.filename = "day1.nim";
+    var colontmp__520093745 = nimCopy(null, col1_956301325, NTI956301318);
+    F.line = 18;
+    var colontmp__520093746 = nimCopy(null, col2_956301330, NTI956301319);
+    F.line = 18;
+    result_956301320 = nimCopy(result_956301320, {Field0: nimCopy(null, colontmp__520093745, NTI956301318), Field1: nimCopy(null, colontmp__520093746, NTI956301319)}, NTI956301317);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_956301320;
+
+}
+
+function newSeq__pkgZregexZexptransformation_u314(len_p0) {
+  var result_1258291518 = [];
+
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 635;
+    F.filename = "system.nim";
+    result_1258291518 = new Array(len_p0); for (var i = 0 ; i < len_p0 ; ++i) { result_1258291518[i] = 0; }  framePtr = F.prev;
+
+  return result_1258291518;
+
+}
+
+function HEX2A__pureZalgorithm_u8(x_p0, order_p1) {
+  var result_889192459 = 0;
+
+  var F = {procname: "algorithm.*", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\algorithm.nim", line: 0};
+  framePtr = F;
+    F.line = 68;
+    F.filename = "algorithm.nim";
+    var y_889192464 = subInt(order_p1, 1);
+    F.line = 69;
+    result_889192459 = subInt((x_p0 ^ y_889192464), y_889192464);
+  framePtr = F.prev;
+
+  return result_889192459;
+
+}
+
+function mergeAlt__solutionsZday1_u392(a_p0, b_p1, lo_p2, m_p3, hi_p4, cmp_p5, order_p6) {
+  var F = {procname: "mergeAlt.mergeAlt", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\algorithm.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    if ((HEX2A__pureZalgorithm_u8(cmp_p5(a_p0[chckIndx(m_p3, 0, (a_p0).length - 1)], a_p0[chckIndx(addInt(m_p3, 1), 0, (a_p0).length - 1)]), order_p6) <= 0)) {
+    F.line = 335;
+    F.filename = "algorithm.nim";
+    break BeforeRet;
+    }
+    
+    F.line = 336;
+    var j_956301715 = lo_p2;
+    if (!((j_956301715 <= m_p3))) {
+    F.line = 338;
+    failedAssertImpl__stdZassertions_u85([67,58,92,85,115,101,114,115,92,97,108,101,120,115,92,46,110,105,109,98,108,101,92,108,105,98,92,112,117,114,101,92,97,108,103,111,114,105,116,104,109,46,110,105,109,40,51,51,56,44,32,51,41,32,96,106,32,60,61,32,109,96,32]);
+    }
+    
+    F.line = 340;
+    var bb_956301721 = 0;
+    Label1: {
+      F.line = 341;
+        Label2: while (true) {
+        if (!(j_956301715 <= m_p3)) break Label2;
+          F.line = 342;
+          b_p1[chckIndx(bb_956301721, 0, (b_p1).length - 1)] = a_p0[chckIndx(j_956301715, 0, (a_p0).length - 1)];
+          F.line = 343;
+          bb_956301721 = addInt(bb_956301721, 1);
+          F.line = 344;
+          j_956301715 = addInt(j_956301715, 1);
+        }
+    };
+    F.line = 348;
+    var i_956301732 = 0;
+    F.line = 349;
+    var k_956301733 = lo_p2;
+    Label3: {
+      F.line = 351;
+        Label4: while (true) {
+        if (!((k_956301733 < j_956301715) && (j_956301715 <= hi_p4))) break Label4;
+          if ((HEX2A__pureZalgorithm_u8(cmp_p5(b_p1[chckIndx(i_956301732, 0, (b_p1).length - 1)], a_p0[chckIndx(j_956301715, 0, (a_p0).length - 1)]), order_p6) <= 0)) {
+          F.line = 353;
+          a_p0[chckIndx(k_956301733, 0, (a_p0).length - 1)] = b_p1[chckIndx(i_956301732, 0, (b_p1).length - 1)];
+          F.line = 354;
+          i_956301732 = addInt(i_956301732, 1);
+          }
+          else {
+            F.line = 356;
+            a_p0[chckIndx(k_956301733, 0, (a_p0).length - 1)] = a_p0[chckIndx(j_956301715, 0, (a_p0).length - 1)];
+            F.line = 357;
+            j_956301715 = addInt(j_956301715, 1);
+          }
+          
+          F.line = 358;
+          k_956301733 = addInt(k_956301733, 1);
+        }
+    };
+    Label5: {
+      F.line = 361;
+        Label6: while (true) {
+        if (!(k_956301733 < j_956301715)) break Label6;
+          F.line = 362;
+          a_p0[chckIndx(k_956301733, 0, (a_p0).length - 1)] = b_p1[chckIndx(i_956301732, 0, (b_p1).length - 1)];
+          F.line = 363;
+          k_956301733 = addInt(k_956301733, 1);
+          F.line = 364;
+          i_956301732 = addInt(i_956301732, 1);
+        }
+    };
+  };
+  framePtr = F.prev;
+
+  
+}
+
+function sort__solutionsZday1_u357(a_p0, cmp_p1, order_p2) {
+  var F = {procname: "sort.sort", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\algorithm.nim", line: 0};
+  framePtr = F;
+    F.line = 411;
+    F.filename = "algorithm.nim";
+    var n_956301680 = (a_p0).length;
+    F.line = 412;
+    var b_956301701 = newSeq__pkgZregexZexptransformation_u314(chckRange(divInt(n_956301680, 2), 0, 2147483647));
+    F.line = 413;
+    var s_956301702 = 1;
+    Label1: {
+      F.line = 414;
+        Label2: while (true) {
+        if (!(s_956301702 < n_956301680)) break Label2;
+          F.line = 415;
+          var m_956301703 = subInt(subInt(n_956301680, 1), s_956301702);
+          Label3: {
+            F.line = 416;
+              Label4: while (true) {
+              if (!(0 <= m_956301703)) break Label4;
+                F.line = 417;
+                mergeAlt__solutionsZday1_u392(a_p0, b_956301701, nimMax(addInt(subInt(m_956301703, s_956301702), 1), 0), m_956301703, addInt(m_956301703, s_956301702), cmp_p1, order_p2);
+                F.line = 418;
+                m_956301703 = subInt(m_956301703, mulInt(s_956301702, 2));
+              }
+          };
+          F.line = 419;
+          s_956301702 = mulInt(s_956301702, 2);
+        }
+    };
+  framePtr = F.prev;
+
+  
+}
+
+function cmp__system_u3588(x_p0, y_p1) {
+  var result_33558024 = 0;
+
+  var F = {procname: "cmp.cmp", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    if ((x_p0 == y_p1)) {
+    F.line = 874;
+    F.filename = "system.nim";
+    result_33558024 = 0;
+    break BeforeRet;
+    }
+    
+    if ((x_p0 < y_p1)) {
+    F.line = 875;
+    result_33558024 = (-1);
+    break BeforeRet;
+    }
+    
+    F.line = 876;
+    result_33558024 = 1;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_33558024;
+
+}
+
+function sort__solutionsZday1_u319(a_p0, order_p1) {
+    var Temporary1;
+
+  var F = {procname: "sort.sort", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\algorithm.nim", line: 0};
+  framePtr = F;
+    F.line = 421;
+    F.filename = "algorithm.nim";
+    Temporary1 = cmp__system_u3588.bind(null); Temporary1.ClP_0 = cmp__system_u3588; Temporary1.ClE_0 = null;
+    sort__solutionsZday1_u357(a_p0, Temporary1, order_p1);
+  framePtr = F.prev;
+
+  
+}
+
+function map__solutionsZday1_u530(s_p0, op_p1) {
+  var result_956301848 = [];
+
+  var F = {procname: "map.map", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+  framePtr = F;
+    F.line = 414;
+    F.filename = "sequtils.nim";
+    result_956301848 = new Array(chckRange((s_p0).length, 0, 2147483647)); for (var i = 0 ; i < chckRange((s_p0).length, 0, 2147483647) ; ++i) { result_956301848[i] = 0; }    Label1: {
+      F.line = 415;
+      var i_956301864 = 0;
+      F.line = 126;
+      F.filename = "iterators_1.nim";
+      var colontmp__520093909 = 0;
+      F.line = 415;
+      F.filename = "sequtils.nim";
+      colontmp__520093909 = (s_p0).length;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520093910 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520093910 < colontmp__520093909)) break Label3;
+            F.line = 415;
+            F.filename = "sequtils.nim";
+            i_956301864 = i_520093910;
+            F.line = 416;
+            result_956301848[chckIndx(i_956301864, 0, (result_956301848).length - 1)] = op_p1(s_p0[chckIndx(i_956301864, 0, (s_p0).length - 1)]);
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520093910 = addInt(i_520093910, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_956301848;
+
+}
+
+function zip__solutionsZday1_u488(s1_p0, s2_p1) {
+  var result_956301805 = [];
+
+  var F = {procname: "zip.zip", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+  framePtr = F;
+    F.line = 312;
+    F.filename = "sequtils.nim";
+    var mHEX60gensym8_956301812 = nimMin((s1_p0).length, (s2_p1).length);
+    F.line = 313;
+    result_956301805 = new Array(chckRange(mHEX60gensym8_956301812, 0, 2147483647)); for (var i = 0 ; i < chckRange(mHEX60gensym8_956301812, 0, 2147483647) ; ++i) { result_956301805[i] = {Field0: 0, Field1: 0}; }    Label1: {
+      F.line = 314;
+      var iHEX60gensym8_956301821 = 0;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520093915 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520093915 < mHEX60gensym8_956301812)) break Label3;
+            F.line = 314;
+            F.filename = "sequtils.nim";
+            iHEX60gensym8_956301821 = i_520093915;
+            F.line = 315;
+            var colontmp__520093913 = s1_p0[chckIndx(iHEX60gensym8_956301821, 0, (s1_p0).length - 1)];
+            F.line = 315;
+            var colontmp__520093914 = s2_p1[chckIndx(iHEX60gensym8_956301821, 0, (s2_p1).length - 1)];
+            F.line = 315;
+            result_956301805[chckIndx(iHEX60gensym8_956301821, 0, (result_956301805).length - 1)] = nimCopy(result_956301805[chckIndx(iHEX60gensym8_956301821, 0, (result_956301805).length - 1)], {Field0: colontmp__520093913, Field1: colontmp__520093914}, NTI956301719);
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520093915 = addInt(i_520093915, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_956301805;
+
+}
+
+function sum__solutionsZday1_u554(x_p0) {
+  var result_956301869 = 0;
+
+  var F = {procname: "sum.sum", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\math.nim", line: 0};
+  framePtr = F;
+    Label1: {
+      F.line = 1132;
+      F.filename = "math.nim";
+      var i_956301873 = 0;
+      F.line = 18;
+      F.filename = "iterators.nim";
+      var i_520093918 = 0;
+      Label2: {
+        F.line = 19;
+          Label3: while (true) {
+          if (!(i_520093918 < (x_p0).length)) break Label3;
+            F.line = 1132;
+            F.filename = "math.nim";
+            i_956301873 = x_p0[chckIndx(i_520093918, 0, (x_p0).length - 1)];
+            F.line = 1132;
+            result_956301869 = addInt(result_956301869, i_956301873);
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520093918 += 1;
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_956301869;
+
+}
+
+function solvePart1__solutionsZday1_u314() {
+    var Temporary1;
+
+function HEX3Aanonymous__solutionsZday1_u526(ab_p0) {
+  var result_956301840 = 0;
+
+  var F = {procname: "solvePart1.:anonymous", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+  framePtr = F;
+    F.line = 26;
+    F.filename = "day1.nim";
+    result_956301840 = absInt(subInt(ab_p0["Field0"], ab_p0["Field1"]));
+  framePtr = F.prev;
+
+  return result_956301840;
+
+}
+
+  var result_956301627 = 0;
+
+  var F = {procname: "day1.solvePart1", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 21;
+    F.filename = "day1.nim";
+    var locations_956301628 = getLocations__solutionsZday1_u7();
+    F.line = 22;
+    var col1_956301629 = nimCopy(null, locations_956301628["Field0"], NTI956301318);
+    F.line = 23;
+    var col2_956301630 = nimCopy(null, locations_956301628["Field1"], NTI956301319);
+    F.line = 24;
+    sort__solutionsZday1_u319(col1_956301629, 1);
+    F.line = 25;
+    sort__solutionsZday1_u319(col2_956301630, 1);
+    F.line = 26;
+    Temporary1 = HEX3Aanonymous__solutionsZday1_u526.bind(null); Temporary1.ClP_0 = HEX3Aanonymous__solutionsZday1_u526; Temporary1.ClE_0 = null;
+    var distances_956301865 = map__solutionsZday1_u530(zip__solutionsZday1_u488(col1_956301629, col2_956301630), Temporary1);
+    F.line = 27;
+    result_956301627 = sum__solutionsZday1_u554(distances_956301865);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_956301627;
+
+}
+
+function map__solutionsZday1_u658(s_p0, op_p1) {
+  var result_956301976 = [];
+
+  var F = {procname: "map.map", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+  framePtr = F;
+    F.line = 414;
+    F.filename = "sequtils.nim";
+    result_956301976 = new Array(chckRange((s_p0).length, 0, 2147483647)); for (var i = 0 ; i < chckRange((s_p0).length, 0, 2147483647) ; ++i) { result_956301976[i] = 0; }    Label1: {
+      F.line = 415;
+      var i_956301991 = 0;
+      F.line = 126;
+      F.filename = "iterators_1.nim";
+      var colontmp__520094013 = 0;
+      F.line = 415;
+      F.filename = "sequtils.nim";
+      colontmp__520094013 = (s_p0).length;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520094014 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520094014 < colontmp__520094013)) break Label3;
+            F.line = 415;
+            F.filename = "sequtils.nim";
+            i_956301991 = i_520094014;
+            F.line = 416;
+            result_956301976[chckIndx(i_956301991, 0, (result_956301976).length - 1)] = op_p1(s_p0[chckIndx(i_956301991, 0, (s_p0).length - 1)]);
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520094014 = addInt(i_520094014, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_956301976;
+
+}
+
+function filter__solutionsZday1_u617(s_p0, pred_p1) {
+  var result_956301934 = [];
+
+  var F = {procname: "filter.filter", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+  framePtr = F;
+    F.line = 511;
+    F.filename = "sequtils.nim";
+    result_956301934 = nimCopy(null, newSeq__pkgZregexZexptransformation_u314(0), NTI1258291427);
+    Label1: {
+      F.line = 512;
+      var i_956301962 = 0;
+      F.line = 126;
+      F.filename = "iterators_1.nim";
+      var colontmp__520094017 = 0;
+      F.line = 512;
+      F.filename = "sequtils.nim";
+      colontmp__520094017 = (s_p0).length;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520094018 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520094018 < colontmp__520094017)) break Label3;
+            F.line = 512;
+            F.filename = "sequtils.nim";
+            i_956301962 = i_520094018;
+            if (pred_p1(s_p0[chckIndx(i_956301962, 0, (s_p0).length - 1)])) {
+            F.line = 514;
+            result_956301934.push(s_p0[chckIndx(i_956301962, 0, (s_p0).length - 1)]);;
+            }
+            
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520094018 = addInt(i_520094018, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_956301934;
+
+}
+
+function HEX3Aanonymous__solutionsZday1_u614(l2_p0) {
+  var result_956301928 = false;
+
+  var F = {procname: ":anonymous.:anonymous", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+  framePtr = F;
+    F.line = 33;
+    F.filename = "day1.nim";
+    result_956301928 = (l2_p0 == this.l1);
+  framePtr = F.prev;
+
+  return result_956301928;
+
+}
+
+function HEX3Aanonymous__solutionsZday1_u611(l_p0) {
+    var Temporary1;
+
+  var result_956301925 = 0;
+
+  var F = {procname: "solvePart2.:anonymous", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+  framePtr = F;
+    F.line = 33;
+    F.filename = "day1.nim";
+    var HEX3Aenv_520093929 = null;
+    F.line = 33;
+    HEX3Aenv_520093929 = {m_type: NTI520094021, HEX3Astate: 0, l1: 0};
+    F.line = 33;
+    HEX3Aenv_520093929.l1 = l_p0;
+    F.line = 33;
+    Temporary1 = HEX3Aanonymous__solutionsZday1_u614.bind(HEX3Aenv_520093929); Temporary1.ClP_0 = HEX3Aanonymous__solutionsZday1_u614; Temporary1.ClE_0 = HEX3Aenv_520093929;
+    result_956301925 = mulInt(HEX3Aenv_520093929.l1, (filter__solutionsZday1_u617(this.locations1["Field1"], Temporary1)).length);
+  framePtr = F.prev;
+
+  return result_956301925;
+
+}
+
+function solvePart2__solutionsZday1_u608() {
+    var Temporary1;
+
+  var result_956301921 = 0;
+
+  var F = {procname: "day1.solvePart2", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day1.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 30;
+    F.filename = "day1.nim";
+    var HEX3Aenv_520093928 = null;
+    F.line = 30;
+    HEX3Aenv_520093928 = {m_type: NTI520094018, HEX3Astate: 0, locations1: {Field0: [], Field1: []}};
+    F.line = 30;
+    HEX3Aenv_520093928.locations1 = nimCopy(HEX3Aenv_520093928.locations1, getLocations__solutionsZday1_u7(), NTI956301317);
+    F.line = 33;
+    Temporary1 = HEX3Aanonymous__solutionsZday1_u611.bind(HEX3Aenv_520093928); Temporary1.ClP_0 = HEX3Aanonymous__solutionsZday1_u611; Temporary1.ClE_0 = HEX3Aenv_520093928;
+    var similarity_956301992 = map__solutionsZday1_u658(HEX3Aenv_520093928.locations1["Field0"], Temporary1);
+    F.line = 34;
+    result_956301921 = sum__solutionsZday1_u554(similarity_956301992);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_956301921;
+
+}
+
+function getInput__solutionsZday2_u7() {
+  var result_1476395757 = [];
+
+  var F = {procname: "day2.getInput", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 100;
+    F.filename = "day2.nim";
+    result_1476395757 = nimCopy(null, [55,54,32,55,51,32,55,55,32,55,57,32,56,48,32,56,50,10], NTI33554449);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1476395757;
+
+}
+
+function map__solutionsZday2_u22(s_p0, op_p1) {
+  var result_1476395036 = [];
+
+  var F = {procname: "map.map", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+  framePtr = F;
+    F.line = 414;
+    F.filename = "sequtils.nim";
+    result_1476395036 = new Array(chckRange((s_p0).length, 0, 2147483647)); for (var i = 0 ; i < chckRange((s_p0).length, 0, 2147483647) ; ++i) { result_1476395036[i] = 0; }    Label1: {
+      F.line = 415;
+      var i_1476395051 = 0;
+      F.line = 126;
+      F.filename = "iterators_1.nim";
+      var colontmp__520094028 = 0;
+      F.line = 415;
+      F.filename = "sequtils.nim";
+      colontmp__520094028 = (s_p0).length;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520094029 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520094029 < colontmp__520094028)) break Label3;
+            F.line = 415;
+            F.filename = "sequtils.nim";
+            i_1476395051 = i_520094029;
+            F.line = 416;
+            result_1476395036[chckIndx(i_1476395051, 0, (result_1476395036).length - 1)] = op_p1(s_p0[chckIndx(i_1476395051, 0, (s_p0).length - 1)]);
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520094029 = addInt(i_520094029, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_1476395036;
+
+}
+
+function getLevels__solutionsZday2_u8() {
+            var Temporary6;
+            var Temporary7;
+
+  var result_1476395017 = [];
+
+  var F = {procname: "day2.getLevels", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 11;
+    F.filename = "day2.nim";
+    var levels_1476395022 = [];
+    Label1: {
+      F.line = 12;
+      var line_1476395023 = [];
+      F.line = 653;
+      F.filename = "strutils.nim";
+      var colontmp__520094021 = [];
+      F.line = 12;
+      F.filename = "day2.nim";
+      colontmp__520094021 = getInput__solutionsZday2_u7();
+      F.line = 683;
+      F.filename = "strutils.nim";
+      var first_520094022 = 0;
+      F.line = 684;
+      var last_520094023 = 0;
+      F.line = 685;
+      var eolpos_520094024 = 0;
+      Label2: {
+        F.line = 686;
+          Label3: while (true) {
+          if (!true) break Label3;
+            Label4: {
+              F.line = 687;
+                Label5: while (true) {
+                if (!((last_520094023 < (colontmp__520094021).length) && !((ConstSet9[colontmp__520094021[chckIndx(last_520094023, 0, (colontmp__520094021).length - 1)]] != undefined)))) break Label5;
+                  F.line = 687;
+                  last_520094023 = addInt(last_520094023, 1);
+                }
+            };
+            F.line = 689;
+            eolpos_520094024 = last_520094023;
+            if ((last_520094023 < (colontmp__520094021).length)) {
+            if ((colontmp__520094021[chckIndx(last_520094023, 0, (colontmp__520094021).length - 1)] == 10)) {
+            F.line = 691;
+            last_520094023 = addInt(last_520094023, 1);
+            }
+            else {
+            if ((colontmp__520094021[chckIndx(last_520094023, 0, (colontmp__520094021).length - 1)] == 13)) {
+            F.line = 693;
+            last_520094023 = addInt(last_520094023, 1);
+            if (((last_520094023 < (colontmp__520094021).length) && (colontmp__520094021[chckIndx(last_520094023, 0, (colontmp__520094021).length - 1)] == 10))) {
+            F.line = 694;
+            last_520094023 = addInt(last_520094023, 1);
+            }
+            
+            }
+            }
+            }
+            
+            F.line = 12;
+            F.filename = "day2.nim";
+            if (false) {
+            Temporary6 = subInt(last_520094023, 1);
+            }
+            else {
+            Temporary6 = subInt(eolpos_520094024, 1);
+            }
+            
+            line_1476395023 = substr__system_u3687(colontmp__520094021, first_520094022, Temporary6);
+            if (eqStrings(line_1476395023, [])) {
+            F.line = 14;
+            break Label1;
+            }
+            
+            F.line = 15;
+            Temporary7 = nsuParseInt.bind(null); Temporary7.ClP_0 = nsuParseInt; Temporary7.ClE_0 = null;
+            levels_1476395022.push(map__solutionsZday2_u22(split__pkgZregex_u1152(line_1476395023, re2__solutionsZday1_u20()), Temporary7));;
+            if ((eolpos_520094024 == last_520094023)) {
+            F.line = 700;
+            F.filename = "strutils.nim";
+            break Label2;
+            }
+            
+            F.line = 702;
+            first_520094022 = last_520094023;
+          }
+      };
+    };
+    F.line = 16;
+    F.filename = "day2.nim";
+    result_1476395017 = nimCopy(null, levels_1476395022, NTI1476395015);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1476395017;
+
+}
+
+function newSeq__solutionsZday2_u479(len_p0) {
+  var result_1476395491 = [];
+
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 635;
+    F.filename = "system.nim";
+    result_1476395491 = new Array(len_p0); for (var i = 0 ; i < len_p0 ; ++i) { result_1476395491[i] = []; }  framePtr = F.prev;
+
+  return result_1476395491;
+
+}
+
+function filter__solutionsZday2_u457(s_p0, pred_p1) {
+  var result_1476395470 = [];
+
+  var F = {procname: "filter.filter", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+  framePtr = F;
+    F.line = 511;
+    F.filename = "sequtils.nim";
+    result_1476395470 = nimCopy(null, newSeq__solutionsZday2_u479(0), NTI1476395372);
+    Label1: {
+      F.line = 512;
+      var i_1476395504 = 0;
+      F.line = 126;
+      F.filename = "iterators_1.nim";
+      var colontmp__520094032 = 0;
+      F.line = 512;
+      F.filename = "sequtils.nim";
+      colontmp__520094032 = (s_p0).length;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520094033 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520094033 < colontmp__520094032)) break Label3;
+            F.line = 512;
+            F.filename = "sequtils.nim";
+            i_1476395504 = i_520094033;
+            if (pred_p1(s_p0[chckIndx(i_1476395504, 0, (s_p0).length - 1)])) {
+            F.line = 514;
+            var Temporary4 = nimCopy(null, s_p0[chckIndx(i_1476395504, 0, (s_p0).length - 1)], NTI1476395014);
+            result_1476395470.push(Temporary4);;
+            }
+            
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520094033 = addInt(i_520094033, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_1476395470;
+
+}
+
+function HEX5BHEX5D__solutionsZday2_u138(s_p0, x_p1) {
+  var result_1476395152 = [];
+
+  var F = {procname: "[].[]", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\indices.nim", line: 0};
+  framePtr = F;
+    F.line = 145;
+    F.filename = "indices.nim";
+    var a_1476395154 = x_p1.a;
+    F.line = 146;
+    var L_1476395156 = addInt(subInt(x_p1.b, a_1476395154), 1);
+    F.line = 147;
+    result_1476395152 = new Array(chckRange(L_1476395156, 0, 2147483647)); for (var i = 0 ; i < chckRange(L_1476395156, 0, 2147483647) ; ++i) { result_1476395152[i] = 0; }    Label1: {
+      F.line = 148;
+      var i_1476395165 = 0;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520094036 = 0;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520094036 < L_1476395156)) break Label3;
+            F.line = 148;
+            F.filename = "indices.nim";
+            i_1476395165 = i_520094036;
+            F.line = 148;
+            result_1476395152[chckIndx(i_1476395165, 0, (result_1476395152).length - 1)] = s_p0[chckIndx(addInt(i_1476395165, a_1476395154), 0, (s_p0).length - 1)];
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520094036 = addInt(i_520094036, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_1476395152;
+
+}
+
+function all__solutionsZday2_u205(s_p0, pred_p1) {
+  var result_1476395218 = false;
+
+  var F = {procname: "all.all", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\collections\\sequtils.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 723;
+    F.filename = "sequtils.nim";
+    Label1: {
+      F.line = 735;
+      var i_1476395222 = 0;
+      F.line = 18;
+      F.filename = "iterators.nim";
+      var i_520094039 = 0;
+      Label2: {
+        F.line = 19;
+          Label3: while (true) {
+          if (!(i_520094039 < (s_p0).length)) break Label3;
+            F.line = 735;
+            F.filename = "sequtils.nim";
+            i_1476395222 = s_p0[chckIndx(i_520094039, 0, (s_p0).length - 1)];
+            if (!(pred_p1(i_1476395222))) {
+            F.line = 737;
+            result_1476395218 = false;
+            break BeforeRet;
+            }
+            
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520094039 += 1;
+          }
+      };
+    };
+    result_1476395218 = true;
+  };
+  framePtr = F.prev;
+
+  return result_1476395218;
+
+}
+
+function max__solutionsZday2_u226(x_p0) {
+  var result_1476395237 = 0;
+
+    result_1476395237 = x_p0[chckIndx(0, 0, (x_p0).length - 1)];
+    Label1: {
+      var i_1476395245 = 0;
+      var colontmp__520094042 = 0;
+      colontmp__520094042 = (x_p0).length - 1;
+      var res_520094043 = 1;
+      Label2: {
+          Label3: while (true) {
+          if (!(res_520094043 <= colontmp__520094042)) break Label3;
+            i_1476395245 = res_520094043;
+            if ((result_1476395237 < x_p0[chckIndx(i_1476395245, 0, (x_p0).length - 1)])) {
+            result_1476395237 = x_p0[chckIndx(i_1476395245, 0, (x_p0).length - 1)];
+            }
+            
+            res_520094043 = addInt(res_520094043, 1);
+          }
+      };
+    };
+
+  return result_1476395237;
+
+}
+
+function min__solutionsZday2_u238(x_p0) {
+  var result_1476395249 = 0;
+
+    result_1476395249 = x_p0[chckIndx(0, 0, (x_p0).length - 1)];
+    Label1: {
+      var i_1476395257 = 0;
+      var colontmp__520094046 = 0;
+      colontmp__520094046 = (x_p0).length - 1;
+      var res_520094047 = 1;
+      Label2: {
+          Label3: while (true) {
+          if (!(res_520094047 <= colontmp__520094046)) break Label3;
+            i_1476395257 = res_520094047;
+            if ((x_p0[chckIndx(i_1476395257, 0, (x_p0).length - 1)] < result_1476395249)) {
+            result_1476395249 = x_p0[chckIndx(i_1476395257, 0, (x_p0).length - 1)];
+            }
+            
+            res_520094047 = addInt(res_520094047, 1);
+          }
+      };
+    };
+
+  return result_1476395249;
+
+}
+
+function safe1__solutionsZday2_u111(levels_p0) {
+    var Temporary1;
+
+function HEX3Aanonymous__solutionsZday2_u190(ab_p0) {
+  var result_1476395200 = 0;
+
+  var F = {procname: "safe1.:anonymous", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+    F.line = 21;
+    F.filename = "day2.nim";
+    result_1476395200 = subInt(ab_p0["Field1"], ab_p0["Field0"]);
+  framePtr = F.prev;
+
+  return result_1476395200;
+
+}
+    var Temporary2;
+
+function HEX3Aanonymous__solutionsZday2_u201(x_p0) {
+  var result_1476395211 = false;
+
+  var F = {procname: "safe1.:anonymous", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+    F.line = 22;
+    F.filename = "day2.nim";
+    result_1476395211 = (0 < x_p0);
+  framePtr = F.prev;
+
+  return result_1476395211;
+
+}
+    var Temporary3;
+
+function HEX3Aanonymous__solutionsZday2_u216(x_p0) {
+  var result_1476395226 = false;
+
+  var F = {procname: "safe1.:anonymous", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+    F.line = 23;
+    F.filename = "day2.nim";
+    result_1476395226 = (x_p0 < 0);
+  framePtr = F.prev;
+
+  return result_1476395226;
+
+}
+
+  var result_1476395121 = false;
+
+  var F = {procname: "day2.safe1", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    if (((levels_p0).length == 0)) {
+    F.line = 20;
+    F.filename = "day2.nim";
+    result_1476395121 = true;
+    break BeforeRet;
+    }
+    
+    F.line = 21;
+    Temporary1 = HEX3Aanonymous__solutionsZday2_u190.bind(null); Temporary1.ClP_0 = HEX3Aanonymous__solutionsZday2_u190; Temporary1.ClE_0 = null;
+    var differences_1476395208 = map__solutionsZday1_u530(zip__solutionsZday1_u488(HEX5BHEX5D__solutionsZday2_u138(levels_p0, HEX2EHEX2E__stdZstrbasics_u50(0, subInt(subInt((levels_p0).length, 1), 1))), HEX5BHEX5D__solutionsZday2_u138(levels_p0, HEX2EHEX2E__stdZstrbasics_u50(1, subInt((levels_p0).length, 1)))), Temporary1);
+    F.line = 22;
+    Temporary2 = HEX3Aanonymous__solutionsZday2_u201.bind(null); Temporary2.ClP_0 = HEX3Aanonymous__solutionsZday2_u201; Temporary2.ClE_0 = null;
+    var increasing_1476395223 = all__solutionsZday2_u205(differences_1476395208, Temporary2);
+    F.line = 23;
+    Temporary3 = HEX3Aanonymous__solutionsZday2_u216.bind(null); Temporary3.ClP_0 = HEX3Aanonymous__solutionsZday2_u216; Temporary3.ClE_0 = null;
+    var decreasing_1476395233 = all__solutionsZday2_u205(differences_1476395208, Temporary3);
+    if ((!(increasing_1476395223) && !(decreasing_1476395233))) {
+    F.line = 25;
+    result_1476395121 = false;
+    break BeforeRet;
+    }
+    
+    if (((3 < max__solutionsZday2_u226(differences_1476395208)) || (min__solutionsZday2_u238(differences_1476395208) < (-3)))) {
+    F.line = 27;
+    result_1476395121 = false;
+    break BeforeRet;
+    }
+    
+    F.line = 28;
+    result_1476395121 = true;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1476395121;
+
+}
+
+function solvePart1__solutionsZday2_u452() {
+    var Temporary1;
+
+  var result_1476395461 = 0;
+
+  var F = {procname: "day2.solvePart1", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 84;
+    F.filename = "day2.nim";
+    var levels_1476395462 = getLevels__solutionsZday2_u8();
+    F.line = 85;
+    Temporary1 = safe1__solutionsZday2_u111.bind(null); Temporary1.ClP_0 = safe1__solutionsZday2_u111; Temporary1.ClE_0 = null;
+    var numSafe_1476395513 = (filter__solutionsZday2_u457(levels_1476395462, Temporary1)).length;
+    F.line = 86;
+    result_1476395461 = numSafe_1476395513;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1476395461;
+
+}
+
+function safe2part__solutionsZday2_u281(levels_p0) {
+  var result_1476395291 = false;
+
+  var F = {procname: "day2.safe2part", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 31;
+    F.filename = "day2.nim";
+    var last_1476395292 = levels_p0[chckIndx(0, 0, (levels_p0).length - 1)];
+    F.line = 32;
+    var increasing_1476395293 = false;
+    F.line = 33;
+    var decreasing_1476395294 = false;
+    F.line = 34;
+    var skippedOutlier_1476395295 = false;
+    F.line = 35;
+    var maxdifference_1476395296 = 3;
+    Label1: {
+      F.line = 36;
+      var i_1476395304 = 0;
+      F.line = 126;
+      F.filename = "iterators_1.nim";
+      var colontmp__520094057 = 0;
+      F.line = 36;
+      F.filename = "day2.nim";
+      colontmp__520094057 = (levels_p0).length;
+      F.line = 128;
+      F.filename = "iterators_1.nim";
+      var i_520094058 = 1;
+      Label2: {
+        F.line = 129;
+          Label3: while (true) {
+          if (!(i_520094058 < colontmp__520094057)) break Label3;
+            F.line = 36;
+            F.filename = "day2.nim";
+            i_1476395304 = i_520094058;
+            Label4: {
+              F.line = 37;
+              var difference_1476395305 = subInt(levels_p0[chckIndx(i_1476395304, 0, (levels_p0).length - 1)], last_1476395292);
+              if ((((maxdifference_1476395296 < difference_1476395305) || (difference_1476395305 < negInt(maxdifference_1476395296))) || (difference_1476395305 == 0))) {
+              if (!(skippedOutlier_1476395295)) {
+              F.line = 41;
+              skippedOutlier_1476395295 = true;
+              F.line = 42;
+              break Label4;
+              }
+              else {
+                F.line = 44;
+                result_1476395291 = false;
+                break BeforeRet;
+              }
+              
+              }
+              else {
+                if ((increasing_1476395293 && (difference_1476395305 < 0))) {
+                if (!(skippedOutlier_1476395295)) {
+                F.line = 49;
+                skippedOutlier_1476395295 = true;
+                F.line = 50;
+                break Label4;
+                }
+                else {
+                  F.line = 52;
+                  result_1476395291 = false;
+                  break BeforeRet;
+                }
+                
+                }
+                
+                if ((decreasing_1476395294 && (0 < difference_1476395305))) {
+                if (!(skippedOutlier_1476395295)) {
+                F.line = 55;
+                skippedOutlier_1476395295 = true;
+                F.line = 56;
+                break Label4;
+                }
+                else {
+                  F.line = 58;
+                  result_1476395291 = false;
+                  break BeforeRet;
+                }
+                
+                }
+                
+                if ((!(increasing_1476395293) && !(decreasing_1476395294))) {
+                F.line = 60;
+                increasing_1476395293 = (0 < difference_1476395305);
+                F.line = 61;
+                decreasing_1476395294 = (difference_1476395305 < 0);
+                }
+                
+                F.line = 62;
+                last_1476395292 = levels_p0[chckIndx(i_1476395304, 0, (levels_p0).length - 1)];
+              }
+              
+            };
+            F.line = 131;
+            F.filename = "iterators_1.nim";
+            i_520094058 = addInt(i_520094058, 1);
+          }
+      };
+    };
+    F.line = 63;
+    F.filename = "day2.nim";
+    result_1476395291 = true;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1476395291;
+
+}
+
+function safe2__solutionsZday2_u298(levels_p0) {
+  var result_1476395308 = false;
+
+  var F = {procname: "day2.safe2", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 66;
+    F.filename = "day2.nim";
+    rawEcho(nimBoolToStr(safe2part__solutionsZday2_u281(levels_p0)));
+    F.line = 67;
+    rawEcho(nimBoolToStr(safe1__solutionsZday2_u111(HEX5BHEX5D__solutionsZday2_u138(levels_p0, HEX2EHEX2E__stdZstrbasics_u50(1, subInt((levels_p0).length, 1))))));
+    F.line = 68;
+    result_1476395308 = (safe2part__solutionsZday2_u281(levels_p0) || safe1__solutionsZday2_u111(HEX5BHEX5D__solutionsZday2_u138(levels_p0, HEX2EHEX2E__stdZstrbasics_u50(1, subInt((levels_p0).length, 1)))));
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1476395308;
+
+}
+
+function validateUtf8__pureZunicode_u336(s_p0) {
+  var result_704643410 = 0;
+
+  var F = {procname: "unicode.validateUtf8", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 184;
+    F.filename = "unicode.nim";
+    var i_704643411 = 0;
+    F.line = 185;
+    var L_704643415 = (s_p0).length;
+    Label1: {
+      F.line = 186;
+        Label2: while (true) {
+        if (!(i_704643411 < L_704643415)) break Label2;
+          if ((s_p0[chckIndx(i_704643411, 0, (s_p0).length - 1)] <= 127)) {
+          F.line = 188;
+          i_704643411 = addInt(i_704643411, 1);
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643411, 0, (s_p0).length - 1)] >>> 5) == 6)) {
+          if ((s_p0[chckIndx(i_704643411, 0, (s_p0).length - 1)] < 194)) {
+          F.line = 190;
+          result_704643410 = i_704643411;
+          break BeforeRet;
+          }
+          
+          if (((addInt(i_704643411, 1) < L_704643415) && ((s_p0[chckIndx(addInt(i_704643411, 1), 0, (s_p0).length - 1)] >>> 6) == 2))) {
+          F.line = 191;
+          i_704643411 = addInt(i_704643411, 2);
+          }
+          else {
+            F.line = 192;
+            result_704643410 = i_704643411;
+            break BeforeRet;
+          }
+          
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643411, 0, (s_p0).length - 1)] >>> 4) == 14)) {
+          if ((((addInt(i_704643411, 2) < L_704643415) && ((s_p0[chckIndx(addInt(i_704643411, 1), 0, (s_p0).length - 1)] >>> 6) == 2)) && ((s_p0[chckIndx(addInt(i_704643411, 2), 0, (s_p0).length - 1)] >>> 6) == 2))) {
+          F.line = 195;
+          i_704643411 = addInt(i_704643411, 3);
+          }
+          else {
+            F.line = 196;
+            result_704643410 = i_704643411;
+            break BeforeRet;
+          }
+          
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643411, 0, (s_p0).length - 1)] >>> 3) == 30)) {
+          if (((((addInt(i_704643411, 3) < L_704643415) && ((s_p0[chckIndx(addInt(i_704643411, 1), 0, (s_p0).length - 1)] >>> 6) == 2)) && ((s_p0[chckIndx(addInt(i_704643411, 2), 0, (s_p0).length - 1)] >>> 6) == 2)) && ((s_p0[chckIndx(addInt(i_704643411, 3), 0, (s_p0).length - 1)] >>> 6) == 2))) {
+          F.line = 201;
+          i_704643411 = addInt(i_704643411, 4);
+          }
+          else {
+            F.line = 202;
+            result_704643410 = i_704643411;
+            break BeforeRet;
+          }
+          
+          }
+          else {
+            F.line = 204;
+            result_704643410 = i_704643411;
+            break BeforeRet;
+          }
+          }}}
+        }
+    };
+    F.line = 205;
+    result_704643410 = (-1);
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_704643410;
+
+}
+
+function validateUtf8__pureZunicode_u7390(s_p0) {
+  var result_704650464 = 0;
+
+  var F = {procname: "unicode.validateUtf8", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+    F.line = 1191;
+    F.filename = "unicode.nim";
+    result_704650464 = validateUtf8__pureZunicode_u336((s_p0.slice(0, (s_p0).length - 1 + 1)));
+  framePtr = F.prev;
+
+  return result_704650464;
+
+}
+
+function nucruneLen(s_p0) {
+  var result_704643101 = 0;
+
+  var F = {procname: "unicode.runeLen", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+    F.line = 52;
+    F.filename = "unicode.nim";
+    result_704643101 = 0;
+    F.line = 53;
+    var i_704643102 = 0;
+    Label1: {
+      F.line = 54;
+        Label2: while (true) {
+        if (!(i_704643102 < (s_p0).length)) break Label2;
+          if ((s_p0[chckIndx(i_704643102, 0, (s_p0).length - 1)] <= 127)) {
+          F.line = 55;
+          i_704643102 = addInt(i_704643102, 1);
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643102, 0, (s_p0).length - 1)] >>> 5) == 6)) {
+          F.line = 56;
+          i_704643102 = addInt(i_704643102, 2);
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643102, 0, (s_p0).length - 1)] >>> 4) == 14)) {
+          F.line = 57;
+          i_704643102 = addInt(i_704643102, 3);
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643102, 0, (s_p0).length - 1)] >>> 3) == 30)) {
+          F.line = 58;
+          i_704643102 = addInt(i_704643102, 4);
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643102, 0, (s_p0).length - 1)] >>> 2) == 62)) {
+          F.line = 59;
+          i_704643102 = addInt(i_704643102, 5);
+          }
+          else {
+          if (((s_p0[chckIndx(i_704643102, 0, (s_p0).length - 1)] >>> 1) == 126)) {
+          F.line = 60;
+          i_704643102 = addInt(i_704643102, 6);
+          }
+          else {
+            F.line = 61;
+          i_704643102 = addInt(i_704643102, 1);
+          }
+          }}}}}
+          F.line = 62;
+          result_704643101 = addInt(result_704643101, 1);
+        }
+    };
+  framePtr = F.prev;
+
+  return result_704643101;
+
+}
+
+function runeLen__pureZunicode_u7218(s_p0) {
+  var result_704650292 = 0;
+
+  var F = {procname: "unicode.runeLen", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\unicode.nim", line: 0};
+  framePtr = F;
+    F.line = 1158;
+    F.filename = "unicode.nim";
+    result_704650292 = nucruneLen((s_p0.slice(0, (s_p0).length - 1 + 1)));
+  framePtr = F.prev;
+
+  return result_704650292;
+
+}
+
+function nsuRepeatChar(c_p0, count_p1) {
+  var result_754975843 = [];
+
+  var F = {procname: "strutils.repeat", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strutils.nim", line: 0};
+  framePtr = F;
+    F.line = 1350;
+    F.filename = "strutils.nim";
+    result_754975843 = nimCopy(null, mnewString(count_p1), NTI33554449);
+    Label1: {
+      F.line = 1351;
+      var i_754975848 = 0;
+      F.line = 81;
+      F.filename = "iterators_1.nim";
+      var colontmp__1207959618 = 0;
+      F.line = 1351;
+      F.filename = "strutils.nim";
+      colontmp__1207959618 = subInt(count_p1, 1);
+      F.line = 96;
+      F.filename = "iterators_1.nim";
+      var res_1207959619 = 0;
+      Label2: {
+        F.line = 97;
+          Label3: while (true) {
+          if (!(res_1207959619 <= colontmp__1207959618)) break Label3;
+            F.line = 1351;
+            F.filename = "strutils.nim";
+            i_754975848 = res_1207959619;
+            F.line = 1351;
+            result_754975843[chckIndx(i_754975848, 0, (result_754975843).length - 1)] = c_p0;
+            F.line = 102;
+            F.filename = "iterators_1.nim";
+            res_1207959619 = addInt(res_1207959619, 1);
+          }
+      };
+    };
+  framePtr = F.prev;
+
+  return result_754975843;
+
+}
+
+function alignString__pureZstrformat_u20(s_p0, minimumWidth_p1, align_p2, fill_p3) {
+      var Temporary1;
+
+  var result_654311449 = [];
+
+  var F = {procname: "strformat.alignString", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strformat.nim", line: 0};
+  framePtr = F;
+    if ((minimumWidth_p1 == 0)) {
+    F.line = 344;
+    F.filename = "strformat.nim";
+    result_654311449 = nimCopy(null, s_p0, NTI33554449);
+    }
+    else {
+      F.line = 346;
+      if ((validateUtf8__pureZunicode_u7390(s_p0) == (-1))) {
+      Temporary1 = runeLen__pureZunicode_u7218(s_p0);
+      }
+      else {
+      Temporary1 = (s_p0).length;
+      }
+      
+      var sRuneLen_654311450 = Temporary1;
+      F.line = 347;
+      var toFill_654311451 = subInt(minimumWidth_p1, sRuneLen_654311450);
+      if ((toFill_654311451 <= 0)) {
+      F.line = 349;
+      result_654311449 = nimCopy(null, s_p0, NTI33554449);
+      }
+      else {
+      if (((align_p2 == 60) || (align_p2 == 0))) {
+      F.line = 351;
+      result_654311449 = nimCopy(null, (s_p0).concat(nsuRepeatChar(fill_p3, chckRange(toFill_654311451, 0, 2147483647))), NTI33554449);
+      }
+      else {
+      if ((align_p2 == 94)) {
+      F.line = 353;
+      var half_654311452 = divInt(toFill_654311451, 2);
+      F.line = 354;
+      result_654311449 = nimCopy(null, (nsuRepeatChar(fill_p3, chckRange(half_654311452, 0, 2147483647))).concat(s_p0,nsuRepeatChar(fill_p3, chckRange(subInt(toFill_654311451, half_654311452), 0, 2147483647))), NTI33554449);
+      }
+      else {
+        F.line = 356;
+        result_654311449 = nimCopy(null, (nsuRepeatChar(fill_p3, chckRange(toFill_654311451, 0, 2147483647))).concat(s_p0), NTI33554449);
+      }
+      }}
+    }
+    
+  framePtr = F.prev;
+
+  return result_654311449;
+
+}
+
+function formatValue__solutionsZday2_u679(result_p0, result_p0_Idx, value_p1) {
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strformat.nim", line: 0};
+  framePtr = F;
+    F.line = 602;
+    F.filename = "strformat.nim";
+    var value_1476395699 = nimCopy(null, value_p1, NTI33554449);
+    F.line = 613;
+    result_p0[result_p0_Idx].push.apply(result_p0[result_p0_Idx], alignString__pureZstrformat_u20(value_1476395699, 0, 0, 32));;
+  framePtr = F.prev;
+
+  
+}
+
+function formatValue__solutionsZday2_u673(result_p0, result_p0_Idx, value_p1) {
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strformat.nim", line: 0};
+  framePtr = F;
+    F.line = 635;
+    F.filename = "strformat.nim";
+    formatValue__solutionsZday2_u679(result_p0, result_p0_Idx, nimBoolToStr(value_p1));
+  framePtr = F.prev;
+
+  
+}
+
+function addQuoted__pureZstrutils_u1413(s_p0, s_p0_Idx, x_p1) {
+  var F = {procname: "addQuoted.addQuoted", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system.nim", line: 0};
+  framePtr = F;
+    F.line = 2636;
+    F.filename = "system.nim";
+    addInt__stdZprivateZdigitsutils_u241(s_p0, s_p0_Idx, x_p1);
+  framePtr = F.prev;
+
+  
+}
+
+function collectionToString__solutionsZday2_u702(x_p0, prefix_p1, separator_p2, suffix_p3) {
+  var result_1476395716 = [[]];
+
+  var F = {procname: "collectionToString.collectionToString", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\dollars.nim", line: 0};
+  framePtr = F;
+    F.line = 91;
+    F.filename = "dollars.nim";
+    result_1476395716[0] = nimCopy(null, prefix_p1, NTI33554449);
+    F.line = 92;
+    var firstElement_1476395717 = true;
+    Label1: {
+      F.line = 93;
+      var value_1476395721 = 0;
+      F.line = 249;
+      F.filename = "iterators.nim";
+      var i_520094064 = 0;
+      F.line = 250;
+      var L_520094065 = (x_p0).length;
+      Label2: {
+        F.line = 251;
+          Label3: while (true) {
+          if (!(i_520094064 < L_520094065)) break Label3;
+            F.line = 93;
+            F.filename = "dollars.nim";
+            value_1476395721 = x_p0[i_520094064];
+            if (firstElement_1476395717) {
+            F.line = 95;
+            firstElement_1476395717 = false;
+            }
+            else {
+              F.line = 97;
+            result_1476395716[0].push.apply(result_1476395716[0], separator_p2);;
+            }
+            
+            F.line = 106;
+            addQuoted__pureZstrutils_u1413(result_1476395716, 0, value_1476395721);
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520094064 += 1;
+            if (!(((x_p0).length == L_520094065))) {
+            F.line = 254;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\lib\\system\\iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            }
+            
+          }
+      };
+    };
+    F.line = 107;
+    F.filename = "dollars.nim";
+    result_1476395716[0].push.apply(result_1476395716[0], suffix_p3);;
+  framePtr = F.prev;
+
+  return result_1476395716[0];
+
+}
+
+function HEX24__solutionsZday2_u698(x_p0) {
+  var result_1476395709 = [];
+
+  var F = {procname: "$.$", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\system\\dollars.nim", line: 0};
+  framePtr = F;
+    F.line = 118;
+    F.filename = "dollars.nim";
+    result_1476395709 = nimCopy(null, collectionToString__solutionsZday2_u702(x_p0, [64,91], [44,32], [93]), NTI33554449);
+  framePtr = F.prev;
+
+  return result_1476395709;
+
+}
+
+function formatValue__solutionsZday2_u692(result_p0, result_p0_Idx, value_p1) {
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "C:\\Users\\alexs\\.nimble\\lib\\pure\\strformat.nim", line: 0};
+  framePtr = F;
+    F.line = 635;
+    F.filename = "strformat.nim";
+    formatValue__solutionsZday2_u679(result_p0, result_p0_Idx, HEX24__solutionsZday2_u698(value_p1));
+  framePtr = F.prev;
+
+  
+}
+
+function solvePart2__solutionsZday2_u552() {
+    var Temporary1;
+            var Temporary5;
+
+function HEX3Aanonymous__solutionsZday2_u648(ab_p0) {
+  var result_1476395658 = 0;
+
+  var F = {procname: "solvePart2.:anonymous", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+    F.line = 94;
+    F.filename = "day2.nim";
+    result_1476395658 = subInt(ab_p0["Field1"], ab_p0["Field0"]);
+  framePtr = F.prev;
+
+  return result_1476395658;
+
+}
+
+  var result_1476395561 = 0;
+
+  var F = {procname: "day2.solvePart2", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\solutions\\day2.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 89;
+    F.filename = "day2.nim";
+    var levels_1476395562 = getLevels__solutionsZday2_u8();
+    F.line = 90;
+    Temporary1 = safe2__solutionsZday2_u298.bind(null); Temporary1.ClP_0 = safe2__solutionsZday2_u298; Temporary1.ClE_0 = null;
+    var numSafe_1476395573 = (filter__solutionsZday2_u457(levels_1476395562, Temporary1)).length;
+    Label2: {
+      F.line = 92;
+      var l_1476395595 = [];
+      F.line = 249;
+      F.filename = "iterators.nim";
+      var i_520094052 = 0;
+      F.line = 250;
+      var L_520094053 = (levels_1476395562).length;
+      Label3: {
+        F.line = 251;
+          Label4: while (true) {
+          if (!(i_520094052 < L_520094053)) break Label4;
+            F.line = 92;
+            F.filename = "day2.nim";
+            l_1476395595 = levels_1476395562[chckIndx(i_520094052, 0, (levels_1476395562).length - 1)];
+            F.line = 93;
+            var s_1476395596 = safe2__solutionsZday2_u298(l_1476395595);
+            F.line = 94;
+            Temporary5 = HEX3Aanonymous__solutionsZday2_u648.bind(null); Temporary5.ClP_0 = HEX3Aanonymous__solutionsZday2_u648; Temporary5.ClE_0 = null;
+            var differences_1476395666 = map__solutionsZday1_u530(zip__solutionsZday1_u488(HEX5BHEX5D__solutionsZday2_u138(l_1476395595, HEX2EHEX2E__stdZstrbasics_u50(0, subInt(subInt((l_1476395595).length, 1), 1))), HEX5BHEX5D__solutionsZday2_u138(l_1476395595, HEX2EHEX2E__stdZstrbasics_u50(1, subInt((l_1476395595).length, 1)))), Temporary5);
+            F.line = 95;
+            Label6: {
+              F.line = 95;
+              var fmtRes_1476395675 = [mnewString(0)];
+              F.line = 95;
+              formatValue__solutionsZday2_u673(fmtRes_1476395675, 0, s_1476395596);
+              F.line = 95;
+              fmtRes_1476395675[0].push.apply(fmtRes_1476395675[0], [58,32]);;
+              F.line = 95;
+              formatValue__solutionsZday2_u692(fmtRes_1476395675, 0, l_1476395595);
+              F.line = 95;
+              fmtRes_1476395675[0].push.apply(fmtRes_1476395675[0], [44,32]);;
+              F.line = 95;
+              formatValue__solutionsZday2_u692(fmtRes_1476395675, 0, differences_1476395666);
+            };
+            rawEcho(fmtRes_1476395675[0]);
+            F.line = 13;
+            F.filename = "iterators.nim";
+            i_520094052 += 1;
+            if (!(((levels_1476395562).length == L_520094053))) {
+            F.line = 254;
+            failedAssertImpl__stdZassertions_u85(makeNimstrLit("C:\\Users\\alexs\\.nimble\\lib\\system\\iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            }
+            
+          }
+      };
+    };
+    F.line = 97;
+    F.filename = "day2.nim";
+    result_1476395561 = numSafe_1476395573;
+    break BeforeRet;
+  };
+  framePtr = F.prev;
+
+  return result_1476395561;
+
+}
+
+function solve(day_p0, part_p1) {
+  var result_520093703 = 0;
+
+  var F = {procname: "advent.solve", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\advent.nim", line: 0};
+  framePtr = F;
+  BeforeRet: {
+    F.line = 5;
+    F.filename = "advent.nim";
+    Label1: {
+      F.line = 5;
+      var fmtRes_520093708 = [mnewString(0)];
+      F.line = 5;
+      formatValue__advent_u13(fmtRes_520093708, 0, day_p0);
+      F.line = 5;
+      fmtRes_520093708[0].push.apply(fmtRes_520093708[0], [32,45,32]);;
+      F.line = 5;
+      formatValue__advent_u13(fmtRes_520093708, 0, part_p1);
+    };
+    switch (toJSStr(fmtRes_520093708[0])) {
+    case "1 - 1":
+      F.line = 6;
+      result_520093703 = solvePart1__solutionsZday1_u314();
+      break BeforeRet;
+      break;
+    case "1 - 2":
+      F.line = 7;
+      result_520093703 = solvePart2__solutionsZday1_u608();
+      break BeforeRet;
+      break;
+    case "2 - 1":
+      F.line = 8;
+      result_520093703 = solvePart1__solutionsZday2_u452();
+      break BeforeRet;
+      break;
+    case "2 - 2":
+      F.line = 9;
+      result_520093703 = solvePart2__solutionsZday2_u552();
+      break BeforeRet;
+      break;
+    default: 
+      F.line = 10;
+      result_520093703 = (-1);
+      break BeforeRet;
+      break;
+    }
+  };
+  framePtr = F.prev;
+
+  return result_520093703;
+
+}
+var F = {procname: "module advent", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\advent.nim", line: 0};
 framePtr = F;
+F.line = 12;
+F.filename = "advent.nim";
+rawEcho(HEX24__systemZdollars_u8(solve(2, 2)));
 framePtr = F.prev;
-var F = {procname: "module advent", prev: framePtr, filename: "/home/alex/dev/nim/advent/advent.nim", line: 0};
+var F = {procname: "module advent", prev: framePtr, filename: "C:\\Users\\alexs\\dev\\nim\\advent2024\\advent.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
