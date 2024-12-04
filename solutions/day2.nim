@@ -1,9 +1,7 @@
 import strformat
 import strutils
 import regex
-import std/algorithm
 import std/sequtils
-import math
 
 func getInput(): string
 
